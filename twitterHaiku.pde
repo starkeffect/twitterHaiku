@@ -37,41 +37,17 @@ void setup()
   
   // Setting up a search query
   ArrayList<String> queryString = findTrendingTopic(twitter, location[0], location[1]);
-  Query query = new Query(queryString.get(0));
+  Query query = new Query();
   query.setCount(100); // Limiting number of results
-  query.setLang("en");
+  query.setLang("en"); // Limiting results to English
   
-  // Processing the query
-  try
+  for(String qstr: queryString)
   {
-    QueryResult result = twitter.search(query);
-    ArrayList tweets = (ArrayList)result.getTweets();
-    for(int i=0; i<tweets.size(); i++)
-    {
-      Status t = (Status)tweets.get(i);
-      String content = t.getText();
-      content = content.toLowerCase();
-      content = RiTa.stripPunctuation(content);
-      RiString tweet = new RiString(content);
-      
-      // Splitting the tweet into words and identifying parts of speech
-      String[] tokens = tweet.words();
-      String[] pos = tweet.pos();
-      
-      // Looping over tokens for textual analysis
-      for (int j = 0;  j < tokens.length; j++) 
-      {
-       //Put each word into the vocab ArrayList
-       //vocab.add(tokens[j]);
-       if(checkWord(tokens[j], pos[j]) == true) vocab.add(tokens[j]);
-      }
-    }
-    String[] haiku = generateHaiku(vocab);
+    query.setQuery(qstr);
+    processQuery(twitter, query);
   }
-  catch(TwitterException twEx)
-  {
-    println("Couldn't process the search query: " + twEx);
-  }
+  
+  String[] haiku = generateHaiku(vocab);
 }
 
 void draw()
@@ -82,9 +58,9 @@ void draw()
   rect(0, 0, width, height);
   popStyle();
   
-  for(int i=0; i<50; i++)
+  for(int i=0; i<10; i++)
   {
-    textSize(random(8, 15));
+    textSize(random(15, 25));
     text(vocab.get(int(random(vocab.size()))), random(width), random(height));
   }
   //noLoop();
@@ -128,6 +104,40 @@ ArrayList<String> findTrendingTopic(Twitter twitter, float latitude, float longi
     println("Couldn't process the location-based trend query: " + trLoc);
   }
   return trendingTopicNames;
+}
+
+void processQuery(Twitter twitter, Query query)
+{
+  // Processing the query
+  try
+  {
+    QueryResult result = twitter.search(query);
+    ArrayList tweets = (ArrayList)result.getTweets();
+    for(int i=0; i<tweets.size(); i++)
+    {
+      Status t = (Status)tweets.get(i);
+      String content = t.getText();
+      content = content.toLowerCase();
+      content = RiTa.stripPunctuation(content);
+      RiString tweet = new RiString(content);
+      
+      // Splitting the tweet into words and identifying parts of speech
+      String[] tokens = tweet.words();
+      String[] pos = tweet.pos();
+      
+      // Looping over tokens for textual analysis
+      for (int j = 0;  j < tokens.length; j++) 
+      {
+       //Put each word into the vocab ArrayList
+       //vocab.add(tokens[j]);
+       if(checkWord(tokens[j], pos[j]) == true) vocab.add(tokens[j]);
+      }
+    }
+  }
+  catch(TwitterException twEx)
+  {
+    println("Couldn't process the search query: " + twEx);
+  }
 }
 
 boolean checkWord(String word, String pos)
