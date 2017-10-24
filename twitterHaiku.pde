@@ -1,6 +1,5 @@
 import rita.*;
 import java.util.*;
-import java.net.InetAddress;
 
 ArrayList<String> vocab;
 Set<String> dict;
@@ -25,8 +24,6 @@ void setup()
   
   // Current location (need to automate this !!!)
   float[] location = getLocation();
-  float latitude = 35.997563;
-  float longitude = -78.922561;
   
   // Configuring the credentials
   ConfigurationBuilder cb = new ConfigurationBuilder();
@@ -39,7 +36,7 @@ void setup()
   Twitter twitter = new TwitterFactory(cb.build()).getInstance();
   
   // Setting up a search query
-  ArrayList<String> queryString = findTrendingTopic(twitter, latitude, longitude);
+  ArrayList<String> queryString = findTrendingTopic(twitter, location[0], location[1]);
   Query query = new Query(queryString.get(0));
   query.setCount(100); // Limiting number of results
   query.setLang("en");
@@ -91,6 +88,21 @@ void draw()
     text(vocab.get(int(random(vocab.size()))), random(width), random(height));
   }
   //noLoop();
+}
+
+float[] getLocation()
+{
+   float[] location = new float[2]; // [latitude, longitude]
+   
+   // Accessing location data
+   processing.data.JSONObject json;
+   json = loadJSONObject("http://ipinfo.io/json");
+   // Parsing location data
+   String loc = json.getString("loc");
+   location[0] = float(loc.split(",")[0]);
+   location[1] = float(loc.split(",")[1]);
+   
+   return location;
 }
 
 ArrayList<String> findTrendingTopic(Twitter twitter, float latitude, float longitude)
