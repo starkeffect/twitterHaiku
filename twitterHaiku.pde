@@ -63,7 +63,6 @@ void draw()
     textSize(random(15, 25));
     text(vocab.get(int(random(vocab.size()))), random(width), random(height));
   }
-  //noLoop();
 }
 
 float[] getLocation()
@@ -153,4 +152,9 @@ boolean checkWord(String word, String pos)
  
   // If made it through all the checks above, then the string "word" is indeed a word.
   return true; 
+}
+
+void updateVocab()
+{
+  
 }
