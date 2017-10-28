@@ -56,14 +56,30 @@ class markovChain
              // If not found in value, add the connected word
              if(found == 0) value.add(new augString(corpus.get(i-j), 1));
            }
+           mc.put(corpus.get(i), value);
         }
       }
       // Returning the constructed Markov Chain
       return mc;
    }
    
-   void writeMarkovToFile()
+   void writeMarkovToFile(String fileName)
    {
+     // Writes the Markov Chain for debugging purposes
+     PrintWriter outStream = createWriter(fileName);
+     
+     // Looping over the mc HashMap
+     for(Map.Entry entry : mc.entrySet())
+     {
+       outStream.print(entry.getKey() + "  <<  ");
+       for(augString s: mc.get(entry.getKey()))
+       {
+         outStream.print("[ " + s.word + ", " + s.freq + " ]" + "   ");
+       }
+       outStream.print("\n\n");
+     }
+     outStream.flush();
+     outStream.close();
    }   
 }
  

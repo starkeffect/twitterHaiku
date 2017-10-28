@@ -61,6 +61,7 @@ void setup()
   println("Markov Chain Initialized!");
   HashMap<String, ArrayList<augString>> markovHash = mc.buildMarkov();
   println("Markov Chain Built!");
+  mc.writeMarkovToFile("markov.txt");
   
   String[] haiku = generateHaiku(vocab);
 }
@@ -80,11 +81,11 @@ void draw()
   }
   
   println(frameCount);
-  if(frameCount == 1000)//if(millis() % (updateInterval * 60000) == 0) // If reached the update interval
+  if(frameCount == 100)//if(millis() % (updateInterval * 60000) == 0) // If reached the update interval
   {
     println("Updating Now!!");
     // Update the vocabulary: launching on a new thread
-    //thread("updateVocab(twitter, query, location)");
+    thread("updateVocab(twitter, query, location)");
     println("Vocabulary Updated");
   }
 }
