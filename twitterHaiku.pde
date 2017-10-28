@@ -2,7 +2,13 @@ import rita.*;
 import java.util.*;
 
 ArrayList<String> vocab;
+int vocabLimit;
 Set<String> dict;
+float updateInterval;
+Twitter twitter;
+Query query;
+float[] location;
+
 
 void setup()
 {
@@ -12,8 +18,14 @@ void setup()
   smooth(12);
   frameRate(12);
   
+  // Set update interval in minutes
+  updateInterval = 1;
+  
   // Data Strcuture for storing valid vocabulary
   vocab = new ArrayList<String>();
+  
+  // Setting the maximum vocabulary size
+  vocabLimit = 30000;
   
   // Constructing offline dictionary
   String[] dictWords = loadStrings("/usr/share/dict/web2");
@@ -33,19 +45,22 @@ void setup()
   cb.setOAuthAccessTokenSecret(split(creds[3], ':')[1]);
   
   // Building the twitter object using TwitterFactory
-  Twitter twitter = new TwitterFactory(cb.build()).getInstance();
+  twitter = new TwitterFactory(cb.build()).getInstance();
   
-  // Setting up a search query
-  ArrayList<String> queryString = findTrendingTopic(twitter, location[0], location[1]);
-  Query query = new Query();
+  // Setting up query requirements
+  query = new Query();
   query.setCount(100); // Limiting number of results
   query.setLang("en"); // Limiting results to English
   
-  for(String qstr: queryString)
-  {
-    query.setQuery(qstr);
-    processQuery(twitter, query);
-  }
+  // Update vocabulary with the set of queries
+  // Last argument is a flag: 0 - create, 1 - update
+  updateVocab(twitter, query, location);
+  
+  // Building a Markov Chain from the initial state vocabulary
+  markovChain mc = new markovChain(vocab, 2);
+  println("Markov Chain Initialized!");
+  HashMap<String, ArrayList<augString>> markovHash = mc.buildMarkov();
+  println("Markov Chain Built!");
   
   String[] haiku = generateHaiku(vocab);
 }
@@ -61,14 +76,22 @@ void draw()
   for(int i=0; i<10; i++)
   {
     textSize(random(15, 25));
-    text(vocab.get(int(random(vocab.size()))), random(width), random(height));
+    text(vocab.get(int(random(1, vocab.size()))), random(width), random(height));
+  }
+  
+  println(frameCount);
+  if(frameCount == 1000)//if(millis() % (updateInterval * 60000) == 0) // If reached the update interval
+  {
+    println("Updating Now!!");
+    // Update the vocabulary: launching on a new thread
+    //thread("updateVocab(twitter, query, location)");
+    println("Vocabulary Updated");
   }
 }
 
 float[] getLocation()
 {
-   float[] location = new float[2]; // [latitude, longitude]
-   
+   location = new float[2]; // [latitude, longitude]
    // Accessing location data
    processing.data.JSONObject json;
    json = loadJSONObject("http://ipinfo.io/json");
@@ -127,12 +150,17 @@ void processQuery(Twitter twitter, Query query)
       // Looping over tokens for textual analysis
       for (int j = 0;  j < tokens.length; j++) 
       {
-       //Put each word into the vocab ArrayList
-       //vocab.add(tokens[j]);
-       if(checkWord(tokens[j], pos[j]) == true) vocab.add(tokens[j]);
+         //Put each word into the vocab ArrayList
+         //vocab.add(tokens[j]);
+         if(checkWord(tokens[j], pos[j]) == true) 
+         {
+           // Over the limit - need to remove a part of the older vocabulary
+           if(vocab.size() > vocabLimit) vocab.remove(0); 
+           vocab.add(tokens[j]); 
+          }
+       }
       }
-    }
-  }
+   }
   catch(TwitterException twEx)
   {
     println("Couldn't process the search query: " + twEx);
@@ -154,7 +182,14 @@ boolean checkWord(String word, String pos)
   return true; 
 }
 
-void updateVocab()
+void updateVocab(Twitter twitter, Query query, float[] location)
 {
+  // Finding query strings corresponding to trending topics
+  ArrayList<String> queryString = findTrendingTopic(twitter, location[0], location[1]);
   
+  for(String qstr: queryString)
+  {
+    query.setQuery(qstr);
+    processQuery(twitter, query);
+  }
 }

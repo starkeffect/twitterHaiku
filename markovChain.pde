@@ -17,7 +17,7 @@ class markovChain
      order  = n;
    }
    
-   void buildMarkov()
+   HashMap<String, ArrayList<augString>> buildMarkov()
    {
       for(int i=order; i<corpus.size(); i++)
       {
@@ -35,7 +35,35 @@ class markovChain
           // Putting value into the mc Hashtable
           mc.put(corpus.get(i), value);
         }
+        else
+        {
+           // If word is already present, update the value in the hashmap
+           ArrayList<augString> value = mc.get(corpus.get(i));
+           for(int j=1; j<=order; j++)
+           {
+             // Take all the connected words to that entry and update their frequency values
+             int found = 0;
+             for(augString s: value)
+             {
+               if(s.word == corpus.get(i-j))
+               {
+                 // If found in value, update the frequency
+                 s.freq += 1;
+                 found = 1;
+                 break;
+               }
+             }
+             // If not found in value, add the connected word
+             if(found == 0) value.add(new augString(corpus.get(i-j), 1));
+           }
+        }
       }
+      // Returning the constructed Markov Chain
+      return mc;
    }
+   
+   void writeMarkovToFile()
+   {
+   }   
 }
  
