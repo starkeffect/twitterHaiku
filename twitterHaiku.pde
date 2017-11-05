@@ -9,7 +9,6 @@ Twitter twitter;
 Query query;
 float[] location;
 
-
 void setup()
 {
   size(800, 800);
@@ -19,13 +18,13 @@ void setup()
   frameRate(12);
   
   // Set update interval in minutes
-  updateInterval = 1;
+  updateInterval = 30;
   
   // Data Strcuture for storing valid vocabulary
   vocab = new ArrayList<String>();
   
   // Setting the maximum vocabulary size
-  vocabLimit = 30000;
+  vocabLimit = 10000;
   
   // Constructing offline dictionary
   String[] dictWords = loadStrings("/usr/share/dict/web2");
@@ -35,7 +34,7 @@ void setup()
   String[] creds = loadStrings("credentials.txt");
   
   // Current location (need to automate this !!!)
-  float[] location = getLocation();
+  getLocation();
   
   // Configuring the credentials
   ConfigurationBuilder cb = new ConfigurationBuilder();
@@ -54,16 +53,17 @@ void setup()
   
   // Update vocabulary with the set of queries
   // Last argument is a flag: 0 - create, 1 - update
-  updateVocab(twitter, query, location);
+  updateVocab();
   
   // Building a Markov Chain from the initial state vocabulary
-  markovChain mc = new markovChain(vocab, 2);
+  markovChain mc = new markovChain(vocab);
   println("Markov Chain Initialized!");
   HashMap<String, ArrayList<augString>> markovHash = mc.buildMarkov();
   println("Markov Chain Built!");
   mc.writeMarkovToFile("markov.txt");
-  
+    
   String[] haiku = generateHaiku(vocab);
+  
 }
 
 void draw()
@@ -74,20 +74,20 @@ void draw()
   rect(0, 0, width, height);
   popStyle();
   
-  for(int i=0; i<10; i++)
+  
+  for(int i=0; i<20; i++)
   {
     textSize(random(15, 25));
     text(vocab.get(int(random(1, vocab.size()))), random(width), random(height));
   }
   
-  println(frameCount);
-  if(frameCount == 100)//if(millis() % (updateInterval * 60000) == 0) // If reached the update interval
+  /*if(minute() % updateInterval == 0) // If reached the update interval
   {
     println("Updating Now!!");
     // Update the vocabulary: launching on a new thread
-    thread("updateVocab(twitter, query, location)");
+    thread("updateVocab");
     println("Vocabulary Updated");
-  }
+  }*/
 }
 
 float[] getLocation()
@@ -104,8 +104,9 @@ float[] getLocation()
    return location;
 }
 
-ArrayList<String> findTrendingTopic(Twitter twitter, float latitude, float longitude)
+ArrayList<String> findTrendingTopic()
 {
+  float latitude = location[0], longitude = location[1];
   ArrayList<String> trendingTopicNames = new ArrayList<String>();
   
   // Setting up the current location
@@ -129,7 +130,7 @@ ArrayList<String> findTrendingTopic(Twitter twitter, float latitude, float longi
   return trendingTopicNames;
 }
 
-void processQuery(Twitter twitter, Query query)
+void processQuery()
 {
   // Processing the query
   try
@@ -156,11 +157,12 @@ void processQuery(Twitter twitter, Query query)
          if(checkWord(tokens[j], pos[j]) == true) 
          {
            // Over the limit - need to remove a part of the older vocabulary
-           if(vocab.size() > vocabLimit) vocab.remove(0); 
+           if(vocab.size() > vocabLimit) reduceVocab(vocab.size() - vocabLimit, 10);
            vocab.add(tokens[j]); 
-          }
-       }
+         }
       }
+      vocab.add("-");
+     }
    }
   catch(TwitterException twEx)
   {
@@ -183,14 +185,36 @@ boolean checkWord(String word, String pos)
   return true; 
 }
 
-void updateVocab(Twitter twitter, Query query, float[] location)
+void updateVocab()
 {
   // Finding query strings corresponding to trending topics
-  ArrayList<String> queryString = findTrendingTopic(twitter, location[0], location[1]);
+  ArrayList<String> queryString = findTrendingTopic();
   
   for(String qstr: queryString)
   {
     query.setQuery(qstr);
-    processQuery(twitter, query);
+    processQuery();
   }
+}
+
+void reduceVocab(int overflow, int factor)
+{
+  // overflow: number of words above the vocab limit
+  // factor: the excess factor by which the overflow should be removed
+  int removeLimit = overflow * factor;
+  int removeCount = 0;
+  
+  // Remove words till the overflow limit 
+  while(removeCount <= removeLimit)
+  {
+    vocab.remove(0);
+    removeCount += 1;
+  }
+  
+  // Find the nearest end of tweet ("-") and remove till that point
+  while(vocab.get(0) != "-")
+  {
+    vocab.remove(0);
+  }
+  vocab.remove(0); // to remove the "-" itself
 }

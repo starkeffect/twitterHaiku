@@ -6,58 +6,60 @@ class markovChain
    // Corpus using which the MC is generated
    ArrayList<String> corpus;
    // Order of the MC
-   int order;
+   //int order;
    
    
    // Constructor
-   markovChain(ArrayList<String> c, int n)
+   markovChain(ArrayList<String> c)
    {
      mc = new HashMap<String, ArrayList<augString>>();
      corpus = c;
-     order  = n;
+     //order  = n;
    }
    
    HashMap<String, ArrayList<augString>> buildMarkov()
    {
-      for(int i=order; i<corpus.size(); i++)
+      // Iterating over all the words in the most recent corpus
+      for(int i=0; i<corpus.size()-1; i++)
       {
-        // Iterating over all the words in the most recent corpus
+        if(corpus.get(i) == "-") continue;
+        
+        // First occurence of the word; simply add it to the mc hashtable with frequency 1
         if(mc.get(corpus.get(i)) == null)
         {
-          // First occurence of the word
           ArrayList<augString> value = new ArrayList<augString>();
           // Appending the object [word, frequency = 1] to the value object
-          for(int j=1; j<=order; j++)
-          {
-            augString word = new augString(corpus.get(i-j), 1);
-            value.add(word);
-          }
+          augString word = new augString(corpus.get(i+1), 1);
+          value.add(word);
           // Putting value into the mc Hashtable
           mc.put(corpus.get(i), value);
         }
+        
+        // Word is already present; update the value in the hashmap
         else
         {
-           // If word is already present, update the value in the hashmap
+           // Get the currrent value
            ArrayList<augString> value = mc.get(corpus.get(i));
-           for(int j=1; j<=order; j++)
+           for(augString s: value) print(s.word + ", ");
+           // Add the connected word to the value
+           int found = 0;
+           for(int j=0; j<value.size(); j++)
            {
-             // Take all the connected words to that entry and update their frequency values
-             int found = 0;
-             for(augString s: value)
-             {
-               if(s.word == corpus.get(i-j))
-               {
-                 // If found in value, update the frequency
-                 s.freq += 1;
+              if(value.get(j).word.equals(corpus.get(i+1)) ==  true)
+              {
+                 // If found in "value", update the frequency
+                 //println("old word found!!");
+                 //println(value.get(j).word + "  " + corpus.get(i+1));
+                 value.get(j).freq += 1;
                  found = 1;
                  break;
-               }
-             }
-             // If not found in value, add the connected word
-             if(found == 0) value.add(new augString(corpus.get(i-j), 1));
-           }
+              }
+            }
+           // If not found in value, add the connected word
+           if(found == 0) value.add(new augString(corpus.get(i+1), 1));
+           // Replacing the entry in the Markov Chain "mc"
            mc.put(corpus.get(i), value);
-        }
+         }
       }
       // Returning the constructed Markov Chain
       return mc;
@@ -71,7 +73,7 @@ class markovChain
      // Looping over the mc HashMap
      for(Map.Entry entry : mc.entrySet())
      {
-       outStream.print(entry.getKey() + "  <<  ");
+       outStream.print(entry.getKey() + "  >>  ");
        for(augString s: mc.get(entry.getKey()))
        {
          outStream.print("[ " + s.word + ", " + s.freq + " ]" + "   ");
