@@ -8,6 +8,7 @@ float updateInterval;
 Twitter twitter;
 Query query;
 float[] location;
+markovChain mc;
 
 void setup()
 {
@@ -56,17 +57,19 @@ void setup()
   updateVocab();
   
   // Building a Markov Chain from the initial state vocabulary
-  markovChain mc = new markovChain(vocab);
+  mc = new markovChain(vocab);
   println("Markov Chain Initialized!");
   HashMap<String, ArrayList<augString>> markovHash = mc.buildMarkov();
   println("Markov Chain Built!");
   mc.writeMarkovToFile("markov.txt");
   // Getting a random next word
-  String s = mc.getNext("i");
-  println(s);
+  //String s = mc.getNext("i");
+  //println(s);
   
     
-  String[] haiku = generateHaiku(vocab);
+  String[] haiku = generateHaiku(mc, "the");
+  if(haiku == null) println("Seed not found in the Markov Chain! Use another seed.");
+  else printArray(haiku);
   
 }
 
@@ -78,12 +81,25 @@ void draw()
   rect(0, 0, width, height);
   popStyle();
   
+  String start = "the";
+  String text = start + " ";
+  for(int i=0; i<15; i++)
+  {
+    String next = mc.getNext(start, 0);
+    if(next.equals("-") == false) text = text + next + " ";
+    else break;
+    start = next;
+  }
   
-  for(int i=0; i<20; i++)
+  text(text, width/8, random(height));
+  
+  //if(frameCount == 10) noLoop();
+  
+  /*for(int i=0; i<20; i++)
   {
     textSize(random(15, 25));
     text(vocab.get(int(random(1, vocab.size()))), random(width), random(height));
-  }
+  }*/
   
   /*if(minute() % updateInterval == 0) // If reached the update interval
   {

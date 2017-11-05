@@ -60,7 +60,8 @@ class markovChain
       return mc;
    }
    
-   String getNext(String word)
+   // mode 0: random; mode 1: most frequent
+   String getNext(String word, int mode)
    {
      String nextWord;
      if(mc.get(word) == null) nextWord = "-"; // Entry not found in the Markov Chain
@@ -68,12 +69,17 @@ class markovChain
      {
         ArrayList<augString> value = mc.get(word);
         augString next = new augString(" ", 0);
-        // Finding the highest frequency (most probable) follower
-        for(augString s: value)
+        
+        if(mode == 0) nextWord = value.get(int(random(0, value.size() - 1))).word;
+        else
         {
-          if(s.freq > next.freq && s.word.equals("-") == false) next = s;
+          // Finding the highest frequency (most probable) follower
+          for(augString s: value)
+          {
+            if(s.freq > next.freq && s.word.equals("-") == false) next = s;
+          }
+          nextWord = next.word;
         }
-        nextWord = next.word;
      }
      return nextWord;
    }
