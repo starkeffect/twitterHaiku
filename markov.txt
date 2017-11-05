@@ -1,3128 +1,2196 @@
-half  >>  [ -, 3.0 ]   [ time, 1.0 ]   [ the, 3.0 ]   
+hurries  >>  [ is, 1.0 ]   
 
-hall  >>  [ -, 1.0 ]   
+half  >>  [ at, 2.0 ]   [ -, 55.0 ]   [ is, 1.0 ]   [ with, 2.0 ]   [ rush, 1.0 ]   
 
-your  >>  [ network, 1.0 ]   [ trust, 1.0 ]   [ sound, 2.0 ]   [ ass, 1.0 ]   [ not, 1.0 ]   [ riches, 1.0 ]   [ mouth, 1.0 ]   [ body, 1.0 ]   [ life, 1.0 ]   [ hand, 11.0 ]   [ love, 30.0 ]   [ cover, 2.0 ]   [ have, 1.0 ]   [ judging, 1.0 ]   [ picture, 1.0 ]   [ car, 1.0 ]   [ makeup, 1.0 ]   [ heart, 4.0 ]   [ risky, 2.0 ]   [ fault, 3.0 ]   [ husband, 3.0 ]   [ -, 1.0 ]   [ day, 1.0 ]   [ art, 1.0 ]   
+year  >>  [ now, 1.0 ]   [ but, 2.0 ]   [ mack, 1.0 ]   [ lets, 1.0 ]   [ has, 1.0 ]   
 
-pollution  >>  [ -, 1.0 ]   
+leading  >>  [ still, 1.0 ]   
 
-without  >>  [ the, 3.0 ]   [ submerged, 1.0 ]   [ slimy, 2.0 ]   [ a, 2.0 ]   
+awful  >>  [ as, 1.0 ]   
 
-guards  >>  [ -, 1.0 ]   
+your  >>  [ new, 5.0 ]   [ now, 1.0 ]   [ heart, 1.0 ]   [ family, 1.0 ]   
 
-begins  >>  [ with, 1.0 ]   
+yeah  >>  [ i, 2.0 ]   
 
-these  >>  [ -, 4.0 ]   [ without, 1.0 ]   [ dont, 1.0 ]   [ and, 1.0 ]   [ two, 1.0 ]   [ dogs, 1.0 ]   [ count, 1.0 ]   [ off, 1.0 ]   
+texas  >>  [ gunslinger, 1.0 ]   
 
-wreck  >>  [ am, 1.0 ]   [ off, 1.0 ]   
+pretend  >>  [ his, 3.0 ]   
 
-carcass  >>  [ out, 1.0 ]   
+via  >>  [ the, 2.0 ]   [ -, 4.0 ]   
 
-emma  >>  [ and, 3.0 ]   [ has, 2.0 ]   [ support, 1.0 ]   [ can, 3.0 ]   [ nick, 1.0 ]   [ nicks, 1.0 ]   
+these  >>  [ judges, 1.0 ]   [ will, 1.0 ]   
 
-would  >>  [ be, 4.0 ]   [ love, 4.0 ]   [ you, 2.0 ]   [ like, 3.0 ]   [ not, 2.0 ]   [ it, 1.0 ]   [ taste, 1.0 ]   [ come, 3.0 ]   [ lessen…, 1.0 ]   [ her, 2.0 ]   [ have, 4.0 ]   [ deny, 2.0 ]   [ know, 2.0 ]   [ she, 1.0 ]   
+score  >>  [ it, 1.0 ]   [ wasnt, 1.0 ]   [ ridiculous, 1.0 ]   [ was, 1.0 ]   [ boxing, 1.0 ]   [ won, 1.0 ]   
 
-pick  >>  [ by, 4.0 ]   [ wasnt, 1.0 ]   
+drunk  >>  [ me, 1.0 ]   
 
-framed  >>  [ in, 1.0 ]   
+music  >>  [ the, 1.0 ]   
 
-ten  >>  [ senior, 1.0 ]   
+–  >>  [ air, 2.0 ]   
 
-youd  >>  [ scream, 1.0 ]   
+quote  >>  [ -, 1.0 ]   
 
-…  >>  [ -, 2.0 ]   
+protected  >>  [ by, 1.0 ]   
 
-coup  >>  [ in, 1.0 ]   
+would  >>  [ beat, 1.0 ]   [ concern, 1.0 ]   [ be, 1.0 ]   [ pay, 4.0 ]   [ think, 1.0 ]   [ drag, 1.0 ]   
 
-investment  >>  [ -, 1.0 ]   
+saves  >>  [ as, 1.0 ]   
 
-neutral  >>  [ site, 1.0 ]   [ and, 1.0 ]   
+pick  >>  [ sam, 2.0 ]   
 
-yourselves  >>  [ a, 1.0 ]   
+unanimous  >>  [ decision, 2.0 ]   
 
-lion  >>  [ roaring, 1.0 ]   
+warns  >>  [ would, 1.0 ]   
 
-apparent  >>  [ move, 1.0 ]   
+because  >>  [ is, 4.0 ]   [ why, 5.0 ]   [ i, 2.0 ]   [ of, 1.0 ]   
 
-thug  >>  [ on, 1.0 ]   
+near  >>  [ the, 2.0 ]   
 
-left  >>  [ in, 1.0 ]   [ at, 1.0 ]   [ the, 1.0 ]   [ her, 2.0 ]   [ a, 1.0 ]   [ to, 1.0 ]   
+ten  >>  [ -, 1.0 ]   
 
-much  >>  [ too, 2.0 ]   [ to, 4.0 ]   [ -, 3.0 ]   [ law, 2.0 ]   [ much, 1.0 ]   [ rather, 1.0 ]   [ worse, 1.0 ]   
+moving  >>  [ the, 1.0 ]   
 
-wine  >>  [ up, 1.0 ]   [ with, 1.0 ]   [ -, 1.0 ]   
+invented  >>  [ arrested, 1.0 ]   
 
-hang  >>  [ on, 1.0 ]   
+energy  >>  [ -, 1.0 ]   
 
-role  >>  [ so, 1.0 ]   
+wins  >>  [ the, 2.0 ]   [ junior, 1.0 ]   
 
-independent  >>  [ testing, 2.0 ]   
+excellent  >>  [ boxing, 2.0 ]   
 
-hosting  >>  [ until, 1.0 ]   
+meanwhile  >>  [ is, 2.0 ]   
 
-anybody  >>  [ he, 1.0 ]   
+…  >>  [ -, 6.0 ]   
 
-ahead  >>  [ of, 1.0 ]   
+baker  >>  [ ⒎, 3.0 ]   
 
-yellow  >>  [ snow, 1.0 ]   
+apparent  >>  [ injury, 1.0 ]   
+
+journalism  >>  [ is, 1.0 ]   
+
+stop  >>  [ coming, 1.0 ]   [ acting, 1.0 ]   [ him, 1.0 ]   
+
+left  >>  [ in, 1.0 ]   [ knee, 1.0 ]   [ hamstring, 1.0 ]   [ leg, 1.0 ]   [ the, 1.0 ]   [ -, 5.0 ]   
+
+returns  >>  [ to, 4.0 ]   
+
+much  >>  [ in, 1.0 ]   [ the, 2.0 ]   [ as, 2.0 ]   [ money, 1.0 ]   [ needed, 1.0 ]   
+
+appropriate  >>  [ score, 1.0 ]   
+
+arrives  >>  [ -, 11.0 ]   [ …, 2.0 ]   [ in, 2.0 ]   [ at, 1.0 ]   
+
+erases  >>  [ a, 1.0 ]   
+
+boston  >>  [ posted, 1.0 ]   [ a, 3.0 ]   [ winning, 1.0 ]   
+
+southern  >>  [ miss, 3.0 ]   
+
+flight  >>  [ jacket, 7.0 ]   
+
+turf  >>  [ grabbing, 1.0 ]   
+
+anybody  >>  [ checked, 1.0 ]   
+
+least  >>  [ closer, 1.0 ]   [ -, 3.0 ]   [ times, 3.0 ]   
+
+wouldnt  >>  [ be, 1.0 ]   
 
 turn  >>  [ into, 1.0 ]   
 
-talking  >>  [ -, 1.0 ]   
+immediately  >>  [ -, 1.0 ]   
 
-bugs  >>  [ bite, 1.0 ]   
+talking  >>  [ to, 1.0 ]   [ about, 1.0 ]   
 
-same  >>  [ day, 2.0 ]   [ in, 1.0 ]   [ thing, 3.0 ]   [ name, 1.0 ]   
+alleged  >>  [ assault, 5.0 ]   
 
-resuscitation  >>  [ lame, 1.0 ]   
+robbed  >>  [ real, 1.0 ]   
 
-after  >>  [ -, 1.0 ]   [ week, 1.0 ]   [ that, 2.0 ]   [ the, 1.0 ]   [ it, 1.0 ]   
+dollar  >>  [ for, 1.0 ]   
 
-underused  >>  [ hallmark, 1.0 ]   
+posted  >>  [ his, 1.0 ]   
 
-hand  >>  [ if, 11.0 ]   [ -, 1.0 ]   [ like, 1.0 ]   [ hitting, 1.0 ]   
+midway  >>  [ through, 1.0 ]   
 
-pervert  >>  [ -, 1.0 ]   
+arrived  >>  [ air, 16.0 ]   
 
-lessen…  >>  [ -, 1.0 ]   
+same  >>  [ day, 1.0 ]   
 
-a  >>  [ prince, 1.0 ]   [ -, 5.0 ]   [ missile, 1.0 ]   [ vocal, 1.0 ]   [ coup, 1.0 ]   [ night, 3.0 ]   [ free, 1.0 ]   [ pick, 4.0 ]   [ difference, 4.0 ]   [ week, 4.0 ]   [ lot, 3.0 ]   [ proud, 1.0 ]   [ fan, 1.0 ]   [ yard, 2.0 ]   [ case, 1.0 ]   [ neutral, 1.0 ]   [ shop, 2.0 ]   [ trap, 1.0 ]   [ close, 1.0 ]   [ defensive, 1.0 ]   [ and, 1.0 ]   [ double, 1.0 ]   [ bottle, 1.0 ]   [ glass, 3.0 ]   [ condom, 1.0 ]   [ basic, 2.0 ]   [ icecap, 1.0 ]   [ filtration, 1.0 ]   [ goddam, 1.0 ]   [ dream, 1.0 ]   [ whole, 1.0 ]   [ dear, 1.0 ]   [ great, 7.0 ]   [ couple, 3.0 ]   [ beautiful, 4.0 ]   [ crime, 1.0 ]   [ lucky, 1.0 ]   [ blast, 1.0 ]   [ good, 3.0 ]   [ giant, 3.0 ]   [ man, 1.0 ]   [ rip, 1.0 ]   [ terrific, 1.0 ]   [ can, 1.0 ]   [ feel, 2.0 ]   [ sexual, 1.0 ]   [ romantic, 1.0 ]   [ horror, 1.0 ]   [ woman, 1.0 ]   [ sudden, 1.0 ]   [ proper, 1.0 ]   [ kiss, 1.0 ]   [ mom, 3.0 ]   [ serious, 1.0 ]   [ wonderful, 1.0 ]   [ kid, 1.0 ]   [ professional, 1.0 ]   [ viable, 1.0 ]   [ powerful, 2.0 ]   [ love, 1.0 ]   [ career, 4.0 ]   [ lawyer, 6.0 ]   [ hobby, 3.0 ]   [ block, 1.0 ]   [ boss, 1.0 ]   [ premeditated, 1.0 ]   [ drink, 2.0 ]   [ plot, 1.0 ]   [ ball, 1.0 ]   [ grave, 1.0 ]   [ name, 1.0 ]   [ mechanic, 1.0 ]   [ noir, 1.0 ]   [ raw, 1.0 ]   [ movie, 1.0 ]   [ bad, 1.0 ]   [ gunshot, 1.0 ]   [ brick, 1.0 ]   [ greenhouse, 1.0 ]   [ blanket, 1.0 ]   [ bit, 1.0 ]   [ pay, 2.0 ]   [ cool, 1.0 ]   [ bomb, 1.0 ]   [ violent, 1.0 ]   [ dumb, 1.0 ]   [ trace, 1.0 ]   [ time, 1.0 ]   [ long, 1.0 ]   [ baseball, 1.0 ]   [ gentleman, 1.0 ]   [ senator, 1.0 ]   [ sweet, 1.0 ]   [ freaked, 1.0 ]   [ very, 2.0 ]   [ hand, 1.0 ]   [ desk, 1.0 ]   [ growl, 7.0 ]   [ bang, 1.0 ]   [ sneak, 1.0 ]   [ scary, 1.0 ]   [ lion, 1.0 ]   [ hell, 1.0 ]   [ break, 1.0 ]   [ much, 1.0 ]   [ roar, 1.0 ]   [ demonic, 1.0 ]   [ light, 1.0 ]   [ scream, 1.0 ]   [ prop, 1.0 ]   [ surge, 1.0 ]   [ lapped, 2.0 ]   [ wreck, 1.0 ]   [ battle, 1.0 ]   [ car, 1.0 ]   [ tight, 2.0 ]   [ restart, 2.0 ]   [ lawnmower, 1.0 ]   [ row, 1.0 ]   
+after  >>  [ scoring, 5.0 ]   [ a, 11.0 ]   [ the, 3.0 ]   [ he, 2.0 ]   [ going, 1.0 ]   [ injury, 1.0 ]   [ that, 1.0 ]   [ -, 17.0 ]   [ trip, 2.0 ]   [ one, 2.0 ]   [ after, 1.0 ]   [ slow, 1.0 ]   [ sen, 27.0 ]   [ rand, 2.0 ]   [ being, 2.0 ]   [ liberal, 1.0 ]   
 
-b  >>  [ safe, 1.0 ]   
+close  >>  [ personally, 1.0 ]   [ surprised, 1.0 ]   [ -, 1.0 ]   [ fight, 3.0 ]   [ win, 1.0 ]   [ i, 1.0 ]   [ but, 1.0 ]   
 
-c  >>  [ o, 1.0 ]   
+a  >>  [ win, 6.0 ]   [ controversial, 2.0 ]   [ unpopular, 1.0 ]   [ brutal, 1.0 ]   [ trending, 3.0 ]   [ close, 2.0 ]   [ tad, 2.0 ]   [ little, 1.0 ]   [ year, 1.0 ]   [ or, 1.0 ]   [ over, 1.0 ]   [ draw, 5.0 ]   [ bad, 1.0 ]   [ fight, 1.0 ]   [ go, 1.0 ]   [ margin, 1.0 ]   [ fool, 1.0 ]   [ lot, 4.0 ]   [ good, 9.0 ]   [ knee, 1.0 ]   [ big, 10.0 ]   [ player, 1.0 ]   [ part, 1.0 ]   [ grand, 6.0 ]   [ nice, 1.0 ]   [ better, 1.0 ]   [ will, 2.0 ]   [ touchdown, 1.0 ]   [ team, 1.0 ]   [ pretty, 3.0 ]   [ miracle, 1.0 ]   [ single, 1.0 ]   [ first, 1.0 ]   [ man, 1.0 ]   [ statement, 7.0 ]   [ long, 1.0 ]   [ family, 1.0 ]   [ great, 6.0 ]   [ head, 1.0 ]   [ flight, 7.0 ]   [ picture, 6.0 ]   [ i, 6.0 ]   [ bomber, 7.0 ]   [ message, 1.0 ]   [ gift, 1.0 ]   [ military, 1.0 ]   [ air, 1.0 ]   [ pat, 4.0 ]   [ carry, 2.0 ]   [ michigan, 1.0 ]   [ yard, 1.0 ]   [ chance, 1.0 ]   [ holding, 1.0 ]   [ sack, 1.0 ]   [ dollar, 1.0 ]   [ rich, 1.0 ]   [ difference, 1.0 ]   [ strong, 3.0 ]   [ hat, 1.0 ]   [ lackey, 1.0 ]   [ penalty, 4.0 ]   [ v, 1.0 ]   [ cheap, 1.0 ]   [ sniper, 1.0 ]   [ concept, 1.0 ]   [ joke, 3.0 ]   [ fan, 3.0 ]   [ regular, 1.0 ]   [ pair, 1.0 ]   [ row, 1.0 ]   [ tax, 1.0 ]   [ terrorist, 4.0 ]   [ -, 8.0 ]   [ registered, 5.0 ]   [ person, 1.0 ]   [ jerk, 1.0 ]   [ shoots, 3.0 ]   [ member, 2.0 ]   [ horrible, 1.0 ]   [ democrat, 1.0 ]   [ terror, 1.0 ]   [ baseball, 1.0 ]   [ neighbor, 1.0 ]   [ leftist, 1.0 ]   [ rib, 1.0 ]   
 
-salt  >>  [ -, 1.0 ]   
+michigan  >>  [ and, 3.0 ]   [ higdon, 4.0 ]   [ leads, 4.0 ]   [ already, 8.0 ]   [ starts, 2.0 ]   [ player, 1.0 ]   [ he, 2.0 ]   [ offense, 1.0 ]   [ football, 1.0 ]   [ up, 1.0 ]   [ with, 2.0 ]   
 
-d  >>  [ watch, 1.0 ]   
+anesthesiologist  >>  [ and, 1.0 ]   
 
-e  >>  [ kiwi, 3.0 ]   [ s, 1.0 ]   [ gets, 2.0 ]   [ and, 1.0 ]   [ -, 1.0 ]   [ goes, 1.0 ]   
+spiral  >>  [ hopefully, 1.0 ]   
 
-f  >>  [ is, 1.0 ]   [ that, 1.0 ]   
+defends  >>  [ our, 1.0 ]   
 
-crocheting  >>  [ see, 1.0 ]   
+i  >>  [ expected, 1.0 ]   [ can, 6.0 ]   [ had, 6.0 ]   [ could, 2.0 ]   [ said, 2.0 ]   [ agree, 1.0 ]   [ dont, 3.0 ]   [ thought, 1.0 ]   [ lived, 1.0 ]   [ think, 9.0 ]   [ cant, 1.0 ]   [ hope, 1.0 ]   [ need, 1.0 ]   [ love, 12.0 ]   [ wonder, 1.0 ]   [ want, 1.0 ]   [ am, 1.0 ]   [ for, 1.0 ]   [ knew, 1.0 ]   [ seen, 1.0 ]   [ put, 7.0 ]   [ like, 7.0 ]   [ saw, 1.0 ]   [ would, 5.0 ]   [ know, 2.0 ]   [ hate, 3.0 ]   [ will, 2.0 ]   
 
-i  >>  [ found, 1.0 ]   [ took, 2.0 ]   [ glad, 1.0 ]   [ reach, 1.0 ]   [ could, 1.0 ]   [ like, 3.0 ]   [ love, 8.0 ]   [ am, 5.0 ]   [ request, 11.0 ]   [ really, 1.0 ]   [ say, 2.0 ]   [ ask, 1.0 ]   [ will, 1.0 ]   [ fell, 1.0 ]   [ covered, 1.0 ]   [ was, 6.0 ]   [ have, 1.0 ]   [ said, 2.0 ]   [ knew, 10.0 ]   [ dont, 4.0 ]   [ bet, 2.0 ]   [ literally, 1.0 ]   [ didnt, 3.0 ]   [ not, 1.0 ]   [ need, 1.0 ]   [ did, 2.0 ]   [ cant, 3.0 ]   [ just, 4.0 ]   [ understand, 1.0 ]   [ honestly, 2.0 ]   [ guess, 2.0 ]   [ never, 1.0 ]   [ got, 1.0 ]   [ used, 1.0 ]   [ hear, 1.0 ]   [ want, 1.0 ]   [ wanna, 1.0 ]   [ know, 4.0 ]   [ still, 2.0 ]   [ would, 4.0 ]   [ wish, 1.0 ]   [ do, 1.0 ]   [ can, 4.0 ]   [ go, 1.0 ]   [ left, 1.0 ]   [ saw, 1.0 ]   [ been, 1.0 ]   [ miss, 1.0 ]   [ heard, 2.0 ]   [ went, 1.0 ]   [ the, 1.0 ]   [ pointed, 1.0 ]   [ be, 1.0 ]   [ thought, 3.0 ]   [ run, 2.0 ]   [ had, 1.0 ]   [ ran, 1.0 ]   [ actually, 1.0 ]   [ right, 1.0 ]   [ think, 1.0 ]   
+blood  >>  [ continues, 1.0 ]   
 
-j  >>  [ e, 1.0 ]   
+neighbor  >>  [ wouldnt, 1.0 ]   [ assaulting, 1.0 ]   [ arrested, 26.0 ]   [ maybe, 1.0 ]   [ attacked, 1.0 ]   [ via, 2.0 ]   [ after, 1.0 ]   [ according, 1.0 ]   [ gets, 1.0 ]   [ -, 1.0 ]   [ bothered, 1.0 ]   [ because, 1.0 ]   
 
-tha  >>  [ -, 1.0 ]   
+o  >>  [ will, 1.0 ]   
 
-blood  >>  [ apparently, 1.0 ]   
+the  >>  [ welterweight, 2.0 ]   [ decision, 2.0 ]   [ tweet, 1.0 ]   [ most, 1.0 ]   [ trend, 1.0 ]   [ mention, 1.0 ]   [ score, 2.0 ]   [ all, 2.0 ]   [ -, 28.0 ]   [ distance, 1.0 ]   [ fight, 3.0 ]   [ new, 3.0 ]   [ for, 3.0 ]   [ give, 1.0 ]   [ actual, 1.0 ]   [ champ, 1.0 ]   [ world, 2.0 ]   [ worst, 2.0 ]   [ judging, 2.0 ]   [ scoring, 1.0 ]   [ w, 1.0 ]   [ ring, 1.0 ]   [ killer, 2.0 ]   [ push, 2.0 ]   [ vacant, 1.0 ]   [ belt, 1.0 ]   [ land, 1.0 ]   [ first, 57.0 ]   [ round, 1.0 ]   [ last, 6.0 ]   [ injury, 4.0 ]   [ locker, 14.0 ]   [ medical, 5.0 ]   [ got, 1.0 ]   [ turf, 1.0 ]   [ back, 2.0 ]   [ field, 6.0 ]   [ sky, 3.0 ]   [ year, 3.0 ]   [ ground, 2.0 ]   [ game, 20.0 ]   [ reaction, 2.0 ]   [ thrill, 3.0 ]   [ quarter, 1.0 ]   [ season, 7.0 ]   [ native, 1.0 ]   [ rest, 4.0 ]   [ ball, 1.0 ]   [ greatest, 1.0 ]   [ playbook, 1.0 ]   [ next, 1.0 ]   [ kinda, 1.0 ]   [ o, 1.0 ]   [ time, 2.0 ]   [ sun, 1.0 ]   [ mind, 10.0 ]   [ sideline, 2.0 ]   [ play, 2.0 ]   [ no, 2.0 ]   [ tent, 2.0 ]   [ guy, 3.0 ]   [ taint, 3.0 ]   [ future, 1.0 ]   [ best, 1.0 ]   [ before, 1.0 ]   [ courage, 8.0 ]   [ foundation, 1.0 ]   [ air, 2.0 ]   [ hour, 1.0 ]   [ just, 2.0 ]   [ brave, 1.0 ]   [ military, 1.0 ]   [ us, 1.0 ]   [ mark, 51.0 ]   [ second, 3.0 ]   [ higdon, 2.0 ]   [ house, 4.0 ]   [ tweeter, 1.0 ]   [ carry, 1.0 ]   [ third, 2.0 ]   [ longest, 2.0 ]   [ highlight, 1.0 ]   [ fox, 3.0 ]   [ never, 3.0 ]   [ edge, 4.0 ]   [ corner, 3.0 ]   [ other, 5.0 ]   [ only, 1.0 ]   [ whole, 1.0 ]   [ as, 1.0 ]   [ difference, 1.0 ]   [ truth, 1.0 ]   [ drive, 1.0 ]   [ sack, 4.0 ]   [ great, 1.0 ]   [ watch, 3.0 ]   [ beat, 5.0 ]   [ night, 5.0 ]   [ but, 8.0 ]   [ official, 1.0 ]   [ of, 2.0 ]   [ and, 1.0 ]   [ board, 3.0 ]   [ magnitude, 1.0 ]   [ stink, 1.0 ]   [ press, 1.0 ]   [ same, 1.0 ]   [ hold, 1.0 ]   [ boston, 1.0 ]   [ win, 1.0 ]   [ that, 4.0 ]   [ attacker, 5.0 ]   [ left, 5.0 ]   [ atmosphere, 2.0 ]   [ latest, 1.0 ]   [ bowling, 2.0 ]   [ good, 1.0 ]   [ post, 1.0 ]   [ promised, 1.0 ]   [ city, 1.0 ]   [ dude, 1.0 ]   [ democrat, 1.0 ]   [ violent, 1.0 ]   [ to, 1.0 ]   [ mouth, 1.0 ]   
 
-o  >>  [ c, 1.0 ]   [ r, 1.0 ]   [ j, 1.0 ]   
+straight  >>  [ to, 13.0 ]   [ win, 11.0 ]   
 
-the  >>  [ man, 1.0 ]   [ son, 1.0 ]   [ day, 1.0 ]   [ richest, 1.0 ]   [ royal, 1.0 ]   [ crown, 4.0 ]   [ whole, 1.0 ]   [ arrest, 1.0 ]   [ prince, 1.0 ]   [ state, 26.0 ]   [ win, 3.0 ]   [ sting, 1.0 ]   [ game, 3.0 ]   [ score, 1.0 ]   [ browns, 1.0 ]   [ field, 2.0 ]   [ university, 2.0 ]   [ end, 5.0 ]   [ first, 6.0 ]   [ liberty, 2.0 ]   [ highlights, 2.0 ]   [ college, 1.0 ]   [ year, 2.0 ]   [ are, 3.0 ]   [ difference, 1.0 ]   [ super, 1.0 ]   [ -, 27.0 ]   [ many, 1.0 ]   [ dude, 2.0 ]   [ on, 1.0 ]   [ back, 1.0 ]   [ pod, 1.0 ]   [ quarter, 1.0 ]   [ half, 1.0 ]   [ of, 5.0 ]   [ new, 1.0 ]   [ amount, 1.0 ]   [ lets, 1.0 ]   [ night, 5.0 ]   [ second, 1.0 ]   [ ball, 1.0 ]   [ top, 10.0 ]   [ lead, 13.0 ]   [ pool, 1.0 ]   [ essence, 1.0 ]   [ stroke, 1.0 ]   [ red, 8.0 ]   [ yellow, 1.0 ]   [ human, 1.0 ]   [ manuscript, 1.0 ]   [ sewer, 1.0 ]   [ request, 9.0 ]   [ weekend, 3.0 ]   [ during, 1.0 ]   [ needs, 30.0 ]   [ queen, 30.0 ]   [ stage, 14.0 ]   [ ultimate, 1.0 ]   [ live, 2.0 ]   [ heat, 1.0 ]   [ show, 1.0 ]   [ question, 1.0 ]   [ at, 4.0 ]   [ number, 3.0 ]   [ world, 1.0 ]   [ very, 1.0 ]   [ beast, 2.0 ]   [ meantime, 1.0 ]   [ great, 1.0 ]   [ rest, 1.0 ]   [ feed, 2.0 ]   [ ground, 3.0 ]   [ penthouse, 1.0 ]   [ barbecue, 1.0 ]   [ movie, 6.0 ]   [ camera, 2.0 ]   [ heck, 1.0 ]   [ carcass, 1.0 ]   [ tunnel, 1.0 ]   [ egg, 1.0 ]   [ island, 1.0 ]   [ mantis, 2.0 ]   [ above, 1.0 ]   [ arctic, 1.0 ]   [ mood, 1.0 ]   [ plural, 1.0 ]   [ until, 1.0 ]   [ how, 1.0 ]   [ bed, 1.0 ]   [ matte, 1.0 ]   [ lens, 1.0 ]   [ woman, 1.0 ]   [ next, 1.0 ]   [ insect, 1.0 ]   [ early, 1.0 ]   [ cinematographer, 1.0 ]   [ festive, 1.0 ]   [ money, 8.0 ]   [ donation, 2.0 ]   [ heart, 3.0 ]   [ anonymous, 2.0 ]   [ big, 1.0 ]   [ cast, 4.0 ]   [ ice, 1.0 ]   [ mom, 4.0 ]   [ makes, 1.0 ]   [ donator, 3.0 ]   [ mama, 1.0 ]   [ i, 1.0 ]   [ competition, 1.0 ]   [ air, 1.0 ]   [ best, 4.0 ]   [ would, 3.0 ]   [ people, 3.0 ]   [ bar, 2.0 ]   [ female, 1.0 ]   [ hobby, 1.0 ]   [ child, 1.0 ]   [ wants, 1.0 ]   [ tweet, 3.0 ]   [ party, 1.0 ]   [ plot, 4.0 ]   [ car, 3.0 ]   [ seat, 1.0 ]   [ open, 1.0 ]   [ stomach, 3.0 ]   [ comic, 1.0 ]   [ times, 1.0 ]   [ comfy, 1.0 ]   [ plan, 1.0 ]   [ dad, 1.0 ]   [ this, 1.0 ]   [ inspiration, 1.0 ]   [ last, 1.0 ]   [ fall, 1.0 ]   [ and, 2.0 ]   [ staging, 1.0 ]   [ same, 4.0 ]   [ wheel, 1.0 ]   [ waitress, 2.0 ]   [ diner, 1.0 ]   [ book, 1.0 ]   [ only, 2.0 ]   [ police, 1.0 ]   [ follow, 1.0 ]   [ durst, 1.0 ]   [ dog, 5.0 ]   [ outcome, 2.0 ]   [ house, 3.0 ]   [ problem, 2.0 ]   [ jinx, 1.0 ]   [ director, 1.0 ]   [ dogs, 1.0 ]   [ bad, 1.0 ]   [ the, 1.0 ]   [ actual, 1.0 ]   [ trash, 1.0 ]   [ west, 3.0 ]   [ no, 2.0 ]   [ loud, 1.0 ]   [ was, 2.0 ]   [ spirit, 1.0 ]   [ team, 1.0 ]   [ white, 1.0 ]   [ noise, 1.0 ]   [ while, 1.0 ]   [ shadow, 2.0 ]   [ bottom, 1.0 ]   [ screen, 1.0 ]   [ latest, 1.0 ]   [ hell, 4.0 ]   [ paranormal, 1.0 ]   [ skeleton, 1.0 ]   [ icely, 1.0 ]   [ jam, 2.0 ]   [ family, 1.0 ]   [ black, 1.0 ]   [ peach, 1.0 ]   [ talking, 1.0 ]   [ cellar, 1.0 ]   [ custard, 1.0 ]   [ sun, 1.0 ]   [ notorious, 1.0 ]   [ pickled, 1.0 ]   [ stripes, 1.0 ]   [ jerky, 1.0 ]   [ preserve, 1.0 ]   [ sugar, 1.0 ]   [ minus, 1.0 ]   [ disco, 2.0 ]   [ miller, 1.0 ]   [ formaldehyde, 1.0 ]   [ stuffed, 1.0 ]   [ horse, 1.0 ]   [ streets, 1.0 ]   [ name, 1.0 ]   [ thrill, 1.0 ]   [ rear, 1.0 ]   [ radio, 1.0 ]   [ two, 2.0 ]   [ its, 2.0 ]   [ outside, 1.0 ]   [ after, 1.0 ]   [ you, 1.0 ]   [ by, 1.0 ]   [ process, 1.0 ]   [ bull, 3.0 ]   [ caution, 2.0 ]   [ fastest, 1.0 ]   [ race, 1.0 ]   [ position, 1.0 ]   [ lawn, 1.0 ]   [ e, 1.0 ]   [ grass, 2.0 ]   [ leader, 1.0 ]   [ apex, 1.0 ]   [ restart, 3.0 ]   [ out, 1.0 ]   [ off, 2.0 ]   [ third, 1.0 ]   [ wall, 1.0 ]   [ battle, 1.0 ]   
+weird  >>  [ right, 2.0 ]   
 
-straight  >>  [ during, 1.0 ]   
+ridiculous  >>  [ draw, 1.0 ]   [ -, 2.0 ]   [ tonight, 2.0 ]   
 
-r  >>  [ r, 1.0 ]   [ o, 1.0 ]   
+police  >>  [ have, 4.0 ]   [ sen, 1.0 ]   [ arrest, 1.0 ]   [ say, 1.0 ]   
 
-s  >>  [ performance, 11.0 ]   [ o, 1.0 ]   [ u, 1.0 ]   [ -, 1.0 ]   
+fast  >>  [ you, 1.0 ]   
 
-police  >>  [ -, 1.0 ]   
+t  >>  [ was, 1.0 ]   [ -, 1.0 ]   
 
-t  >>  [ shirt, 1.0 ]   [ -, 1.0 ]   
+blue  >>  [ -, 2.0 ]   
 
-blue  >>  [ worked, 1.0 ]   
+throw  >>  [ a, 1.0 ]   
 
-u  >>  [ lord, 1.0 ]   [ at, 1.0 ]   [ s, 1.0 ]   
+v  >>  [ good, 1.0 ]   [ game, 1.0 ]   
 
-v  >>  [ rush, 1.0 ]   
+w  >>  [ -, 1.0 ]   [ knee, 1.0 ]   
 
-w  >>  [ -, 1.0 ]   [ us, 5.0 ]   [ being, 1.0 ]   [ schizophrenia, 1.0 ]   [ she, 1.0 ]   
+exciting  >>  [ as, 1.0 ]   
 
-x  >>  [ -, 1.0 ]   
+thank  >>  [ bud, 1.0 ]   
 
-thank  >>  [ u, 1.0 ]   [ you, 20.0 ]   
+obvious  >>  [ pain, 2.0 ]   [ holding, 2.0 ]   
 
-fifth  >>  [ harmony, 4.0 ]   
+tho  >>  [ -, 1.0 ]   
 
-y  >>  [ -, 1.0 ]   
+returned  >>  [ to, 1.0 ]   
 
-z  >>  [ -, 1.0 ]   
+god  >>  [ please, 1.0 ]   [ thats, 1.0 ]   [ -, 3.0 ]   [ talal, 1.0 ]   
 
-god  >>  [ -, 1.0 ]   [ please, 1.0 ]   [ man, 1.0 ]   
+spit  >>  [ -, 1.0 ]   
 
-harmony  >>  [ on, 4.0 ]   
+liberal  >>  [ to, 1.0 ]   
 
-violent  >>  [ monster, 1.0 ]   
+violent  >>  [ the, 5.0 ]   [ -, 1.0 ]   
 
-reports  >>  [ that, 2.0 ]   
+mauls  >>  [ inside, 1.0 ]   
 
-chili  >>  [ pickled, 1.0 ]   [ peppers, 1.0 ]   
+jerk  >>  [ at, 1.0 ]   
 
-chill  >>  [ bag, 1.0 ]   [ collins, 1.0 ]   
+converting  >>  [ on, 1.0 ]   
 
-roaring  >>  [ -, 1.0 ]   
+gon  >>  [ happen, 1.0 ]   
 
-got  >>  [ me, 2.0 ]   [ totaled, 1.0 ]   [ good, 1.0 ]   [ an, 1.0 ]   [ nothing, 1.0 ]   [ -, 1.0 ]   [ a, 2.0 ]   [ to, 2.0 ]   [ turned, 1.0 ]   
+official  >>  [ over, 1.0 ]   
 
-good  >>  [ game, 1.0 ]   [ one, 2.0 ]   [ thing, 3.0 ]   [ car, 1.0 ]   [ luck, 1.0 ]   [ going, 1.0 ]   [ food, 1.0 ]   [ lawyer, 2.0 ]   [ for, 3.0 ]   [ relationship, 1.0 ]   [ is, 1.0 ]   [ the, 1.0 ]   [ stage, 1.0 ]   [ -, 1.0 ]   [ dont, 1.0 ]   
+got  >>  [ the, 1.0 ]   [ robbed, 1.0 ]   [ injured, 1.0 ]   [ to, 1.0 ]   [ a, 1.0 ]   [ into, 1.0 ]   [ before, 1.0 ]   [ this, 1.0 ]   [ held, 2.0 ]   [ by, 4.0 ]   
 
-wish  >>  [ you, 1.0 ]   [ she, 1.0 ]   
+good  >>  [ enough, 1.0 ]   [ fight, 1.0 ]   [ sign, 2.0 ]   [ for, 3.0 ]   [ -, 6.0 ]   [ god, 1.0 ]   [ what, 1.0 ]   [ but, 1.0 ]   [ coach, 5.0 ]   [ doesnt, 5.0 ]   [ looking, 1.0 ]   [ start, 1.0 ]   [ people, 1.0 ]   
 
-skeleton  >>  [ was, 1.0 ]   
+red  >>  [ shirt, 1.0 ]   
 
-pad  >>  [ see, 1.0 ]   
+whats  >>  [ wrong, 1.0 ]   
 
-pac  >>  [ dot, 2.0 ]   
+post  >>  [ scores, 2.0 ]   [ all, 1.0 ]   
 
-serious  >>  [ what, 4.0 ]   [ note, 1.0 ]   [ business, 1.0 ]   [ not, 1.0 ]   
+suffered  >>  [ serious, 1.0 ]   [ minor, 1.0 ]   [ a, 1.0 ]   
 
-pal  >>  [ -, 1.0 ]   
+alliteration  >>  [ i, 2.0 ]   
 
-laugh  >>  [ with, 1.0 ]   
+serious  >>  [ knee, 1.0 ]   [ -, 2.0 ]   
 
-murder  >>  [ -, 1.0 ]   
+helped  >>  [ to, 1.0 ]   [ off, 8.0 ]   
 
-making  >>  [ a, 1.0 ]   [ dumb, 1.0 ]   
+delivering  >>  [ at, 1.0 ]   
 
-invitation  >>  [ -, 1.0 ]   
+murder  >>  [ republican, 1.0 ]   
 
-pay  >>  [ off, 1.0 ]   [ phone, 2.0 ]   
+pat  >>  [ -, 4.0 ]   
 
-check  >>  [ out, 3.0 ]   [ on, 1.0 ]   
+making  >>  [ me, 1.0 ]   
 
-nestle  >>  [ -, 2.0 ]   
+need  >>  [ a, 1.0 ]   [ him, 3.0 ]   [ to, 1.0 ]   [ via, 1.0 ]   
 
-list  >>  [ of, 2.0 ]   
+its  >>  [ mention, 1.0 ]   [ not, 1.0 ]   [ a, 1.0 ]   [ that, 1.0 ]   [ first, 1.0 ]   [ dangerous, 2.0 ]   [ no, 1.0 ]   [ and, 1.0 ]   [ -, 1.0 ]   
 
-gone  >>  [ into, 1.0 ]   [ take, 1.0 ]   [ back, 1.0 ]   [ without, 1.0 ]   
+pay  >>  [ the, 1.0 ]   [ to, 4.0 ]   
 
-walked  >>  [ right, 2.0 ]   
+check  >>  [ hes, 2.0 ]   [ in, 1.0 ]   
 
-authority  >>  [ to, 1.0 ]   
+unpopular  >>  [ decision, 1.0 ]   
 
-marmalady  >>  [ -, 1.0 ]   
+list  >>  [ boucher, 2.0 ]   
 
-preserving  >>  [ but, 1.0 ]   
+respect  >>  [ to, 2.0 ]   
 
-child  >>  [ who, 1.0 ]   
+onto  >>  [ key, 1.0 ]   
 
-young  >>  [ thug, 1.0 ]   
+gone  >>  [ anyways, 5.0 ]   [ through, 1.0 ]   
 
-provided  >>  [ craziness, 1.0 ]   
+rockthered  >>  [ -, 1.0 ]   [ tommy, 1.0 ]   
 
-disco  >>  [ -, 2.0 ]   
+wire  >>  [ post, 1.0 ]   
 
-lens  >>  [ cover, 1.0 ]   
+spending  >>  [ our, 1.0 ]   
 
-sculpt  >>  [ anything, 1.0 ]   
+supposed  >>  [ to, 1.0 ]   
 
-wisdom  >>  [ never, 1.0 ]   [ to, 1.0 ]   
+therefore  >>  [ keeping, 1.0 ]   
 
-nowhere  >>  [ -, 1.0 ]   
+united  >>  [ -, 2.0 ]   
 
-romantic  >>  [ ending, 1.0 ]   
+jets  >>  [ past, 2.0 ]   
 
-motivate  >>  [ army, 1.0 ]   
+welter  >>  [ title, 2.0 ]   
 
-root  >>  [ cellar, 1.0 ]   
+sorry  >>  [ drunk, 1.0 ]   
 
-hard  >>  [ to, 4.0 ]   [ -, 1.0 ]   
+scope  >>  [ for, 1.0 ]   
 
-live  >>  [ at, 23.0 ]   [ chat, 2.0 ]   [ on, 1.0 ]   [ now, 1.0 ]   
+end  >>  [ of, 2.0 ]   
 
-macrame  >>  [ craft, 1.0 ]   
+hard  >>  [ to, 1.0 ]   
 
-sexy  >>  [ -, 1.0 ]   
+live  >>  [ on, 1.0 ]   [ president, 15.0 ]   [ in, 1.0 ]   [ right, 1.0 ]   [ now, 1.0 ]   [ key, 1.0 ]   
 
-multiple  >>  [ of, 1.0 ]   
+assailant  >>  [ arrested, 1.0 ]   [ as, 3.0 ]   
 
-tweet  >>  [ of, 1.0 ]   [ this, 1.0 ]   [ w, 5.0 ]   [ live, 1.0 ]   [ drink, 3.0 ]   
+victory  >>  [ to, 1.0 ]   
 
-camilizersrules  >>  [ on, 1.0 ]   
+pour  >>  [ from, 1.0 ]   
 
-better  >>  [ -, 3.0 ]   
+rich  >>  [ man, 1.0 ]   
 
-with  >>  [ resignation, 1.0 ]   [ a, 2.0 ]   [ -, 39.0 ]   [ miss, 1.0 ]   [ the, 5.0 ]   [ first, 1.0 ]   [ rotting, 1.0 ]   [ open, 1.0 ]   [ us, 1.0 ]   [ that, 1.0 ]   [ trying, 1.0 ]   [ garlic, 1.0 ]   [ any, 1.0 ]   [ tonight, 1.0 ]   [ love, 1.0 ]   [ you, 3.0 ]   [ zero, 1.0 ]   [ valiant, 1.0 ]   [ him, 1.0 ]   [ this, 1.0 ]   [ her, 1.0 ]   [ your, 1.0 ]   [ my, 1.0 ]   [ no, 1.0 ]   [ to, 1.0 ]   
+attacker  >>  [ is, 4.0 ]   [ via, 1.0 ]   
 
-there  >>  [ ass, 1.0 ]   [ totally, 1.0 ]   [ is, 2.0 ]   [ please, 1.0 ]   [ twitter, 1.0 ]   [ and, 1.0 ]   [ -, 1.0 ]   [ daughter, 1.0 ]   [ only, 1.0 ]   [ are, 2.0 ]   [ be, 1.0 ]   [ to, 1.0 ]   [ so, 1.0 ]   [ was, 1.0 ]   [ said, 1.0 ]   [ back, 1.0 ]   [ clear, 1.0 ]   [ you, 1.0 ]   
+tweet  >>  [ with, 1.0 ]   
 
-coffee  >>  [ jokes, 1.0 ]   
+message  >>  [ of, 1.0 ]   
 
-lady  >>  [ bug, 1.0 ]   [ orange, 1.0 ]   
+room  >>  [ not, 3.0 ]   [ visibly, 6.0 ]   [ under, 2.0 ]   [ for, 1.0 ]   [ and, 1.0 ]   [ flung, 2.0 ]   
 
-analyst  >>  [ sounded, 1.0 ]   
+praise  >>  [ physicality, 3.0 ]   
 
-well  >>  [ in, 1.0 ]   [ today, 1.0 ]   [ -, 3.0 ]   [ attempt, 1.0 ]   [ didnt, 1.0 ]   [ played, 2.0 ]   [ passion, 1.0 ]   [ as, 1.0 ]   [ so, 1.0 ]   [ before, 1.0 ]   [ i, 1.0 ]   [ running, 1.0 ]   
+better  >>  [ than, 2.0 ]   [ -, 5.0 ]   [ you, 2.0 ]   
 
-creepy  >>  [ -, 1.0 ]   [ and, 1.0 ]   
+special  >>  [ -, 1.0 ]   
 
-taking  >>  [ off, 1.0 ]   [ the, 5.0 ]   [ this, 1.0 ]   [ picture, 1.0 ]   
+with  >>  [ the, 17.0 ]   [ a, 5.0 ]   [ another, 1.0 ]   [ it, 1.0 ]   [ assistance, 1.0 ]   [ left, 1.0 ]   [ apparent, 1.0 ]   [ an, 2.0 ]   [ original, 1.0 ]   [ will, 2.0 ]   [ injury, 3.0 ]   [ charlatan, 3.0 ]   [ him, 3.0 ]   [ on, 3.0 ]   [ higdon, 2.0 ]   [ of, 2.0 ]   [ his, 7.0 ]   [ they, 1.0 ]   [ -, 1.0 ]   
 
-romance  >>  [ love, 2.0 ]   
+taint  >>  [ -, 3.0 ]   
 
-terrifying  >>  [ -, 1.0 ]   
+truth  >>  [ -, 1.0 ]   
 
-entire  >>  [ wardrobe, 1.0 ]   
+service  >>  [ protecting, 1.0 ]   [ -, 1.0 ]   
 
-loved  >>  [ performance, 1.0 ]   
+there  >>  [ a, 5.0 ]   [ who, 2.0 ]   [ straight, 4.0 ]   [ and, 1.0 ]   
 
-ticked  >>  [ that, 1.0 ]   
+lady  >>  [ trump, 2.0 ]   [ arrive, 2.0 ]   [ participate, 1.0 ]   
 
-chills  >>  [ -, 2.0 ]   
+well  >>  [ conditioned, 1.0 ]   [ if, 1.0 ]   [ -, 2.0 ]   [ rand, 1.0 ]   
 
-premieres  >>  [ tonight, 1.0 ]   
+personnel  >>  [ at, 8.0 ]   [ on, 5.0 ]   
 
-block  >>  [ of, 1.0 ]   [ -, 1.0 ]   
+attacked  >>  [ at, 4.0 ]   [ him, 2.0 ]   [ rand, 2.0 ]   [ while, 2.0 ]   [ by, 2.0 ]   
 
-per  >>  [ movie, 1.0 ]   
+family  >>  [ hed, 1.0 ]   [ member, 1.0 ]   
 
-pet  >>  [ -, 1.0 ]   
+dude  >>  [ scored, 3.0 ]   [ attacks, 2.0 ]   [ who, 1.0 ]   
 
-period  >>  [ -, 1.0 ]   
+referred  >>  [ to, 1.0 ]   
 
-went  >>  [ back, 1.0 ]   [ insane, 1.0 ]   
+gift  >>  [ of, 1.0 ]   
 
-understand  >>  [ the, 2.0 ]   
+atmosphere  >>  [ of, 2.0 ]   
 
-alright  >>  [ now, 1.0 ]   [ the, 1.0 ]   
+smaller  >>  [ margin, 1.0 ]   
 
-ever  >>  [ comes, 1.0 ]   [ seen, 1.0 ]   [ heard, 1.0 ]   [ said, 2.0 ]   [ completely, 1.0 ]   [ been, 2.0 ]   
+career  >>  [ t, 1.0 ]   [ -, 2.0 ]   [ twogoal, 1.0 ]   
 
-loving  >>  [ this, 1.0 ]   [ and, 1.0 ]   
+offense  >>  [ but, 1.0 ]   [ so, 1.0 ]   [ at, 1.0 ]   
 
-bringing  >>  [ the, 1.0 ]   [ out, 1.0 ]   
+called  >>  [ higdon, 3.0 ]   [ on, 1.0 ]   
 
-even  >>  [ football, 1.0 ]   [ a, 1.0 ]   [ think, 2.0 ]   [ if, 1.0 ]   [ the, 1.0 ]   [ though, 3.0 ]   [ help, 1.0 ]   [ handle, 1.0 ]   
+told  >>  [ former, 1.0 ]   
 
-crazy  >>  [ -, 2.0 ]   [ cheating, 3.0 ]   [ well, 1.0 ]   
+release  >>  [ tight, 1.0 ]   
 
-demonic  >>  [ growl, 1.0 ]   
+averaging  >>  [ per, 2.0 ]   
 
-orders  >>  [ civil, 1.0 ]   
+rib  >>  [ injury, 1.0 ]   
 
-coach  >>  [ hope, 1.0 ]   
+pee  >>  [ wee, 1.0 ]   
 
-bull  >>  [ for, 3.0 ]   
+tried  >>  [ to, 1.0 ]   
 
-thats  >>  [ for, 1.0 ]   [ enough, 1.0 ]   [ sexual, 1.0 ]   [ what, 1.0 ]   [ all, 1.0 ]   [ a, 2.0 ]   [ settled, 1.0 ]   [ not, 2.0 ]   [ dumb, 1.0 ]   [ terrifying, 1.0 ]   [ the, 1.0 ]   
+odds  >>  [ for, 2.0 ]   
 
-gun  >>  [ runner, 1.0 ]   
+brave  >>  [ men, 1.0 ]   
 
-wait  >>  [ for, 11.0 ]   [ to, 1.0 ]   [ is, 1.0 ]   
+block  >>  [ key, 4.0 ]   
 
-woman  >>  [ to, 1.0 ]   [ right, 1.0 ]   
+hate  >>  [ everything, 1.0 ]   [ the, 1.0 ]   [ -, 1.0 ]   [ created, 2.0 ]   
 
-queen  >>  [ with, 30.0 ]   
+judge  >>  [ gave, 1.0 ]   [ with, 1.0 ]   
 
-save  >>  [ by, 1.0 ]   
+per  >>  [ carry, 2.0 ]   
 
-protection  >>  [ was, 1.0 ]   
+protecting  >>  [ our, 1.0 ]   
 
-top  >>  [ off, 1.0 ]   [ for, 7.0 ]   [ of, 1.0 ]   [ -, 2.0 ]   
+shape  >>  [ …, 2.0 ]   [ a, 1.0 ]   
 
-too  >>  [ valuable, 2.0 ]   [ much, 6.0 ]   [ -, 3.0 ]   [ serrated, 1.0 ]   [ foggy, 1.0 ]   [ heavy, 1.0 ]   [ literally, 1.0 ]   [ there, 1.0 ]   [ many, 1.0 ]   [ right, 1.0 ]   [ no, 1.0 ]   [ soon, 1.0 ]   
+tackled  >>  [ off, 1.0 ]   [ every, 1.0 ]   [ as, 3.0 ]   [ key, 1.0 ]   [ in, 1.0 ]   
 
-have  >>  [ gone, 1.0 ]   [ clean, 2.0 ]   [ oil, 1.0 ]   [ means, 1.0 ]   [ a, 6.0 ]   [ yourselves, 1.0 ]   [ your, 1.0 ]   [ you, 1.0 ]   [ to, 4.0 ]   [ -, 1.0 ]   [ thick, 1.0 ]   [ lots, 1.0 ]   [ blood, 1.0 ]   [ put, 1.0 ]   [ never, 1.0 ]   [ turned, 2.0 ]   [ run, 2.0 ]   [ peed, 1.0 ]   [ been, 1.0 ]   [ who, 1.0 ]   
+understand  >>  [ the, 1.0 ]   
 
-noise  >>  [ was, 1.0 ]   [ -, 1.0 ]   
+handle  >>  [ the, 1.0 ]   
 
-peed  >>  [ my, 1.0 ]   
+custody  >>  [ -, 1.0 ]   
 
-question  >>  [ i, 1.0 ]   [ a, 1.0 ]   
+tough  >>  [ tho, 1.0 ]   [ and, 2.0 ]   [ guy, 2.0 ]   
 
-gonna  >>  [ use, 1.0 ]   [ grab, 1.0 ]   [ shit, 1.0 ]   [ kill, 1.0 ]   [ die, 1.0 ]   
+alright  >>  [ -, 4.0 ]   
 
-lover  >>  [ anyone, 2.0 ]   
+ever  >>  [ -, 1.0 ]   [ had, 1.0 ]   
 
-bought  >>  [ another, 1.0 ]   
+even  >>  [ to, 2.0 ]   [ playing, 1.0 ]   [ bother, 2.0 ]   
 
-loves  >>  [ watching, 1.0 ]   
+spot  >>  [ leaves, 1.0 ]   [ watch, 1.0 ]   
 
-spirit  >>  [ box, 1.0 ]   
+crazy  >>  [ attacked, 1.0 ]   
 
-picture  >>  [ -, 1.0 ]   [ because, 1.0 ]   
+coach  >>  [ for, 1.0 ]   [ i, 5.0 ]   
 
-peek  >>  [ at, 1.0 ]   
+champion  >>  [ by, 1.0 ]   [ -, 1.0 ]   [ boxing, 1.0 ]   
 
-reminded  >>  [ of, 1.0 ]   
+thats  >>  [ all, 1.0 ]   [ matt, 1.0 ]   [ an, 3.0 ]   [ pretty, 1.0 ]   [ just, 1.0 ]   [ in, 1.0 ]   [ a, 8.0 ]   
 
-stressful  >>  [ -, 2.0 ]   
+hundred  >>  [ yard, 8.0 ]   
 
-rose  >>  [ -, 2.0 ]   
+wait  >>  [ for, 3.0 ]   
 
-tonight  >>  [ all, 1.0 ]   [ -, 9.0 ]   [ multiple, 1.0 ]   [ it, 1.0 ]   [ we, 1.0 ]   [ at, 2.0 ]   [ will, 1.0 ]   [ via, 6.0 ]   [ ready, 2.0 ]   [ hope, 1.0 ]   [ get, 1.0 ]   [ lifetime, 1.0 ]   
+other  >>  [ end, 2.0 ]   [ dude, 3.0 ]   [ than, 1.0 ]   
 
-capital  >>  [ -, 1.0 ]   
+city  >>  [ was, 1.0 ]   
 
-kudos  >>  [ to, 1.0 ]   
+against  >>  [ was, 3.0 ]   [ air, 2.0 ]   [ on, 2.0 ]   [ key, 1.0 ]   [ his, 1.0 ]   [ the, 1.0 ]   
 
-pitted  >>  [ too, 1.0 ]   
+guy  >>  [ for, 2.0 ]   [ the, 1.0 ]   [ that, 1.0 ]   [ -, 3.0 ]   
 
-almost  >>  [ never, 1.0 ]   [ bet, 2.0 ]   [ erase, 1.0 ]   [ -, 1.0 ]   [ sounded, 1.0 ]   [ got, 1.0 ]   
+air  >>  [ it, 1.0 ]   [ base, 98.0 ]   [ force, 18.0 ]   
 
-cop  >>  [ a, 1.0 ]   
+courage  >>  [ love, 8.0 ]   
 
-helluva  >>  [ save, 1.0 ]   
+crew  >>  [ baffled, 2.0 ]   
 
-fuel  >>  [ and, 1.0 ]   
+injured  >>  [ just, 1.0 ]   [ with, 1.0 ]   [ praying, 1.0 ]   [ i, 1.0 ]   [ again, 2.0 ]   
 
-lets  >>  [ you, 1.0 ]   [ go, 1.0 ]   [ finish, 1.0 ]   [ all, 8.0 ]   [ do, 1.0 ]   [ show, 1.0 ]   [ keep, 1.0 ]   [ take, 1.0 ]   [ climb, 1.0 ]   [ add, 2.0 ]   
+mason  >>  [ -, 2.0 ]   
 
-pie  >>  [ -, 1.0 ]   
+top  >>  [ talk, 1.0 ]   [ of, 1.0 ]   [ -, 2.0 ]   
 
-identical  >>  [ -, 1.0 ]   
+too  >>  [ thought, 1.0 ]   [ wide, 5.0 ]   [ boxing, 1.0 ]   [ much, 1.0 ]   
 
-raise  >>  [ your, 11.0 ]   
+native  >>  [ will, 1.0 ]   
 
-west  >>  [ coast, 3.0 ]   
+potato  >>  [ salad, 1.0 ]   
 
-lap  >>  [ in, 1.0 ]   [ green, 2.0 ]   [ two, 1.0 ]   [ -, 3.0 ]   [ is, 5.0 ]   [ restart, 2.0 ]   [ free, 1.0 ]   [ caution, 1.0 ]   [ passes, 2.0 ]   [ runs, 1.0 ]   [ currently, 1.0 ]   [ and, 1.0 ]   [ goes, 1.0 ]   [ new, 1.0 ]   [ dang, 1.0 ]   
+have  >>  [ seen, 1.0 ]   [ been, 7.0 ]   [ winning, 1.0 ]   [ out, 1.0 ]   [ to, 4.0 ]   [ ever, 1.0 ]   [ scored, 1.0 ]   [ won, 1.0 ]   [ arrested, 4.0 ]   [ kicked, 1.0 ]   
 
-sneak  >>  [ peek, 1.0 ]   
+kinda  >>  [ will, 1.0 ]   [ guy, 1.0 ]   
 
-actress  >>  [ -, 1.0 ]   
+speak  >>  [ to, 1.0 ]   [ a, 1.0 ]   
 
-including  >>  [ billionaire, 1.0 ]   
+violence  >>  [ how, 1.0 ]   [ today, 1.0 ]   
 
-heroin  >>  [ proof, 2.0 ]   
+product  >>  [ clear, 1.0 ]   
 
-law  >>  [ school, 3.0 ]   [ you, 1.0 ]   
+honestly  >>  [ didnt, 1.0 ]   [ -, 1.0 ]   
 
-formaldehyde  >>  [ stone, 1.0 ]   
+gonna  >>  [ boost, 2.0 ]   
 
-everyone  >>  [ should, 2.0 ]   [ here, 1.0 ]   [ if, 2.0 ]   [ -, 1.0 ]   [ have, 1.0 ]   [ to, 1.0 ]   
+worrying  >>  [ about, 1.0 ]   
 
-surge  >>  [ -, 1.0 ]   
+ross  >>  [ are, 1.0 ]   [ and, 2.0 ]   
 
-icecap  >>  [ -, 1.0 ]   
+cheap  >>  [ shot, 1.0 ]   
 
-tick  >>  [ tock, 1.0 ]   
+picture  >>  [ worth, 6.0 ]   
 
-less  >>  [ formal, 1.0 ]   
+walks  >>  [ past, 5.0 ]   
 
-army  >>  [ wanna, 1.0 ]   [ lets, 2.0 ]   [ attack, 1.0 ]   [ to, 1.0 ]   [ if, 1.0 ]   [ would, 1.0 ]   
+future  >>  [ -, 1.0 ]   [ in, 1.0 ]   
 
-senator  >>  [ did, 1.0 ]   
+altercation  >>  [ in, 1.0 ]   
 
-were  >>  [ screwed, 1.0 ]   [ too, 1.0 ]   [ so, 2.0 ]   [ now, 1.0 ]   [ -, 1.0 ]   [ back, 2.0 ]   
+shaw  >>  [ have, 1.0 ]   
 
-snow  >>  [ -, 1.0 ]   
+tide  >>  [ live, 1.0 ]   
 
-shining  >>  [ -, 1.0 ]   
+theyre  >>  [ looking, 1.0 ]   [ moving, 1.0 ]   
 
-naming  >>  [ them, 1.0 ]   
+tonight  >>  [ just, 1.0 ]   [ -, 12.0 ]   [ and, 7.0 ]   [ mack, 2.0 ]   [ than, 1.0 ]   [ if, 2.0 ]   [ erases, 1.0 ]   [ hurries, 1.0 ]   [ continues, 1.0 ]   [ in, 3.0 ]   [ we, 3.0 ]   [ has, 1.0 ]   [ but, 1.0 ]   [ thanks, 1.0 ]   
 
-rarely  >>  [ do, 1.0 ]   
+shed  >>  [ butch, 1.0 ]   
 
-basic  >>  [ human, 3.0 ]   
+shake  >>  [ up, 1.0 ]   
 
-lake  >>  [ thats, 1.0 ]   
+minor  >>  [ in, 5.0 ]   [ injury, 28.0 ]   [ and, 1.0 ]   
+
+almost  >>  [ cried, 1.0 ]   [ took, 2.0 ]   
+
+lets  >>  [ see, 1.0 ]   
+
+body  >>  [ language, 1.0 ]   
+
+upon  >>  [ arrival, 16.0 ]   
+
+pray  >>  [ for, 1.0 ]   
+
+wake  >>  [ up, 1.0 ]   
+
+earlier  >>  [ -, 1.0 ]   [ today, 1.0 ]   
+
+quite  >>  [ possibly, 2.0 ]   [ easily, 1.0 ]   [ the, 2.0 ]   
+
+nasty  >>  [ cut, 2.0 ]   
+
+all  >>  [ for, 2.0 ]   [ -, 2.0 ]   [ season, 1.0 ]   [ the, 2.0 ]   [ this, 3.0 ]   [ to, 1.0 ]   
+
+new  >>  [ world, 5.0 ]   [ junior, 1.0 ]   [ lightweight, 2.0 ]   [ will, 1.0 ]   [ york, 1.0 ]   
+
+took  >>  [ his, 1.0 ]   [ this, 2.0 ]   
+
+terror  >>  [ its, 1.0 ]   
+
+charlatan  >>  [ for, 3.0 ]   
+
+read  >>  [ option, 1.0 ]   
+
+already  >>  [ coming, 4.0 ]   [ have, 1.0 ]   [ showed, 1.0 ]   [ has, 8.0 ]   [ with, 2.0 ]   
+
+real  >>  [ nice, 1.0 ]   [ deal, 1.0 ]   
+
+linebacker  >>  [ is, 1.0 ]   
+
+senator  >>  [ rand, 8.0 ]   [ after, 1.0 ]   
+
+boucher  >>  [ man, 2.0 ]   [ anesthesiologist, 1.0 ]   [ a, 3.0 ]   [ fast, 1.0 ]   
+
+were  >>  [ accurate, 1.0 ]   [ fair, 1.0 ]   [ looking, 6.0 ]   
+
+toasting  >>  [ -, 1.0 ]   
+
+arms  >>  [ deal, 1.0 ]   
 
 became  >>  [ a, 1.0 ]   
 
-chicken  >>  [ -, 1.0 ]   
+assaulting  >>  [ sen, 1.0 ]   [ -, 1.0 ]   
 
-university  >>  [ -, 23.0 ]   [ get, 1.0 ]   [ of, 2.0 ]   
+progression  >>  [ if, 1.0 ]   
 
-times  >>  [ seen, 1.0 ]   
+weve  >>  [ learned, 1.0 ]   [ been, 1.0 ]   
 
-craze  >>  [ of, 1.0 ]   
+troop  >>  [ event, 1.0 ]   
 
-floor  >>  [ by, 2.0 ]   
+trick  >>  [ and, 1.0 ]   
 
-says  >>  [ i, 1.0 ]   
+around  >>  [ the, 1.0 ]   
 
-garlic  >>  [ and, 1.0 ]   
+lightweight  >>  [ champion, 2.0 ]   
 
-tied  >>  [ at, 2.0 ]   [ up, 1.0 ]   
+running  >>  [ back, 1.0 ]   
 
-bewilders  >>  [ me, 1.0 ]   
+times  >>  [ the, 3.0 ]   [ tonight, 1.0 ]   [ -, 1.0 ]   [ and, 1.0 ]   
 
-performing  >>  [ at, 1.0 ]   
+and  >>  [ in, 3.0 ]   [ both, 1.0 ]   [ didnt, 1.0 ]   [ the, 6.0 ]   [ his, 1.0 ]   [ on, 1.0 ]   [ unreal, 48.0 ]   [ -, 24.0 ]   [ got, 1.0 ]   [ is, 5.0 ]   [ mack, 2.0 ]   [ hurts, 6.0 ]   [ say, 1.0 ]   [ clearly, 1.0 ]   [ mother, 2.0 ]   [ draped, 1.0 ]   [ will, 1.0 ]   [ all, 1.0 ]   [ burn, 1.0 ]   [ talk, 1.0 ]   [ elite, 7.0 ]   [ jog, 1.0 ]   [ goes, 1.0 ]   [ ross, 1.0 ]   [ it, 2.0 ]   [ first, 2.0 ]   [ saying, 1.0 ]   [ just, 2.0 ]   [ sacrifice, 3.0 ]   [ eclipsed, 51.0 ]   [ at, 2.0 ]   [ consistent, 1.0 ]   [ higdon, 1.0 ]   [ over, 1.0 ]   [ playing, 2.0 ]   [ turned, 3.0 ]   [ key, 3.0 ]   [ white, 4.0 ]   [ sacked, 1.0 ]   [ not, 1.0 ]   [ beat, 12.0 ]   [ i, 1.0 ]   [ led, 7.0 ]   [ shaw, 1.0 ]   [ pain, 1.0 ]   [ gets, 2.0 ]   [ rand, 1.0 ]   
 
-opening  >>  [ will, 1.0 ]   
+touchdown  >>  [ pass, 1.0 ]   [ run, 2.0 ]   [ michigan, 4.0 ]   
 
-followed  >>  [ this, 1.0 ]   
+today  >>  [ one, 1.0 ]   [ -, 2.0 ]   [ at, 1.0 ]   
 
-wall  >>  [ is, 1.0 ]   
+land  >>  [ -, 1.0 ]   
 
-walk  >>  [ -, 2.0 ]   
+coincidence  >>  [ i, 1.0 ]   [ that, 1.0 ]   
 
-lame  >>  [ -, 1.0 ]   
+victim  >>  [ of, 1.0 ]   
 
-tub  >>  [ full, 3.0 ]   
+saying  >>  [ you, 1.0 ]   
 
-caught  >>  [ it, 1.0 ]   
+row  >>  [ against, 1.0 ]   
 
-marry  >>  [ him, 1.0 ]   
+says  >>  [ key, 1.0 ]   
 
-led  >>  [ by, 2.0 ]   
+ann  >>  [ arbor, 2.0 ]   
 
-leg  >>  [ -, 2.0 ]   
+burn  >>  [ his, 1.0 ]   
 
-beautiful  >>  [ legend, 4.0 ]   [ -, 2.0 ]   
+sucks  >>  [ -, 1.0 ]   
 
-worked  >>  [ the, 1.0 ]   
+contributing  >>  [ something, 1.0 ]   
 
-liberty  >>  [ to, 2.0 ]   
+kicked  >>  [ his, 1.0 ]   
 
-let  >>  [ it, 1.0 ]   [ men, 1.0 ]   [ a, 1.0 ]   [ the, 2.0 ]   [ her, 1.0 ]   
+cry  >>  [ these, 1.0 ]   [ after, 1.0 ]   
 
-state  >>  [ university, 24.0 ]   [ -, 1.0 ]   [ and, 1.0 ]   [ love, 1.0 ]   [ that, 1.0 ]   [ rand, 1.0 ]   [ making, 1.0 ]   [ defense, 1.0 ]   [ jersey, 1.0 ]   [ today, 1.0 ]   [ normal, 1.0 ]   
+any  >>  [ in, 3.0 ]   
 
-thinks  >>  [ he, 1.0 ]   
+burning  >>  [ her, 2.0 ]   [ will, 13.0 ]   
 
-element  >>  [ of, 1.0 ]   
+until  >>  [ it, 1.0 ]   [ scores, 1.0 ]   
 
-night  >>  [ massacre, 1.0 ]   [ for, 1.0 ]   [ of, 1.0 ]   [ see, 1.0 ]   [ enjoy, 1.0 ]   [ goodnight, 1.0 ]   [ all, 1.0 ]   [ -, 4.0 ]   [ got, 1.0 ]   [ right, 1.0 ]   
+walk  >>  [ to, 2.0 ]   
 
-want  >>  [ to, 3.0 ]   [ -, 1.0 ]   [ anything, 1.0 ]   [ more, 1.0 ]   
+quietly  >>  [ goes, 1.0 ]   
 
-forecast  >>  [ crocheting, 1.0 ]   
+summon  >>  [ the, 1.0 ]   
 
-piss  >>  [ is, 1.0 ]   
+caught  >>  [ up, 1.0 ]   
 
-each  >>  [ other, 1.0 ]   
+reason  >>  [ right, 1.0 ]   
 
-stonemason  >>  [ jar, 1.0 ]   
+thought  >>  [ something, 1.0 ]   [ edged, 2.0 ]   [ a, 1.0 ]   [ it, 1.0 ]   
 
-difference  >>  [ a, 4.0 ]   [ in, 1.0 ]   
+accurate  >>  [ but, 1.0 ]   
 
-thirty  >>  [ former, 1.0 ]   
+gotten  >>  [ held, 2.0 ]   
 
-cup  >>  [ stage, 1.0 ]   
+ring  >>  [ -, 1.0 ]   [ with, 1.0 ]   
 
-perfectly  >>  [ in, 2.0 ]   
+japan  >>  [ are, 5.0 ]   [ a, 6.0 ]   [ -, 11.0 ]   [ –, 2.0 ]   [ trump, 14.0 ]   [ pointing, 1.0 ]   [ us, 16.0 ]   [ on, 1.0 ]   [ at, 3.0 ]   [ for, 1.0 ]   
 
-pod  >>  [ you, 1.0 ]   
+led  >>  [ -, 2.0 ]   [ the, 7.0 ]   
 
-probably  >>  [ taking, 1.0 ]   
+anywhere  >>  [ from, 2.0 ]   
 
-killing  >>  [ these, 1.0 ]   
+concern  >>  [ is, 1.0 ]   
 
-hitting  >>  [ that, 4.0 ]   [ the, 3.0 ]   
+leg  >>  [ -, 1.0 ]   
 
-giving  >>  [ them, 1.0 ]   [ her, 1.0 ]   [ me, 4.0 ]   [ this, 2.0 ]   
+retraction  >>  [ earlier, 1.0 ]   
 
-two  >>  [ have, 1.0 ]   [ -, 4.0 ]   [ unusual, 1.0 ]   [ to, 1.0 ]   
+let  >>  [ will, 1.0 ]   [ be, 3.0 ]   [ look, 1.0 ]   
 
-moment  >>  [ you, 1.0 ]   [ between, 1.0 ]   
+state  >>  [ board, 2.0 ]   [ police, 3.0 ]   
 
-pop  >>  [ -, 1.0 ]   
+press  >>  [ -, 1.0 ]   
 
-found  >>  [ out, 1.0 ]   [ not, 1.0 ]   
+welcome  >>  [ our, 1.0 ]   [ to, 1.0 ]   
 
-excuse  >>  [ you, 3.0 ]   
+goodness  >>  [ i, 1.0 ]   
 
-defense  >>  [ against, 1.0 ]   [ -, 1.0 ]   
+shoots  >>  [ at, 3.0 ]   
 
-does  >>  [ not, 2.0 ]   [ every, 1.0 ]   
+margin  >>  [ -, 1.0 ]   [ i, 1.0 ]   
 
-attack  >>  [ please, 1.0 ]   
+expected  >>  [ more, 1.0 ]   [ to, 1.0 ]   
 
-divorce  >>  [ she, 1.0 ]   
+want  >>  [ it, 1.0 ]   [ will, 1.0 ]   [ to, 1.0 ]   
+
+pace  >>  [ for, 2.0 ]   
+
+night  >>  [ for, 1.0 ]   [ -, 5.0 ]   
+
+picks  >>  [ up, 1.0 ]   
+
+each  >>  [ tonight, 1.0 ]   
+
+himself  >>  [ for, 3.0 ]   
+
+wanted  >>  [ to, 1.0 ]   [ -, 1.0 ]   
+
+slow  >>  [ start, 1.0 ]   
+
+difference  >>  [ in, 1.0 ]   [ maker, 1.0 ]   
+
+polite  >>  [ for, 1.0 ]   
+
+redshirt  >>  [ -, 16.0 ]   [ in, 2.0 ]   [ is, 2.0 ]   [ was, 6.0 ]   [ because, 5.0 ]   [ then, 1.0 ]   
+
+cut  >>  [ on, 2.0 ]   [ -, 1.0 ]   
+
+maybe  >>  [ score, 1.0 ]   [ for, 2.0 ]   [ though, 1.0 ]   [ rand, 1.0 ]   
+
+probably  >>  [ the, 1.0 ]   [ bring, 1.0 ]   
+
+regrets  >>  [ this, 1.0 ]   
+
+another  >>  [ scorecard, 1.0 ]   [ from, 1.0 ]   [ one, 3.0 ]   
+
+giving  >>  [ it, 1.0 ]   [ their, 1.0 ]   
+
+two  >>  [ hundred, 8.0 ]   [ more, 3.0 ]   [ top, 1.0 ]   [ each, 1.0 ]   [ goal, 2.0 ]   
+
+pens  >>  [ twitter, 4.0 ]   
+
+rips  >>  [ butch, 12.0 ]   
+
+worth  >>  [ more, 6.0 ]   
+
+cried  >>  [ seeing, 1.0 ]   
+
+are  >>  [ deep, 1.0 ]   [ never, 1.0 ]   [ we, 1.0 ]   [ playing, 1.0 ]   [ those, 3.0 ]   [ i, 1.0 ]   [ -, 1.0 ]   [ gushing, 1.0 ]   [ built, 8.0 ]   [ the, 2.0 ]   [ ridiculous, 1.0 ]   [ having, 1.0 ]   [ undefeated, 1.0 ]   [ they, 1.0 ]   
+
+defense  >>  [ -, 5.0 ]   [ for, 2.0 ]   
+
+does  >>  [ -, 1.0 ]   [ i, 7.0 ]   [ not, 1.0 ]   
+
+taken  >>  [ into, 1.0 ]   
+
+came  >>  [ over, 1.0 ]   [ from, 2.0 ]   
+
+where  >>  [ he, 1.0 ]   
+
+takes  >>  [ belt, 1.0 ]   [ it, 4.0 ]   
+
+shout  >>  [ in, 1.0 ]   
 
 escape  >>  [ -, 1.0 ]   
 
-funny  >>  [ because, 1.0 ]   
+gives  >>  [ his, 1.0 ]   
 
-gives  >>  [ it, 1.0 ]   
+latest  >>  [ victim, 1.0 ]   
 
-latest  >>  [ investigation, 1.0 ]   
+forgettable  >>  [ night, 1.0 ]   
 
-think  >>  [ of, 1.0 ]   [ id, 1.0 ]   [ -, 2.0 ]   [ about, 1.0 ]   [ the, 2.0 ]   [ there, 1.0 ]   
+think  >>  [ it, 1.0 ]   [ those, 1.0 ]   [ that, 2.0 ]   [ takes, 1.0 ]   [ are, 3.0 ]   [ she, 3.0 ]   [ not, 1.0 ]   
 
-consolidate  >>  [ power, 1.0 ]   
+participate  >>  [ in, 1.0 ]   
 
-beating  >>  [ so, 1.0 ]   
+replaces  >>  [ him, 1.0 ]   
 
-anxiously  >>  [ awaiting, 2.0 ]   
+accused  >>  [ of, 1.0 ]   
 
-donating  >>  [ the, 1.0 ]   
+favors  >>  [ -, 1.0 ]   
 
-team  >>  [ ever, 1.0 ]   [ emma, 1.0 ]   [ could, 1.0 ]   
+team  >>  [ stop, 1.0 ]   [ captains, 1.0 ]   [ just, 3.0 ]   [ as, 1.0 ]   
 
-shove  >>  [ that, 1.0 ]   
+tour  >>  [ of, 2.0 ]   [ -, 1.0 ]   
 
-stuffed  >>  [ -, 1.0 ]   
+call  >>  [ my, 1.0 ]   [ holding, 3.0 ]   [ -, 2.0 ]   [ no, 1.0 ]   [ the, 1.0 ]   
 
-watch  >>  [ these, 2.0 ]   [ the, 3.0 ]   [ at, 1.0 ]   [ -, 3.0 ]   
+standing  >>  [ ten, 1.0 ]   
 
-quit  >>  [ my, 1.0 ]   
+shit  >>  [ -, 1.0 ]   
 
-thing  >>  [ -, 3.0 ]   [ he, 1.0 ]   [ well, 2.0 ]   [ but, 1.0 ]   [ about, 1.0 ]   [ and, 1.0 ]   [ held, 1.0 ]   
+speech  >>  [ to, 7.0 ]   [ at, 14.0 ]   [ on, 1.0 ]   
 
-insurance  >>  [ my, 1.0 ]   [ thought, 1.0 ]   
+watch  >>  [ president, 2.0 ]   [ live, 1.0 ]   [ higdon, 4.0 ]   [ key, 4.0 ]   [ what, 3.0 ]   
 
-had  >>  [ a, 3.0 ]   [ just, 1.0 ]   [ an, 1.0 ]   [ to, 1.0 ]   [ hope, 3.0 ]   
+trumps  >>  [ presented, 7.0 ]   
 
-anymore  >>  [ -, 2.0 ]   
+armed  >>  [ await, 1.0 ]   
 
-late  >>  [ to, 1.0 ]   
+arbor  >>  [ higdon, 2.0 ]   
 
-paying  >>  [ him, 1.0 ]   
+ask  >>  [ the, 1.0 ]   
 
-school  >>  [ squad, 1.0 ]   [ probably, 1.0 ]   [ cost, 2.0 ]   [ -, 1.0 ]   
+thing  >>  [ you, 1.0 ]   [ he, 3.0 ]   
 
-dogs  >>  [ and, 1.0 ]   [ as, 1.0 ]   
+through  >>  [ be, 1.0 ]   [ the, 1.0 ]   [ -, 1.0 ]   [ a, 1.0 ]   [ strength, 1.0 ]   
 
-donation  >>  [ came, 2.0 ]   [ thing, 2.0 ]   
+medical  >>  [ tent, 8.0 ]   
 
-shoot  >>  [ its, 1.0 ]   
+anyways  >>  [ -, 5.0 ]   
 
-hat  >>  [ -, 1.0 ]   
+rightfully  >>  [ got, 1.0 ]   
 
-immense  >>  [ love, 1.0 ]   
+becoming  >>  [ champ, 1.0 ]   [ the, 1.0 ]   
 
-has  >>  [ been, 3.0 ]   [ arrested, 1.0 ]   [ told, 1.0 ]   [ -, 2.0 ]   [ two, 1.0 ]   [ a, 2.0 ]   [ no, 2.0 ]   [ cracked, 1.0 ]   [ provided, 1.0 ]   
+strength  >>  [ at, 1.0 ]   
 
-homer  >>  [ -, 1.0 ]   
+smith  >>  [ or, 1.0 ]   
 
-realize  >>  [ this, 1.0 ]   
+reportedly  >>  [ by, 3.0 ]   
 
-tech  >>  [ ripping, 1.0 ]   
+lie  >>  [ they, 2.0 ]   
 
-actual  >>  [ f, 1.0 ]   
+voting  >>  [ list, 2.0 ]   
 
-glass  >>  [ -, 3.0 ]   [ of, 1.0 ]   
+had  >>  [ it, 2.0 ]   [ winning, 3.0 ]   [ had, 1.0 ]   [ -, 2.0 ]   [ to, 2.0 ]   [ a, 4.0 ]   [ on, 2.0 ]   [ more, 1.0 ]   
 
-last  >>  [ king, 1.0 ]   [ bit, 1.0 ]   [ drink, 1.0 ]   [ never, 1.0 ]   
+cant  >>  [ go, 4.0 ]   [ escape, 1.0 ]   [ stand, 1.0 ]   [ lose, 1.0 ]   [ blame, 2.0 ]   [ handle, 1.0 ]   
 
-ultimate  >>  [ party, 1.0 ]   
+run  >>  [ the, 3.0 ]   [ -, 4.0 ]   [ by, 3.0 ]   [ against, 2.0 ]   [ down, 2.0 ]   
 
-rusted  >>  [ root, 1.0 ]   
+accounting  >>  [ for, 1.0 ]   
 
-harassment  >>  [ lawsuit, 1.0 ]   [ and, 1.0 ]   
+lynch  >>  [ this, 1.0 ]   
 
-warm  >>  [ your, 4.0 ]   
+mother  >>  [ in, 1.0 ]   [ has, 2.0 ]   [ got, 1.0 ]   
 
-guilty  >>  [ in, 1.0 ]   
+ate  >>  [ got, 1.0 ]   [ his, 1.0 ]   
 
-playing  >>  [ on, 1.0 ]   [ as, 1.0 ]   [ this, 1.0 ]   
+white  >>  [ and, 2.0 ]   [ get, 1.0 ]   [ combine, 2.0 ]   [ with, 1.0 ]   [ key, 1.0 ]   
 
-scotch  >>  [ -, 1.0 ]   
+chucked  >>  [ his, 1.0 ]   
 
-full  >>  [ -, 3.0 ]   [ moon, 1.0 ]   
+preach  >>  [ if, 1.0 ]   
 
-basement  >>  [ -, 1.0 ]   
+basically  >>  [ fired, 1.0 ]   
 
-chevy  >>  [ is, 2.0 ]   
+hat  >>  [ trick, 1.0 ]   
 
-steely  >>  [ can, 1.0 ]   
+shoot  >>  [ up, 1.0 ]   
 
-capsule  >>  [ -, 1.0 ]   
+has  >>  [ been, 9.0 ]   [ lost, 2.0 ]   [ interesting, 1.0 ]   [ quite, 2.0 ]   [ already, 1.0 ]   [ led, 1.0 ]   [ an, 1.0 ]   [ anybody, 1.0 ]   [ his, 3.0 ]   [ talent, 3.0 ]   [ tape, 1.0 ]   [ left, 1.0 ]   [ two, 8.0 ]   [ rushed, 2.0 ]   [ on, 1.0 ]   [ a, 2.0 ]   [ to, 2.0 ]   [ turned, 3.0 ]   [ gotten, 2.0 ]   [ done, 3.0 ]   [ scored, 1.0 ]   
 
-plural  >>  [ of, 1.0 ]   
+champ  >>  [ after, 5.0 ]   [ of, 1.0 ]   [ but, 1.0 ]   
 
-away  >>  [ if, 1.0 ]   [ w, 1.0 ]   [ -, 1.0 ]   [ just, 1.0 ]   
+starts  >>  [ -, 1.0 ]   [ the, 2.0 ]   
 
-whoops  >>  [ pitted, 1.0 ]   
+those  >>  [ -, 2.0 ]   [ were, 1.0 ]   [ out, 1.0 ]   [ early, 1.0 ]   [ by, 3.0 ]   [ read, 1.0 ]   [ are, 1.0 ]   
 
-dried  >>  [ blind, 1.0 ]   [ chili, 1.0 ]   
+offers  >>  [ salute, 2.0 ]   
 
-house  >>  [ -, 2.0 ]   [ without, 1.0 ]   [ oval, 1.0 ]   
+actual  >>  [ fight, 1.0 ]   
 
-anything  >>  [ to, 1.0 ]   [ from, 1.0 ]   
+given  >>  [ military, 16.0 ]   
 
-getflexseal  >>  [ chevy, 2.0 ]   
+last  >>  [ year, 2.0 ]   [ round, 1.0 ]   [ season, 4.0 ]   [ king, 4.0 ]   [ thing, 3.0 ]   [ four, 2.0 ]   [ rusher, 1.0 ]   [ with, 1.0 ]   
 
-starry  >>  [ for, 1.0 ]   
+might  >>  [ want, 1.0 ]   
 
-ends  >>  [ with, 1.0 ]   [ -, 1.0 ]   [ and, 1.0 ]   
+widely  >>  [ when, 1.0 ]   
 
-painful  >>  [ her, 1.0 ]   
+jacket  >>  [ for, 7.0 ]   [ at, 24.0 ]   [ should, 7.0 ]   
 
-vote  >>  [ democratic, 1.0 ]   [ -, 1.0 ]   [ for, 1.0 ]   [ on, 1.0 ]   
+pro  >>  [ football, 2.0 ]   
 
-pipes  >>  [ -, 1.0 ]   
+limps  >>  [ off, 1.0 ]   
 
-early  >>  [ -, 1.0 ]   
+watched  >>  [ it, 1.0 ]   
 
-pain  >>  [ -, 1.0 ]   
+involved  >>  [ a, 1.0 ]   
 
-freaked  >>  [ me, 1.0 ]   
+leads  >>  [ after, 4.0 ]   [ to, 1.0 ]   
 
-yes  >>  [ we, 1.0 ]   [ called, 3.0 ]   [ ready, 3.0 ]   
+everywhere  >>  [ in, 1.0 ]   
 
-start  >>  [ the, 2.0 ]   
+worst  >>  [ yeah, 2.0 ]   
 
-yet  >>  [ -, 3.0 ]   [ familiar, 1.0 ]   
+playing  >>  [ that, 1.0 ]   [ a, 1.0 ]   [ -, 3.0 ]   [ for, 5.0 ]   [ well, 2.0 ]   [ great, 1.0 ]   [ in, 1.0 ]   [ baseball, 3.0 ]   
 
-delightful  >>  [ about, 1.0 ]   
+leaving  >>  [ the, 1.0 ]   
 
-time  >>  [ analyst, 1.0 ]   [ -, 6.0 ]   [ finish, 1.0 ]   [ to, 1.0 ]   [ for, 1.0 ]   [ tonight, 1.0 ]   [ as, 1.0 ]   [ you, 1.0 ]   [ but, 1.0 ]   [ they, 1.0 ]   [ ago, 2.0 ]   [ this, 1.0 ]   [ capsule, 1.0 ]   
+full  >>  [ heart, 1.0 ]   
 
-riley  >>  [ -, 1.0 ]   
+next  >>  [ thing, 1.0 ]   [ man, 1.0 ]   
 
-studio  >>  [ next, 1.0 ]   
+away  >>  [ on, 1.0 ]   [ from, 1.0 ]   
 
-shadow  >>  [ at, 1.0 ]   [ move, 1.0 ]   
+distance  >>  [ -, 1.0 ]   
 
-notorious  >>  [ -, 1.0 ]   
+string  >>  [ is, 1.0 ]   
 
-happy  >>  [ -, 1.0 ]   
+boom  >>  [ down, 2.0 ]   
 
-hydrogen  >>  [ oxygen, 1.0 ]   
+android  >>  [ twitter, 1.0 ]   
 
-scrapbook  >>  [ up, 1.0 ]   
+concept  >>  [ the, 1.0 ]   
 
-three  >>  [ -, 1.0 ]   
+show  >>  [ rips, 12.0 ]   [ wanted, 1.0 ]   [ you, 5.0 ]   
 
-put  >>  [ together, 2.0 ]   [ your, 1.0 ]   [ on, 1.0 ]   [ her, 1.0 ]   [ me, 2.0 ]   [ him, 1.0 ]   
+house  >>  [ michigan, 4.0 ]   
 
-climb  >>  [ on, 1.0 ]   
+anything  >>  [ from, 1.0 ]   
 
-twitter  >>  [ investment, 1.0 ]   [ accounts, 2.0 ]   
+caps  >>  [ win, 9.0 ]   
 
-remembered  >>  [ amazing, 1.0 ]   
+shot  >>  [ artist, 1.0 ]   
 
-her  >>  [ the, 1.0 ]   [ dance, 2.0 ]   [ what, 1.0 ]   [ that, 1.0 ]   [ down, 2.0 ]   [ hose, 1.0 ]   [ one, 1.0 ]   [ mom, 11.0 ]   [ dream, 1.0 ]   [ would, 1.0 ]   [ her, 1.0 ]   [ blessing, 1.0 ]   [ think, 1.0 ]   [ new, 1.0 ]   [ slouch, 1.0 ]   [ flowed, 1.0 ]   [ entire, 1.0 ]   [ lover, 2.0 ]   [ -, 4.0 ]   [ in, 1.0 ]   [ mama, 2.0 ]   [ head, 2.0 ]   [ face, 3.0 ]   [ hand, 1.0 ]   [ family, 1.0 ]   [ side, 1.0 ]   [ boyfriend, 1.0 ]   [ leave, 1.0 ]   [ big, 1.0 ]   
+not  >>  [ with, 8.0 ]   [ that, 1.0 ]   [ so, 1.0 ]   [ a, 3.0 ]   [ hes, 3.0 ]   [ serious, 1.0 ]   [ even, 1.0 ]   [ gone, 5.0 ]   [ -, 2.0 ]   [ good, 1.0 ]   [ happy, 1.0 ]   [ key, 1.0 ]   [ flag, 1.0 ]   
 
-hes  >>  [ outside, 1.0 ]   
+stronger  >>  [ than, 1.0 ]   
 
-trap  >>  [ game, 1.0 ]   
+arrive  >>  [ in, 2.0 ]   [ at, 3.0 ]   
 
-hey  >>  [ the, 1.0 ]   [ please, 4.0 ]   [ can, 3.0 ]   [ could, 1.0 ]   [ at, 1.0 ]   [ there, 1.0 ]   [ i, 1.0 ]   
+now  >>  [ is, 2.0 ]   [ now, 1.0 ]   [ just, 1.0 ]   [ the, 1.0 ]   [ -, 2.0 ]   [ turning, 1.0 ]   [ trending, 3.0 ]   [ run, 1.0 ]   [ out, 1.0 ]   [ on, 1.0 ]   [ president, 1.0 ]   [ with, 1.0 ]   [ going, 1.0 ]   [ be, 2.0 ]   [ rand, 2.0 ]   [ another, 3.0 ]   
 
-okay  >>  [ time, 1.0 ]   [ your, 1.0 ]   
+statement  >>  [ -, 7.0 ]   
 
-coast  >>  [ -, 3.0 ]   
+lived  >>  [ with, 1.0 ]   
 
-terrific  >>  [ evening, 1.0 ]   
+steady  >>  [ in, 3.0 ]   
 
-light  >>  [ just, 1.0 ]   
+vote  >>  [ at, 1.0 ]   [ on, 1.0 ]   
 
-apparently  >>  [ it, 1.0 ]   [ at, 1.0 ]   
+early  >>  [ wide, 1.0 ]   
 
-valuable  >>  [ to, 2.0 ]   
+news  >>  [ new, 1.0 ]   [ via, 1.0 ]   
 
-lawn  >>  [ sure, 1.0 ]   
+pain  >>  [ threw, 2.0 ]   [ -, 2.0 ]   [ he, 1.0 ]   [ specialist, 1.0 ]   
 
-artist  >>  [ -, 1.0 ]   
+election  >>  [ voting, 2.0 ]   
 
-questioning  >>  [ play, 1.0 ]   
+green  >>  [ massacre, 1.0 ]   [ home, 2.0 ]   [ -, 1.0 ]   
 
-smart  >>  [ to, 1.0 ]   [ -, 1.0 ]   
+learned  >>  [ anything, 1.0 ]   [ that, 2.0 ]   
 
-nicks  >>  [ sculpture, 1.0 ]   [ ice, 1.0 ]   
+yes  >>  [ is, 3.0 ]   
 
-lot  >>  [ of, 1.0 ]   [ rather, 1.0 ]   [ more, 1.0 ]   
+was  >>  [ that, 1.0 ]   [ in, 1.0 ]   [ published, 1.0 ]   [ a, 5.0 ]   [ tough, 2.0 ]   [ close, 2.0 ]   [ anywhere, 2.0 ]   [ active, 1.0 ]   [ criminal, 2.0 ]   [ awful, 1.0 ]   [ just, 4.0 ]   [ leaving, 1.0 ]   [ escorted, 1.0 ]   [ burned, 6.0 ]   [ playing, 3.0 ]   [ an, 3.0 ]   [ reminding, 1.0 ]   [ second, 2.0 ]   [ -, 1.0 ]   [ held, 4.0 ]   [ best, 3.0 ]   [ assaulted, 9.0 ]   [ attacked, 3.0 ]   [ finally, 1.0 ]   
 
-fundraising  >>  [ yeah, 1.0 ]   
+start  >>  [ the, 1.0 ]   [ of, 7.0 ]   [ second, 1.0 ]   [ to, 1.0 ]   [ obviously, 3.0 ]   [ contributing, 1.0 ]   [ -, 1.0 ]   
 
-low  >>  [ clear, 1.0 ]   [ -, 1.0 ]   
+war  >>  [ -, 1.0 ]   
 
-prop  >>  [ -, 1.0 ]   
+bond  >>  [ meanwhile, 2.0 ]   [ tyranny, 2.0 ]   
 
-growl  >>  [ instead, 1.0 ]   [ -, 5.0 ]   [ zak, 1.0 ]   [ to, 1.0 ]   [ and, 1.0 ]   [ wow, 1.0 ]   
+way  >>  [ too, 5.0 ]   [ to, 1.0 ]   
 
-means  >>  [ your, 1.0 ]   [ twitter, 1.0 ]   
+pair  >>  [ of, 1.0 ]   
 
-chain  >>  [ -, 78.0 ]   [ up, 1.0 ]   [ is, 1.0 ]   
+twogoal  >>  [ game, 1.0 ]   
 
-performer  >>  [ before, 1.0 ]   
+bothered  >>  [ him, 1.0 ]   
 
-doll  >>  [ was, 3.0 ]   
+what  >>  [ happened, 1.0 ]   [ won, 1.0 ]   [ is, 1.0 ]   [ he, 4.0 ]   [ appeared, 1.0 ]   [ we, 3.0 ]   
 
-touching  >>  [ moment, 1.0 ]   
+mouth  >>  [ piece, 1.0 ]   [ -, 1.0 ]   
 
-unfortunately  >>  [ was, 1.0 ]   
+time  >>  [ lost, 2.0 ]   [ on, 1.0 ]   [ in, 2.0 ]   [ -, 2.0 ]   [ but, 1.0 ]   
 
-hound  >>  [ -, 1.0 ]   
+play  >>  [ will, 2.0 ]   [ but, 2.0 ]   [ not, 1.0 ]   [ -, 10.0 ]   [ is, 1.0 ]   [ of, 1.0 ]   [ tag, 4.0 ]   [ he, 2.0 ]   [ from, 1.0 ]   
 
-chat  >>  [ in, 2.0 ]   
+yard  >>  [ line, 1.0 ]   [ higdon, 8.0 ]   [ rush, 1.0 ]   [ rushing, 1.0 ]   
 
-crushing  >>  [ your, 1.0 ]   
+trump  >>  [ to, 5.0 ]   [ his, 7.0 ]   [ at, 8.0 ]   [ offers, 2.0 ]   [ and, 5.0 ]   [ arrive, 2.0 ]   [ speech, 13.0 ]   [ arrives, 16.0 ]   [ is, 1.0 ]   [ urgent, 1.0 ]   [ salute, 3.0 ]   [ will, 2.0 ]   [ delivering, 1.0 ]   [ dons, 1.0 ]   [ talking, 1.0 ]   
 
-quick  >>  [ tune, 1.0 ]   
+fought  >>  [ their, 1.0 ]   [ too, 1.0 ]   
 
-before  >>  [ showing, 2.0 ]   [ splashing, 1.0 ]   [ swimming, 1.0 ]   [ -, 1.0 ]   [ hitting, 6.0 ]   [ well, 1.0 ]   [ it, 1.0 ]   [ the, 1.0 ]   [ no, 2.0 ]   [ he, 1.0 ]   [ did, 1.0 ]   [ but, 1.0 ]   
+hed  >>  [ probably, 1.0 ]   
 
-dad  >>  [ lets, 1.0 ]   [ is, 1.0 ]   
+happy  >>  [ now, 1.0 ]   [ after, 1.0 ]   
 
-tell  >>  [ you, 1.0 ]   [ someone, 3.0 ]   
+when  >>  [ was, 1.0 ]   [ goes, 1.0 ]   [ frustrated, 1.0 ]   [ scores, 1.0 ]   [ the, 1.0 ]   
 
-stomach  >>  [ for, 3.0 ]   
+three  >>  [ inside, 2.0 ]   [ -, 11.0 ]   [ snaps, 1.0 ]   
 
-husband  >>  [ is, 3.0 ]   
+issues  >>  [ would, 1.0 ]   
 
-him  >>  [ -, 2.0 ]   [ with, 2.0 ]   [ and, 1.0 ]   [ up, 1.0 ]   [ on, 1.0 ]   [ for, 1.0 ]   [ this, 1.0 ]   [ being, 2.0 ]   [ a, 1.0 ]   [ di, 1.0 ]   
+put  >>  [ on, 1.0 ]   [ him, 2.0 ]   [ this, 1.0 ]   [ it, 7.0 ]   [ key, 1.0 ]   
 
-listen  >>  [ to, 1.0 ]   [ by, 1.0 ]   
+twitter  >>  [ for, 2.0 ]   [ web, 1.0 ]   [ -, 7.0 ]   
 
-wondering  >>  [ maybe, 1.0 ]   
+fan  >>  [ of, 3.0 ]   
 
-dan  >>  [ -, 1.0 ]   
+fam  >>  [ -, 1.0 ]   
 
-hit  >>  [ the, 9.0 ]   [ him, 2.0 ]   
+her  >>  [ sons, 2.0 ]   [ son, 8.0 ]   
 
-his  >>  [ fourth, 1.0 ]   [ second, 1.0 ]   [ list, 2.0 ]   [ wife, 1.0 ]   [ were, 1.0 ]   [ current, 1.0 ]   [ mil, 1.0 ]   [ no, 2.0 ]   
+far  >>  [ -, 1.0 ]   [ tonight, 1.0 ]   [ no, 4.0 ]   
 
-groped  >>  [ by, 1.0 ]   
+hes  >>  [ right, 1.0 ]   [ an, 2.0 ]   [ now, 1.0 ]   [ so, 3.0 ]   [ -, 4.0 ]   [ breaking, 1.0 ]   [ able, 1.0 ]   [ not, 1.0 ]   [ good, 1.0 ]   
 
-beat  >>  [ the, 1.0 ]   [ my, 1.0 ]   
+season  >>  [ -, 7.0 ]   [ opener, 4.0 ]   [ i, 1.0 ]   [ sack, 1.0 ]   [ needs, 1.0 ]   [ game, 1.0 ]   [ makes, 1.0 ]   
 
-disappeared  >>  [ he, 1.0 ]   
+controversial  >>  [ -, 2.0 ]   
 
-goodnight  >>  [ all, 1.0 ]   [ see, 1.0 ]   
+baffled  >>  [ by, 2.0 ]   
 
-bear  >>  [ camp, 1.0 ]   
+catch  >>  [ obviously, 3.0 ]   
 
-day  >>  [ begins, 1.0 ]   [ trump, 2.0 ]   [ to, 1.0 ]   [ and, 1.0 ]   [ going, 1.0 ]   
+truly  >>  [ understand, 1.0 ]   
 
-keeps  >>  [ letting, 1.0 ]   
+hey  >>  [ look, 5.0 ]   
 
-island  >>  [ -, 1.0 ]   
+give  >>  [ us, 1.0 ]   [ him, 2.0 ]   [ it, 1.0 ]   
 
-water  >>  [ to, 4.0 ]   [ -, 4.0 ]   [ was, 2.0 ]   [ taste, 2.0 ]   [ should, 2.0 ]   [ furthest, 1.0 ]   [ personally, 1.0 ]   [ that, 1.0 ]   
+threw  >>  [ his, 5.0 ]   [ into, 2.0 ]   
 
-done  >>  [ -, 1.0 ]   [ again, 2.0 ]   [ good, 1.0 ]   
+having  >>  [ a, 2.0 ]   [ big, 1.0 ]   
 
-corps  >>  [ is, 1.0 ]   [ would, 1.0 ]   [ -, 1.0 ]   
+liver  >>  [ last, 2.0 ]   
 
-formal  >>  [ than, 1.0 ]   
+undefeated  >>  [ in, 1.0 ]   
 
-interference  >>  [ calls, 1.0 ]   
+personnaly  >>  [ i, 1.0 ]   
 
-dont  >>  [ care, 1.0 ]   [ in, 1.0 ]   [ trust, 2.0 ]   [ drink, 1.0 ]   [ think, 1.0 ]   [ let, 2.0 ]   [ call, 4.0 ]   [ go, 1.0 ]   [ know, 2.0 ]   [ blame, 2.0 ]   [ shoot, 1.0 ]   [ mind, 2.0 ]   [ talk, 1.0 ]   [ give, 1.0 ]   [ -, 1.0 ]   [ just, 1.0 ]   
+junior  >>  [ welterweight, 2.0 ]   [ -, 1.0 ]   
 
-condom  >>  [ -, 1.0 ]   
+saving  >>  [ himself, 3.0 ]   
 
-request  >>  [ unleaded, 2.0 ]   [ on, 7.0 ]   [ kiwi, 7.0 ]   [ for, 2.0 ]   [ -, 3.0 ]   [ it, 1.0 ]   [ by, 3.0 ]   
+didnt  >>  [ think, 1.0 ]   [ score, 1.0 ]   [ stop, 1.0 ]   [ even, 2.0 ]   
 
-part  >>  [ of, 4.0 ]   
+suit  >>  [ jacket, 7.0 ]   
 
-their  >>  [ pants, 1.0 ]   [ super, 1.0 ]   
+butch  >>  [ decision, 2.0 ]   [ just, 2.0 ]   [ for, 12.0 ]   [ what, 1.0 ]   [ and, 1.0 ]   [ will, 5.0 ]   [ redshirt, 1.0 ]   [ natty, 1.0 ]   [ -, 1.0 ]   [ saw, 1.0 ]   
 
-general  >>  [ car, 1.0 ]   
+assault  >>  [ this, 5.0 ]   [ at, 27.0 ]   [ -, 1.0 ]   [ rand, 1.0 ]   
 
-sounds  >>  [ more, 1.0 ]   
+reps  >>  [ will, 1.0 ]   
 
-fooled  >>  [ me, 1.0 ]   
+bomber  >>  [ jacket, 7.0 ]   
 
-hospital  >>  [ at, 2.0 ]   
+artist  >>  [ journalism, 1.0 ]   
 
-deserve  >>  [ -, 1.0 ]   
+settle  >>  [ as, 1.0 ]   
 
-process  >>  [ -, 1.0 ]   
+dissected  >>  [ liver, 2.0 ]   
 
-festive  >>  [ here, 1.0 ]   
+burned  >>  [ will, 2.0 ]   [ for, 6.0 ]   [ played, 1.0 ]   
 
-alternative  >>  [ title, 1.0 ]   
+unknown  >>  [ reason, 1.0 ]   
 
-clear  >>  [ clear, 5.0 ]   [ -, 2.0 ]   [ looming, 1.0 ]   [ low, 2.0 ]   [ right, 1.0 ]   [ there, 1.0 ]   [ back, 1.0 ]   
+lot  >>  [ of, 3.0 ]   [ sooner, 1.0 ]   
 
-clean  >>  [ water, 2.0 ]   
+elite  >>  [ talent, 7.0 ]   
 
-thelostwifeofrobertdurst  >>  [ -, 1.0 ]   
+freedom  >>  [ hes, 1.0 ]   
 
-someone  >>  [ says, 1.0 ]   [ is, 1.0 ]   [ if, 3.0 ]   
+web  >>  [ client, 1.0 ]   
 
-confession  >>  [ time, 1.0 ]   
+low  >>  [ we, 1.0 ]   
 
-third  >>  [ dried, 1.0 ]   [ restart, 1.0 ]   
+wee  >>  [ stand, 1.0 ]   
 
-mean  >>  [ well, 1.0 ]   
+visibly  >>  [ upset, 4.0 ]   [ -, 6.0 ]   
 
-glad  >>  [ the, 1.0 ]   [ he, 1.0 ]   [ is, 1.0 ]   
+helmet  >>  [ off, 3.0 ]   [ before, 1.0 ]   [ in, 1.0 ]   [ after, 1.0 ]   [ immediately, 1.0 ]   [ right, 1.0 ]   [ tried, 1.0 ]   [ stretching, 2.0 ]   
 
-fitting  >>  [ for, 1.0 ]   
+livid  >>  [ will, 1.0 ]   
 
-been  >>  [ arrested, 2.0 ]   [ polluted, 1.0 ]   [ a, 1.0 ]   [ dipped, 1.0 ]   [ out, 1.0 ]   [ all, 1.0 ]   [ -, 2.0 ]   
+hamstring  >>  [ -, 1.0 ]   
 
-mostly  >>  [ water, 1.0 ]   
+suffers  >>  [ minor, 33.0 ]   
 
-beef  >>  [ jerky, 1.0 ]   
+initial  >>  [ starting, 1.0 ]   
 
-trip  >>  [ over, 1.0 ]   
+efficient  >>  [ rusher, 2.0 ]   
 
-record  >>  [ and, 1.0 ]   
+more  >>  [ at, 1.0 ]   [ from, 1.0 ]   [ on, 3.0 ]   [ reasonable, 2.0 ]   [ -, 1.0 ]   [ successful, 1.0 ]   [ concerned, 1.0 ]   [ than, 7.0 ]   [ why, 3.0 ]   [ but, 1.0 ]   
 
-you  >>  [ serious, 4.0 ]   [ -, 27.0 ]   [ dad, 1.0 ]   [ call, 1.0 ]   [ need, 2.0 ]   [ listened, 1.0 ]   [ heard, 1.0 ]   [ wish, 1.0 ]   [ had, 1.0 ]   [ here, 1.0 ]   [ by, 1.0 ]   [ please, 8.0 ]   [ be, 1.0 ]   [ …, 1.0 ]   [ play, 4.0 ]   [ could, 1.0 ]   [ agree, 2.0 ]   [ cant, 11.0 ]   [ ready, 1.0 ]   [ next, 2.0 ]   [ ground, 1.0 ]   [ rock, 1.0 ]   [ all, 1.0 ]   [ kidding, 1.0 ]   [ think, 2.0 ]   [ ever, 2.0 ]   [ held, 1.0 ]   [ part, 1.0 ]   [ were, 1.0 ]   [ arent, 1.0 ]   [ pal, 1.0 ]   [ have, 3.0 ]   [ get, 2.0 ]   [ got, 2.0 ]   [ something, 1.0 ]   [ tears, 2.0 ]   [ do, 1.0 ]   [ can, 2.0 ]   [ killed, 1.0 ]   [ because, 1.0 ]   [ dropped, 1.0 ]   [ anymore, 2.0 ]   [ are, 8.0 ]   [ yes, 3.0 ]   [ know, 3.0 ]   [ want, 1.0 ]   [ not, 1.0 ]   [ almost, 1.0 ]   [ my, 1.0 ]   [ also, 18.0 ]   [ might, 1.0 ]   [ thanks, 1.0 ]   [ saw, 1.0 ]   [ for, 1.0 ]   [ the, 1.0 ]   [ go, 1.0 ]   
+consistent  >>  [ he, 1.0 ]   
 
-beer  >>  [ is, 1.0 ]   
+kill  >>  [ me, 1.0 ]   
 
-jump  >>  [ -, 2.0 ]   
+great  >>  [ competitor, 3.0 ]   [ game, 2.0 ]   [ to, 2.0 ]   [ forgettable, 1.0 ]   [ pass, 1.0 ]   [ play, 1.0 ]   [ job, 1.0 ]   [ -, 1.0 ]   
 
-going  >>  [ to, 8.0 ]   [ into, 1.0 ]   [ -, 1.0 ]   [ on, 1.0 ]   [ back, 2.0 ]   [ zak, 1.0 ]   
+happened  >>  [ in, 1.0 ]   
 
-pass  >>  [ protection, 1.0 ]   [ interference, 1.0 ]   [ the, 2.0 ]   [ -, 1.0 ]   
+wrong  >>  [ -, 2.0 ]   [ is, 1.0 ]   [ with, 1.0 ]   
 
-shock  >>  [ ya, 1.0 ]   
+shirt  >>  [ is, 1.0 ]   
 
-court  >>  [ company, 1.0 ]   
+drafting  >>  [ like, 1.0 ]   
 
-easy  >>  [ feat, 1.0 ]   [ -, 4.0 ]   
+heads  >>  [ to, 4.0 ]   
 
-senior  >>  [ and, 1.0 ]   
+board  >>  [ was, 3.0 ]   [ of, 2.0 ]   
 
-trying  >>  [ to, 7.0 ]   [ the, 1.0 ]   
+recouping  >>  [ this, 1.0 ]   
 
-millions  >>  [ of, 1.0 ]   
+crushing  >>  [ it, 1.0 ]   
 
-comes  >>  [ to, 1.0 ]   [ back, 1.0 ]   [ in, 1.0 ]   
+monkey  >>  [ shit, 1.0 ]   
 
-bottle  >>  [ -, 1.0 ]   
+defeated  >>  [ by, 1.0 ]   
 
-hot  >>  [ chili, 1.0 ]   [ peppers, 1.0 ]   
+arrest  >>  [ neighbor, 1.0 ]   
 
-replays  >>  [ of, 1.0 ]   
+tyranny  >>  [ -, 2.0 ]   
 
-how  >>  [ the, 1.0 ]   [ you, 2.0 ]   [ awesome, 1.0 ]   [ much, 2.0 ]   [ people, 1.0 ]   [ about, 1.0 ]   [ theyre, 1.0 ]   [ could, 1.0 ]   
+before  >>  [ the, 1.0 ]   [ coming, 1.0 ]   [ -, 1.0 ]   [ tour, 1.0 ]   [ turning, 3.0 ]   
 
-calms  >>  [ her, 1.0 ]   
+speedy  >>  [ recovery, 1.0 ]   
 
-grass  >>  [ grow, 1.0 ]   [ a, 1.0 ]   [ has, 1.0 ]   
+dad  >>  [ those, 1.0 ]   [ was, 1.0 ]   [ -, 1.0 ]   
 
-grateful  >>  [ -, 1.0 ]   
+mugged  >>  [ -, 1.0 ]   
 
-mind  >>  [ trouble, 2.0 ]   
+tell  >>  [ will, 1.0 ]   [ me, 3.0 ]   
 
-business  >>  [ artist, 1.0 ]   [ casual, 1.0 ]   
+section  >>  [ t, 1.0 ]   
 
-waitress  >>  [ in, 1.0 ]   [ has, 1.0 ]   
+mcbridewe  >>  [ got, 1.0 ]   
 
-outta  >>  [ me, 1.0 ]   
+constantly  >>  [ -, 1.0 ]   
 
-right  >>  [ now, 35.0 ]   [ back, 1.0 ]   [ -, 11.0 ]   [ up, 1.0 ]   [ here, 1.0 ]   [ out, 2.0 ]   [ there, 2.0 ]   [ behind, 2.0 ]   
+nut  >>  [ the, 1.0 ]   
 
-blast  >>  [ have, 1.0 ]   [ as, 1.0 ]   
+him  >>  [ was, 1.0 ]   [ -, 4.0 ]   [ beats, 1.0 ]   [ in, 4.0 ]   [ with, 1.0 ]   [ out, 1.0 ]   [ the, 1.0 ]   [ i, 1.0 ]   [ about, 2.0 ]   [ best, 3.0 ]   [ on, 1.0 ]   [ off, 1.0 ]   [ finding, 2.0 ]   [ it, 2.0 ]   [ tonight, 1.0 ]   [ also, 1.0 ]   [ back, 1.0 ]   [ a, 1.0 ]   [ for, 1.0 ]   [ of, 1.0 ]   [ while, 3.0 ]   [ today, 1.0 ]   
 
-touches  >>  [ my, 2.0 ]   
+viciously  >>  [ attacked, 2.0 ]   
 
-dorsetquarrygal  >>  [ red, 1.0 ]   
+looks  >>  [ pretty, 5.0 ]   [ good, 1.0 ]   
 
-taught  >>  [ me, 2.0 ]   
+his  >>  [ should, 1.0 ]   [ mouthpiece, 1.0 ]   [ helmet, 11.0 ]   [ right, 6.0 ]   [ own, 12.0 ]   [ knee, 2.0 ]   [ face, 1.0 ]   [ first, 6.0 ]   [ mom, 1.0 ]   [ debut, 1.0 ]   [ then, 1.0 ]   [ versatility, 3.0 ]   [ left, 2.0 ]   [ off, 1.0 ]   [ dad, 1.0 ]   [ suit, 7.0 ]   [ speech, 7.0 ]   [ military, 1.0 ]   [ business, 1.0 ]   [ best, 2.0 ]   [ form, 2.0 ]   [ this, 1.0 ]   [ -, 10.0 ]   [ second, 3.0 ]   [ home, 48.0 ]   [ career, 2.0 ]   [ game, 2.0 ]   [ team, 1.0 ]   [ of, 1.0 ]   [ a, 1.0 ]   [ neighbor, 1.0 ]   [ bowling, 1.0 ]   
 
-stage  >>  [ -, 23.0 ]   [ tonight, 1.0 ]   [ in, 1.0 ]   [ top, 1.0 ]   [ of, 2.0 ]   [ is, 4.0 ]   [ win, 2.0 ]   [ just, 1.0 ]   [ and, 2.0 ]   
+presented  >>  [ a, 7.0 ]   
 
-meet  >>  [ bowie, 1.0 ]   
+talent  >>  [ is, 7.0 ]   [ with, 3.0 ]   
 
-calls  >>  [ and, 1.0 ]   
+beat  >>  [ to, 1.0 ]   [ for, 11.0 ]   [ the, 5.0 ]   [ thanks, 2.0 ]   [ -, 1.0 ]   [ boston, 1.0 ]   
 
-premeditated  >>  [ crime, 1.0 ]   
+worldwide  >>  [ get, 3.0 ]   
 
-series  >>  [ about, 1.0 ]   
+checked  >>  [ on, 1.0 ]   
 
-interception  >>  [ as, 1.0 ]   [ of, 1.0 ]   
+pointing  >>  [ to, 1.0 ]   
 
-overrated  >>  [ -, 1.0 ]   
+consider  >>  [ giving, 1.0 ]   
 
-inch  >>  [ trail, 1.0 ]   
+day  >>  [ trip, 1.0 ]   [ that, 1.0 ]   
 
-under  >>  [ side, 1.0 ]   
+quadruple  >>  [ coverage, 2.0 ]   
 
-richest  >>  [ men, 1.0 ]   
+king  >>  [ from, 4.0 ]   
 
-did  >>  [ just, 1.0 ]   [ they, 1.0 ]   [ you, 3.0 ]   [ she, 1.0 ]   [ he, 1.0 ]   [ it, 2.0 ]   [ not, 2.0 ]   [ i, 1.0 ]   [ can, 1.0 ]   
+created  >>  [ by, 2.0 ]   
 
-onscreen  >>  [ is, 1.0 ]   
+sacrifice  >>  [ of, 8.0 ]   
 
-quarter  >>  [ -, 2.0 ]   [ comes, 1.0 ]   
+done  >>  [ just, 1.0 ]   [ for, 3.0 ]   [ tonight, 3.0 ]   
 
-die  >>  [ -, 1.0 ]   [ she, 1.0 ]   
+both  >>  [ well, 1.0 ]   [ fought, 1.0 ]   [ higdon, 52.0 ]   
 
-battling  >>  [ for, 1.0 ]   
+eclipse  >>  [ last, 1.0 ]   
 
-putting  >>  [ in, 2.0 ]   
+most  >>  [ impact, 1.0 ]   [ appropriate, 1.0 ]   [ teams, 3.0 ]   [ efficient, 2.0 ]   
 
-sometimes  >>  [ just, 1.0 ]   [ its, 1.0 ]   
-
-upping  >>  [ that, 1.0 ]   
-
-emergency  >>  [ investigation, 1.0 ]   
-
-down  >>  [ -, 2.0 ]   [ doing, 1.0 ]   [ okay, 1.0 ]   [ makes, 1.0 ]   [ the, 2.0 ]   
-
-marge  >>  [ dont, 1.0 ]   [ just, 1.0 ]   [ -, 1.0 ]   
-
-trail  >>  [ mix, 1.0 ]   
-
-later  >>  [ served, 1.0 ]   
-
-brings  >>  [ out, 2.0 ]   
-
-legal  >>  [ work, 1.0 ]   
-
-talk  >>  [ about, 1.0 ]   [ to, 1.0 ]   [ the, 1.0 ]   [ tonight, 1.0 ]   
-
-listened  >>  [ to, 1.0 ]   
-
-test  >>  [ -, 1.0 ]   
-
-finally  >>  [ understand, 1.0 ]   
-
-count  >>  [ kissing, 1.0 ]   [ -, 1.0 ]   
-
-brown  >>  [ trying, 1.0 ]   
-
-gyal  >>  [ just, 1.0 ]   
-
-take  >>  [ over, 1.0 ]   [ the, 1.0 ]   [ it, 3.0 ]   [ take, 1.0 ]   [ my, 1.0 ]   [ of, 2.0 ]   [ a, 3.0 ]   [ vat, 1.0 ]   [ care, 1.0 ]   
-
-entomology  >>  [ today, 1.0 ]   
-
-blame  >>  [ her, 1.0 ]   [ you, 1.0 ]   
-
-freezer  >>  [ -, 1.0 ]   
-
-some  >>  [ people, 1.0 ]   [ water, 4.0 ]   [ form, 1.0 ]   [ occasional, 1.0 ]   
-
-growling  >>  [ seriously, 1.0 ]   
-
-requesting  >>  [ kiwi, 4.0 ]   [ by, 2.0 ]   [ i, 1.0 ]   
-
-soma  >>  [ backstage, 4.0 ]   
-
-rather  >>  [ get, 1.0 ]   [ this, 1.0 ]   
-
-session  >>  [ at, 1.0 ]   
-
-back  >>  [ of, 3.0 ]   [ like, 2.0 ]   [ in, 3.0 ]   [ from, 1.0 ]   [ -, 6.0 ]   [ so, 1.0 ]   [ period, 1.0 ]   [ to, 6.0 ]   [ i, 1.0 ]   [ out, 1.0 ]   [ on, 3.0 ]   [ outside, 1.0 ]   
-
-heavier  >>  [ than, 3.0 ]   
-
-title  >>  [ in, 1.0 ]   
-
-miss  >>  [ state, 1.0 ]   [ my, 1.0 ]   [ why, 1.0 ]   
-
-mack  >>  [ brown, 1.0 ]   
-
-passes  >>  [ for, 2.0 ]   
-
-wasnt  >>  [ the, 1.0 ]   [ there, 1.0 ]   [ that, 4.0 ]   [ smart, 1.0 ]   [ enough, 3.0 ]   
-
-bite  >>  [ -, 1.0 ]   [ hand, 1.0 ]   
-
-chandler  >>  [ the, 1.0 ]   
-
-company  >>  [ -, 1.0 ]   
-
-just  >>  [ had, 2.0 ]   [ for, 1.0 ]   [ dont, 1.0 ]   [ stayed, 2.0 ]   [ kept, 1.0 ]   [ say, 1.0 ]   [ flint, 3.0 ]   [ took, 1.0 ]   [ at, 1.0 ]   [ got, 1.0 ]   [ needed, 1.0 ]   [ ripped, 1.0 ]   [ die, 1.0 ]   [ the, 1.0 ]   [ sometimes, 1.0 ]   [ started, 1.0 ]   [ it, 1.0 ]   [ wanna, 1.0 ]   [ read, 1.0 ]   [ mad, 1.0 ]   [ bought, 1.0 ]   [ in, 1.0 ]   [ to, 1.0 ]   [ threatened, 1.0 ]   [ disappear, 1.0 ]   [ going, 1.0 ]   [ heard, 2.0 ]   [ gave, 1.0 ]   [ like, 1.0 ]   [ behind, 1.0 ]   [ made, 1.0 ]   [ make, 1.0 ]   [ ahead, 1.0 ]   [ cant, 1.0 ]   [ split, 1.0 ]   
-
-human  >>  [ right, 3.0 ]   [ -, 1.0 ]   
-
-checkered  >>  [ flag, 1.0 ]   
-
-prince  >>  [ one, 1.0 ]   [ to, 2.0 ]   [ arrests, 2.0 ]   [ bin, 3.0 ]   [ orders, 1.0 ]   [ tick, 1.0 ]   [ you, 1.0 ]   
-
-abusive  >>  [ so, 1.0 ]   
-
-holy  >>  [ shit, 1.0 ]   [ crap, 1.0 ]   
-
-relax  >>  [ piss, 1.0 ]   [ with, 1.0 ]   
-
-length  >>  [ for, 1.0 ]   
-
-lawnmower  >>  [ -, 1.0 ]   
-
-grand  >>  [ frozen, 1.0 ]   
-
-killed  >>  [ the, 4.0 ]   [ in, 1.0 ]   
-
-home  >>  [ and, 1.0 ]   [ from, 1.0 ]   
-
-disassociate  >>  [ themselves, 1.0 ]   
-
-baby  >>  [ -, 2.0 ]   
-
-blanket  >>  [ -, 1.0 ]   
-
-showing  >>  [ coverage, 2.0 ]   [ love, 1.0 ]   
-
-explain  >>  [ the, 1.0 ]   
-
-dropped  >>  [ a, 1.0 ]   
-
-hope  >>  [ watching, 1.0 ]   [ you, 1.0 ]   [ got, 1.0 ]   [ she, 1.0 ]   [ but, 3.0 ]   
-
-attempt  >>  [ to, 3.0 ]   
-
-soon  >>  [ tune, 1.0 ]   [ so, 1.0 ]   
-
-thick  >>  [ -, 1.0 ]   
-
-doesnt  >>  [ have, 3.0 ]   [ want, 1.0 ]   [ movie, 1.0 ]   
-
-melt  >>  [ one, 1.0 ]   
-
-sons  >>  [ -, 1.0 ]   
-
-stadium  >>  [ waves, 2.0 ]   
-
-action  >>  [ -, 1.0 ]   
-
-feat  >>  [ i, 1.0 ]   
-
-song  >>  [ thank, 1.0 ]   [ tonight, 2.0 ]   
-
-made  >>  [ me, 2.0 ]   
-
-sense  >>  [ would, 1.0 ]   [ of, 1.0 ]   
-
-being  >>  [ in, 1.0 ]   [ -, 1.0 ]   [ hurt, 3.0 ]   [ sued, 1.0 ]   [ abusive, 1.0 ]   [ a, 1.0 ]   [ groped, 1.0 ]   
-
-bell  >>  [ brings, 2.0 ]   [ spun, 1.0 ]   
-
-heavy  >>  [ and, 1.0 ]   
-
-hoping  >>  [ to, 1.0 ]   
-
-afford  >>  [ ice, 1.0 ]   
-
-field  >>  [ …, 1.0 ]   [ -, 1.0 ]   
-
-asks  >>  [ the, 2.0 ]   
-
-served  >>  [ with, 1.0 ]   
-
-baseball  >>  [ bat, 1.0 ]   
-
-dog  >>  [ -, 4.0 ]   [ is, 1.0 ]   [ and, 1.0 ]   [ same, 1.0 ]   [ just, 1.0 ]   [ loves, 1.0 ]   
-
-spawned  >>  [ the, 1.0 ]   
-
-upset  >>  [ alert, 1.0 ]   
-
-hlmkunfiltered  >>  [ yeah, 1.0 ]   [ is, 1.0 ]   [ wut, 1.0 ]   
-
-glanced  >>  [ inquiringly, 1.0 ]   
-
-dot  >>  [ -, 2.0 ]   
-
-mummified  >>  [ and, 1.0 ]   
-
-barbecue  >>  [ and, 1.0 ]   
-
-mad  >>  [ -, 1.0 ]   
-
-government  >>  [ -, 2.0 ]   
-
-bobby  >>  [ i, 1.0 ]   [ that, 1.0 ]   
-
-sewer  >>  [ pipes, 1.0 ]   
-
-member  >>  [ of, 1.0 ]   
-
-crime  >>  [ -, 2.0 ]   
-
-man  >>  [ waving, 1.0 ]   [ high, 1.0 ]   [ -, 2.0 ]   [ do, 1.0 ]   [ will, 1.0 ]   [ that, 1.0 ]   [ talk, 1.0 ]   [ was, 1.0 ]   [ i, 1.0 ]   [ looks, 1.0 ]   
-
-together  >>  [ the, 2.0 ]   [ and, 1.0 ]   
-
-knows  >>  [ whats, 1.0 ]   
-
-paranormal  >>  [ -, 1.0 ]   
-
-within  >>  [ a, 1.0 ]   
-
-could  >>  [ beat, 1.0 ]   [ watch, 1.0 ]   [ you, 6.0 ]   [ play, 1.0 ]   [ be, 3.0 ]   [ his, 1.0 ]   
-
-positive  >>  [ neutral, 1.0 ]   
-
-satanic  >>  [ shit, 1.0 ]   
-
-looming  >>  [ inside, 1.0 ]   
-
-evening  >>  [ and, 1.0 ]   
-
-use  >>  [ to, 1.0 ]   
-
-feel  >>  [ -, 2.0 ]   [ these, 1.0 ]   [ in, 1.0 ]   [ bad, 1.0 ]   
-
-thrill  >>  [ of, 1.0 ]   
-
-bedlam  >>  [ breaking, 1.0 ]   [ state, 1.0 ]   
-
-radio  >>  [ stage, 1.0 ]   
-
-fine  >>  [ come, 2.0 ]   
-
-find  >>  [ me, 1.0 ]   
-
-international  >>  [ -, 1.0 ]   
-
-oxygen  >>  [ -, 1.0 ]   
-
-waste  >>  [ -, 2.0 ]   
-
-hose  >>  [ -, 1.0 ]   
-
-film  >>  [ was, 1.0 ]   [ -, 2.0 ]   [ i, 1.0 ]   [ for, 1.0 ]   [ noir, 1.0 ]   
-
-seriously  >>  [ me, 3.0 ]   [ -, 1.0 ]   
-
-pressure  >>  [ adjustment, 1.0 ]   
-
-fill  >>  [ it, 1.0 ]   [ this, 1.0 ]   
-
-cheating  >>  [ lord, 3.0 ]   
-
-heart  >>  [ in, 4.0 ]   [ of, 3.0 ]   [ seeing, 1.0 ]   [ is, 1.0 ]   
-
-trash  >>  [ can, 1.0 ]   
-
-feed  >>  [ i, 1.0 ]   [ -, 1.0 ]   [ again, 1.0 ]   
-
-forget  >>  [ divorce, 1.0 ]   
-
-task  >>  [ then, 1.0 ]   
-
-position  >>  [ e, 1.0 ]   
-
-bumper  >>  [ clear, 2.0 ]   
-
-since  >>  [ disappeared, 1.0 ]   
-
-arrested  >>  [ ago, 1.0 ]   [ -, 1.0 ]   [ along, 1.0 ]   [ in, 1.0 ]   [ ten, 1.0 ]   
-
-twas  >>  [ archived, 2.0 ]   
-
-best  >>  [ requesting, 1.0 ]   [ of, 1.0 ]   [ for, 1.0 ]   [ yet, 2.0 ]   [ the, 1.0 ]   [ i, 1.0 ]   [ -, 1.0 ]   
-
-mess  >>  [ -, 1.0 ]   
-
-ball  >>  [ believe, 1.0 ]   [ dress, 1.0 ]   
-
-hour  >>  [ -, 1.0 ]   
-
-reckless  >>  [ with, 1.0 ]   
-
-men  >>  [ a, 1.0 ]   [ do, 1.0 ]   [ are, 3.0 ]   [ at, 1.0 ]   
-
-make  >>  [ your, 1.0 ]   [ it, 7.0 ]   [ sure, 2.0 ]   [ sense, 1.0 ]   [ pad, 1.0 ]   [ him, 1.0 ]   
-
-met  >>  [ his, 1.0 ]   
-
-heard  >>  [ put, 1.0 ]   [ of, 2.0 ]   [ its, 18.0 ]   [ that, 2.0 ]   [ what, 1.0 ]   [ the, 1.0 ]   [ growling, 1.0 ]   
-
-falling  >>  [ thats, 1.0 ]   
-
-submerged  >>  [ power, 1.0 ]   
-
-waving  >>  [ he, 1.0 ]   
-
-exactly  >>  [ a, 3.0 ]   
-
-orange  >>  [ -, 1.0 ]   
-
-coming  >>  [ in, 1.0 ]   [ -, 1.0 ]   [ after, 1.0 ]   [ on, 2.0 ]   [ mom, 2.0 ]   [ back, 1.0 ]   [ up, 1.0 ]   
-
-invention  >>  [ -, 1.0 ]   
-
-bowie  >>  [ brought, 1.0 ]   
-
-trending  >>  [ on, 1.0 ]   [ -, 1.0 ]   
-
-about  >>  [ twitter, 1.0 ]   [ your, 2.0 ]   [ it, 1.0 ]   [ -, 1.0 ]   [ state, 1.0 ]   [ tonight, 1.0 ]   [ boneless, 1.0 ]   [ to, 4.0 ]   [ that, 1.0 ]   [ now, 1.0 ]   [ the, 4.0 ]   [ good, 1.0 ]   [ her, 1.0 ]   [ how, 2.0 ]   [ upping, 1.0 ]   [ all, 1.0 ]   [ cake, 1.0 ]   [ durst, 1.0 ]   
-
-scream  >>  [ -, 2.0 ]   [ before, 1.0 ]   
-
-crash  >>  [ scared, 1.0 ]   [ test, 1.0 ]   
-
-cover  >>  [ your, 2.0 ]   [ for, 2.0 ]   [ on, 1.0 ]   
-
-stripes  >>  [ -, 1.0 ]   
-
-hiding  >>  [ with, 1.0 ]   [ from, 1.0 ]   
-
-observer  >>  [ corps, 2.0 ]   
-
-massacre  >>  [ prince, 1.0 ]   
-
-bang  >>  [ -, 1.0 ]   
-
-above  >>  [ tweet, 1.0 ]   
-
-fire  >>  [ water, 1.0 ]   [ -, 1.0 ]   
-
-mama  >>  [ the, 1.0 ]   [ putting, 2.0 ]   
-
-band  >>  [ -, 3.0 ]   
-
-runner  >>  [ bedlam, 1.0 ]   
-
-singing  >>  [ along, 1.0 ]   
-
-zak  >>  [ -, 3.0 ]   [ just, 1.0 ]   [ was, 1.0 ]   [ move, 1.0 ]   
-
-beaten  >>  [ state, 1.0 ]   
-
-frozen  >>  [ railroad, 1.0 ]   [ -, 2.0 ]   
-
-wonderful  >>  [ actress, 1.0 ]   
-
-something  >>  [ about, 1.0 ]   [ its, 1.0 ]   [ was, 1.0 ]   [ falling, 1.0 ]   
-
-pointed  >>  [ the, 1.0 ]   
-
-miller  >>  [ band, 1.0 ]   
-
-shower  >>  [ and, 1.0 ]   
-
-fact  >>  [ is, 1.0 ]   
-
-believe  >>  [ me, 1.0 ]   [ -, 1.0 ]   [ a, 1.0 ]   
-
-fist  >>  [ pump, 3.0 ]   
-
-cute  >>  [ friend, 1.0 ]   [ -, 1.0 ]   
-
-long  >>  [ dont, 1.0 ]   [ as, 2.0 ]   [ copper, 1.0 ]   [ time, 1.0 ]   [ day, 1.0 ]   
-
-remember  >>  [ when, 2.0 ]   
-
-fell  >>  [ did, 1.0 ]   
-
-into  >>  [ hiding, 2.0 ]   [ halftime, 1.0 ]   [ the, 2.0 ]   [ this, 1.0 ]   
-
-mil  >>  [ -, 1.0 ]   
-
-free  >>  [ chill, 1.0 ]   [ -, 2.0 ]   [ pass, 1.0 ]   
-
-relationship  >>  [ with, 1.0 ]   
-
-mix  >>  [ -, 3.0 ]   
-
-reaction  >>  [ than, 1.0 ]   
-
-middle  >>  [ clear, 1.0 ]   
-
-though  >>  [ all, 1.0 ]   [ i, 2.0 ]   [ -, 1.0 ]   
-
-wolf  >>  [ dash, 2.0 ]   
-
-many  >>  [ delightful, 1.0 ]   [ would, 1.0 ]   [ people, 1.0 ]   
-
-swamp  >>  [ -, 1.0 ]   
-
-people  >>  [ are, 1.0 ]   [ around, 1.0 ]   [ to, 1.0 ]   [ dont, 2.0 ]   [ we, 3.0 ]   [ pass, 2.0 ]   [ can, 1.0 ]   [ didnt, 1.0 ]   [ told, 1.0 ]   [ were, 1.0 ]   [ get, 1.0 ]   
-
-stay  >>  [ -, 3.0 ]   
-
-actually  >>  [ wrong, 2.0 ]   [ noticed, 1.0 ]   
-
-face  >>  [ -, 3.0 ]   
-
-definitely  >>  [ not, 1.0 ]   
-
-collaboration  >>  [ with, 1.0 ]   
-
-trips  >>  [ are, 1.0 ]   
-
-open  >>  [ mouth, 1.0 ]   [ court, 1.0 ]   [ -, 18.0 ]   [ invitation, 1.0 ]   
-
-ice  >>  [ for, 1.0 ]   [ sculpture, 2.0 ]   [ is, 2.0 ]   [ sculptures, 1.0 ]   [ because, 1.0 ]   [ and, 3.0 ]   [ exactly, 3.0 ]   
-
-inside  >>  [ -, 1.0 ]   [ middle, 1.0 ]   
-
-arent  >>  [ going, 1.0 ]   
-
-talal  >>  [ -, 1.0 ]   [ has, 1.0 ]   [ optimistic, 1.0 ]   [ arrested, 1.0 ]   
-
-wood  >>  [ ice, 1.0 ]   
-
-surprise  >>  [ lucky, 1.0 ]   
-
-celebrate  >>  [ a, 1.0 ]   
-
-sealed  >>  [ with, 1.0 ]   [ -, 1.0 ]   
-
-felt  >>  [ up, 2.0 ]   
-
-wont  >>  [ even, 1.0 ]   
-
-please  >>  [ play, 32.0 ]   [ i, 1.0 ]   [ -, 3.0 ]   [ we, 2.0 ]   [ can, 1.0 ]   [ and, 1.0 ]   [ check, 1.0 ]   [ dont, 1.0 ]   [ do, 1.0 ]   
-
-look  >>  [ when, 1.0 ]   [ out, 2.0 ]   
-
-dense  >>  [ -, 1.0 ]   
-
-squad  >>  [ on, 1.0 ]   
-
-slept  >>  [ during, 1.0 ]   
-
-guessed  >>  [ that, 1.0 ]   [ about, 1.0 ]   
-
-judging  >>  [ by, 1.0 ]   
-
-knock  >>  [ my, 2.0 ]   
-
-lawsuit  >>  [ colonel, 1.0 ]   
-
-needed  >>  [ in, 3.0 ]   [ a, 1.0 ]   
-
-lord  >>  [ -, 1.0 ]   [ help, 3.0 ]   
-
-jumped  >>  [ tied, 1.0 ]   
-
-proper  >>  [ resuscitation, 1.0 ]   
-
-rule  >>  [ for, 1.0 ]   
-
-beast  >>  [ -, 2.0 ]   
-
-themselves  >>  [ from, 1.0 ]   
-
-backstage  >>  [ fun, 4.0 ]   [ at, 1.0 ]   
-
-wants  >>  [ to, 1.0 ]   [ everyone, 1.0 ]   
-
-moron  >>  [ trump, 1.0 ]   
-
-wonder  >>  [ what, 1.0 ]   
-
-reflux  >>  [ -, 1.0 ]   
-
-every  >>  [ time, 1.0 ]   [ one, 30.0 ]   [ event, 1.0 ]   [ man, 1.0 ]   
-
-staging  >>  [ in, 1.0 ]   
-
-winning  >>  [ the, 1.0 ]   
-
-madness  >>  [ -, 1.0 ]   
-
-mars  >>  [ never, 1.0 ]   
-
-again  >>  [ -, 2.0 ]   [ tonight, 1.0 ]   [ i, 1.0 ]   [ just, 1.0 ]   [ taking, 2.0 ]   
-
-incredible  >>  [ i, 1.0 ]   
-
-bedroom  >>  [ floor, 2.0 ]   
-
-money  >>  [ out, 3.0 ]   [ who, 1.0 ]   [ right, 2.0 ]   [ is, 1.0 ]   [ she, 1.0 ]   [ -, 1.0 ]   [ for, 1.0 ]   [ keeps, 1.0 ]   [ covers, 1.0 ]   [ with, 1.0 ]   
-
-riches  >>  [ taught, 1.0 ]   
-
-guns  >>  [ -, 3.0 ]   
-
-arctic  >>  [ -, 1.0 ]   
-
-mechanic  >>  [ in, 1.0 ]   
-
-whole  >>  [ region, 1.0 ]   [ bunch, 1.0 ]   [ family, 1.0 ]   
-
-mom  >>  [ did, 2.0 ]   [ gave, 1.0 ]   [ -, 10.0 ]   [ donated, 10.0 ]   [ was, 1.0 ]   [ thank, 2.0 ]   [ who, 3.0 ]   [ nice, 1.0 ]   [ she, 1.0 ]   [ donating, 1.0 ]   [ is, 3.0 ]   [ never, 1.0 ]   [ would, 1.0 ]   [ say, 2.0 ]   [ in, 2.0 ]   [ and, 1.0 ]   
-
-during  >>  [ the, 1.0 ]   [ performance, 1.0 ]   [ that, 1.0 ]   
-
-cinematographer  >>  [ getting, 1.0 ]   
-
-critic  >>  [ and, 1.0 ]   
-
-mow  >>  [ the, 1.0 ]   
-
-lost  >>  [ the, 1.0 ]   [ it, 1.0 ]   
-
-defensive  >>  [ stop, 1.0 ]   
-
-still  >>  [ needed, 3.0 ]   [ an, 1.0 ]   [ alive, 1.0 ]   [ be, 3.0 ]   [ bewilders, 1.0 ]   [ paying, 1.0 ]   [ the, 1.0 ]   [ am, 2.0 ]   [ outside, 2.0 ]   [ -, 1.0 ]   [ there, 1.0 ]   [ you, 1.0 ]   
-
-work  >>  [ harder, 7.0 ]   [ and, 1.0 ]   [ her, 1.0 ]   
-
-lose  >>  [ -, 1.0 ]   [ to, 1.0 ]   
-
-vat  >>  [ -, 1.0 ]   
-
-dressed  >>  [ up, 1.0 ]   
-
-agree  >>  [ with, 1.0 ]   [ -, 1.0 ]   [ to, 1.0 ]   
-
-anyone  >>  [ go, 2.0 ]   
-
-word  >>  [ is, 1.0 ]   [ before, 1.0 ]   
-
-favorite  >>  [ underused, 1.0 ]   [ of, 3.0 ]   
-
-theory  >>  [ that, 1.0 ]   
-
-love  >>  [ seeing, 2.0 ]   [ it, 3.0 ]   [ and, 3.0 ]   [ you, 4.0 ]   [ to, 10.0 ]   [ for, 31.0 ]   [ giant, 1.0 ]   [ movie, 4.0 ]   [ is, 1.0 ]   [ -, 1.0 ]   [ are, 1.0 ]   [ the, 1.0 ]   [ her, 1.0 ]   [ with, 2.0 ]   [ this, 2.0 ]   
-
-diner  >>  [ -, 1.0 ]   
-
-enjoy  >>  [ the, 1.0 ]   
-
-nick  >>  [ -, 2.0 ]   [ is, 1.0 ]   
-
-naturally  >>  [ sterile, 1.0 ]   
-
-inquiringly  >>  [ at, 1.0 ]   
-
-fall  >>  [ once, 1.0 ]   [ -, 1.0 ]   [ out, 1.0 ]   
-
-kyle  >>  [ running, 2.0 ]   
-
-believed  >>  [ that, 1.0 ]   
-
-event  >>  [ performing, 1.0 ]   
-
-buddy  >>  [ for, 3.0 ]   
-
-loud  >>  [ -, 1.0 ]   [ sound, 1.0 ]   [ crash, 1.0 ]   [ growl, 1.0 ]   
-
-erase  >>  [ my, 1.0 ]   
-
-railroad  >>  [ -, 1.0 ]   
-
-safest  >>  [ water, 1.0 ]   
-
-sting  >>  [ when, 1.0 ]   
-
-nice  >>  [ to, 1.0 ]   [ if, 1.0 ]   [ that, 1.0 ]   [ job, 1.0 ]   
-
-lots  >>  [ of, 2.0 ]   
-
-jinx  >>  [ series, 1.0 ]   
-
-anonymous  >>  [ donator, 1.0 ]   [ donor, 1.0 ]   
-
-fake  >>  [ ass, 1.0 ]   
-
-runs  >>  [ back, 1.0 ]   
-
-first  >>  [ quarter, 2.0 ]   [ pick, 1.0 ]   [ mistake, 1.0 ]   [ hour, 1.0 ]   [ time, 2.0 ]   
-
-sculptures  >>  [ are, 1.0 ]   
-
-bizarre  >>  [ -, 1.0 ]   
-
-perfect  >>  [ weather, 1.0 ]   
-
-craft  >>  [ cord, 1.0 ]   
-
-tight  >>  [ -, 1.0 ]   [ battle, 2.0 ]   
-
-from  >>  [ taking, 1.0 ]   [ god, 1.0 ]   [ before, 2.0 ]   [ bear, 1.0 ]   [ a, 4.0 ]   [ man, 1.0 ]   [ this, 1.0 ]   [ the, 3.0 ]   [ somebody, 2.0 ]   [ one, 1.0 ]   
-
-goddam  >>  [ basic, 1.0 ]   
-
-alley  >>  [ love, 1.0 ]   
-
-expecting  >>  [ rarely, 1.0 ]   
-
-bottom  >>  [ of, 1.0 ]   
-
-ill  >>  [ urinate, 1.0 ]   [ do, 1.0 ]   
-
-comfy  >>  [ couch, 1.0 ]   
-
-covered  >>  [ -, 1.0 ]   
-
-seems  >>  [ to, 1.0 ]   
-
-mum  >>  [ be, 1.0 ]   
-
-advice  >>  [ from, 2.0 ]   [ to, 2.0 ]   
-
-powder  >>  [ -, 1.0 ]   
-
-stead  >>  [ family, 2.0 ]   
-
-untying  >>  [ you, 1.0 ]   
-
-network  >>  [ the, 1.0 ]   
-
-holding  >>  [ each, 1.0 ]   
-
-trace  >>  [ -, 1.0 ]   
-
-spend  >>  [ my, 1.0 ]   
-
-foggy  >>  [ to, 1.0 ]   
-
-grave  >>  [ -, 1.0 ]   
-
-instead  >>  [ of, 1.0 ]   
-
-rush  >>  [ d, 1.0 ]   [ do, 1.0 ]   
-
-bogart  >>  [ saying, 4.0 ]   [ gives, 1.0 ]   
-
-fans  >>  [ please, 1.0 ]   
-
-performance  >>  [ at, 11.0 ]   [ -, 1.0 ]   [ and, 1.0 ]   
-
-currently  >>  [ on, 1.0 ]   [ using, 1.0 ]   [ only, 2.0 ]   [ back, 1.0 ]   
-
-titmouse  >>  [ from, 1.0 ]   
-
-comic  >>  [ sound, 1.0 ]   
-
-egg  >>  [ that, 1.0 ]   
-
-year  >>  [ they, 1.0 ]   [ the, 1.0 ]   [ award, 1.0 ]   
-
-boysenberry  >>  [ white, 1.0 ]   
-
-allowed  >>  [ -, 1.0 ]   [ into, 1.0 ]   
-
-leading  >>  [ man, 1.0 ]   
-
-awful  >>  [ pass, 1.0 ]   
-
-yeah  >>  [ pretty, 2.0 ]   [ ice, 1.0 ]   [ man, 1.0 ]   [ right, 1.0 ]   [ fun, 1.0 ]   [ well, 1.0 ]   
-
-ignoring  >>  [ the, 1.0 ]   
-
-via  >>  [ on, 6.0 ]   
-
-score  >>  [ afterwards, 1.0 ]   
-
-tock  >>  [ -, 1.0 ]   
-
-poor  >>  [ dog, 1.0 ]   
-
-awaiting  >>  [ to, 2.0 ]   
-
-because  >>  [ -, 1.0 ]   [ all, 1.0 ]   [ apparently, 1.0 ]   [ dead, 1.0 ]   [ might, 1.0 ]   
-
-ran  >>  [ into, 1.0 ]   [ away, 1.0 ]   [ too, 1.0 ]   
-
-fairly  >>  [ certain, 1.0 ]   
-
-pool  >>  [ -, 1.0 ]   [ no, 1.0 ]   
-
-raw  >>  [ deal, 1.0 ]   
-
-ray  >>  [ -, 1.0 ]   
-
-version  >>  [ of, 1.0 ]   
-
-charges  >>  [ -, 1.0 ]   
-
-stop  >>  [ and, 1.0 ]   [ nestle, 1.0 ]   [ while, 1.0 ]   [ story, 1.0 ]   [ laughing, 1.0 ]   
-
-guess  >>  [ the, 1.0 ]   [ in, 2.0 ]   
-
-happening  >>  [ right, 1.0 ]   
-
-detail  >>  [ to, 1.0 ]   
-
-hobby  >>  [ -, 4.0 ]   
-
-jerky  >>  [ band, 1.0 ]   [ -, 1.0 ]   [ tired, 1.0 ]   
-
-lapped  >>  [ car, 2.0 ]   
-
-essence  >>  [ of, 1.0 ]   
-
-least  >>  [ in, 1.0 ]   [ vote, 1.0 ]   [ on, 2.0 ]   [ thats, 1.0 ]   [ the, 1.0 ]   
-
-browns  >>  [ dressed, 1.0 ]   
-
-resignation  >>  [ of, 1.0 ]   
-
-drilled  >>  [ well, 1.0 ]   
-
-optimistic  >>  [ about, 1.0 ]   
-
-swimming  >>  [ -, 1.0 ]   
-
-rolling  >>  [ -, 1.0 ]   
-
-aggressive  >>  [ game, 1.0 ]   [ play, 1.0 ]   
-
-slimy  >>  [ -, 2.0 ]   
-
-close  >>  [ as, 1.0 ]   [ on, 1.0 ]   [ to, 1.0 ]   [ almost, 1.0 ]   
-
-chemistry  >>  [ -, 2.0 ]   
-
-michigan  >>  [ -, 1.0 ]   
-
-crochet  >>  [ -, 1.0 ]   
-
-weird  >>  [ to, 1.0 ]   
-
-fast  >>  [ -, 3.0 ]   [ and, 1.0 ]   
-
-calling  >>  [ it, 1.0 ]   [ for, 1.0 ]   [ v, 1.0 ]   [ awful, 1.0 ]   
-
-spin  >>  [ the, 2.0 ]   
-
-sweet  >>  [ prince, 1.0 ]   [ to, 1.0 ]   [ potato, 1.0 ]   
-
-deliverance  >>  [ without, 2.0 ]   
-
-couple  >>  [ be, 2.0 ]   [ of, 1.0 ]   
-
-shawnc4real  >>  [ tweet, 1.0 ]   
-
-donator  >>  [ that, 1.0 ]   [ -, 3.0 ]   
-
-spring  >>  [ in, 2.0 ]   
-
-red  >>  [ -, 2.0 ]   [ carpet, 6.0 ]   [ hot, 2.0 ]   [ like, 2.0 ]   
-
-acid  >>  [ reflux, 1.0 ]   
-
-whats  >>  [ wrong, 1.0 ]   [ ur, 1.0 ]   [ going, 1.0 ]   [ best, 1.0 ]   
-
-post  >>  [ a, 1.0 ]   
-
-leave  >>  [ after, 1.0 ]   
-
-finish  >>  [ strong, 1.0 ]   [ it, 1.0 ]   
-
-helped  >>  [ do, 1.0 ]   
-
-female  >>  [ lead, 1.0 ]   
-
-add  >>  [ rape, 2.0 ]   
-
-need  >>  [ is, 2.0 ]   [ to, 6.0 ]   [ more, 4.0 ]   
-
-its  >>  [ the, 2.0 ]   [ a, 4.0 ]   [ shark, 1.0 ]   [ what, 1.0 ]   [ fine, 2.0 ]   [ -, 2.0 ]   [ been, 1.0 ]   [ funny, 1.0 ]   [ too, 1.0 ]   [ still, 1.0 ]   [ dead, 1.0 ]   [ not, 1.0 ]   [ gonna, 1.0 ]   [ smart, 1.0 ]   [ so, 1.0 ]   [ almost, 1.0 ]   [ me, 1.0 ]   [ good, 1.0 ]   [ normal, 1.0 ]   [ open, 18.0 ]   [ ever, 2.0 ]   
-
-consent  >>  [ before, 1.0 ]   
-
-icely  >>  [ -, 1.0 ]   
-
-shell  >>  [ marry, 1.0 ]   
-
-flint  >>  [ -, 3.0 ]   [ michigan, 1.0 ]   
-
-adjustment  >>  [ for, 1.0 ]   
-
-bored  >>  [ -, 1.0 ]   
-
-trust  >>  [ in, 1.0 ]   [ government, 2.0 ]   [ man, 1.0 ]   
-
-private  >>  [ royal, 1.0 ]   
-
-slouch  >>  [ in, 1.0 ]   
-
-choose  >>  [ safe, 1.0 ]   [ because, 1.0 ]   
-
-ride  >>  [ best, 2.0 ]   
-
-cheering  >>  [ for, 1.0 ]   
-
-prevent  >>  [ all, 1.0 ]   [ any, 1.0 ]   
-
-sorry  >>  [ we, 1.0 ]   [ not, 1.0 ]   [ -, 1.0 ]   [ i, 1.0 ]   
-
-democratic  >>  [ every, 1.0 ]   
-
-end  >>  [ of, 2.0 ]   [ -, 5.0 ]   
-
-lines  >>  [ -, 1.0 ]   
-
-colonel  >>  [ -, 1.0 ]   
-
-mistake  >>  [ of, 1.0 ]   
-
-furthest  >>  [ from, 1.0 ]   
-
-pour  >>  [ it, 1.0 ]   
-
-artesian  >>  [ spring, 2.0 ]   
-
-crap  >>  [ -, 1.0 ]   
-
-special  >>  [ edition, 1.0 ]   
-
-family  >>  [ has, 1.0 ]   [ in, 2.0 ]   [ hospital, 2.0 ]   [ and, 1.0 ]   [ would, 1.0 ]   [ wont, 1.0 ]   [ stonemason, 1.0 ]   
-
-dude  >>  [ looking, 1.0 ]   [ left, 1.0 ]   
-
-jokes  >>  [ speaking, 1.0 ]   
-
-happens  >>  [ after, 1.0 ]   
-
-ouch  >>  [ that, 1.0 ]   
-
-college  >>  [ football, 1.0 ]   
-
-career  >>  [ -, 5.0 ]   [ going, 1.0 ]   
-
-movie  >>  [ -, 9.0 ]   [ ends, 1.0 ]   [ spawned, 1.0 ]   [ the, 4.0 ]   [ too, 1.0 ]   [ how, 1.0 ]   [ be, 1.0 ]   [ and, 1.0 ]   [ detective, 1.0 ]   [ to, 1.0 ]   [ i, 2.0 ]   [ though, 1.0 ]   
-
-called  >>  [ it, 3.0 ]   
-
-told  >>  [ her, 1.0 ]   [ -, 1.0 ]   [ me, 1.0 ]   
-
-ago  >>  [ he, 1.0 ]   [ more, 1.0 ]   [ she, 1.0 ]   [ sick, 1.0 ]   [ -, 1.0 ]   
-
-rid  >>  [ of, 1.0 ]   
-
-apex  >>  [ and, 1.0 ]   
-
-bravo  >>  [ -, 4.0 ]   
-
-number  >>  [ song, 2.0 ]   [ -, 1.0 ]   
-
-penthouse  >>  [ pet, 1.0 ]   
-
-tried  >>  [ to, 4.0 ]   
-
-tacky  >>  [ and, 1.0 ]   
-
-collins  >>  [ -, 1.0 ]   
-
-casual  >>  [ -, 1.0 ]   
-
-rip  >>  [ -, 1.0 ]   [ sweet, 1.0 ]   
-
-lingo  >>  [ -, 1.0 ]   
-
-splitting  >>  [ a, 1.0 ]   
-
-naw  >>  [ dont, 1.0 ]   
-
-testing  >>  [ dont, 2.0 ]   
-
-nothing  >>  [ that, 1.0 ]   [ touches, 2.0 ]   [ worse, 1.0 ]   [ on, 1.0 ]   
-
-handle  >>  [ this, 1.0 ]   
-
-wanna  >>  [ hear, 7.0 ]   [ be, 1.0 ]   [ feel, 1.0 ]   
-
-exit  >>  [ -, 1.0 ]   
-
-system  >>  [ -, 1.0 ]   
-
-sterile  >>  [ -, 1.0 ]   
-
-blessing  >>  [ at, 1.0 ]   
-
-other  >>  [ moon, 1.0 ]   [ -, 1.0 ]   
-
-against  >>  [ -, 1.0 ]   
-
-air  >>  [ tweet, 1.0 ]   [ pressure, 1.0 ]   
-
-defeat  >>  [ -, 1.0 ]   
-
-vacuum  >>  [ -, 1.0 ]   [ seal, 1.0 ]   
-
-potato  >>  [ pie, 1.0 ]   
-
-share  >>  [ your, 30.0 ]   
-
-deficit  >>  [ in, 1.0 ]   
-
-outcome  >>  [ of, 2.0 ]   
-
-shark  >>  [ week, 1.0 ]   
-
-honestly  >>  [ believe, 1.0 ]   [ thought, 1.0 ]   
-
-meantime  >>  [ -, 1.0 ]   
-
-powerful  >>  [ good, 2.0 ]   
-
-royal  >>  [ family, 1.0 ]   [ from, 1.0 ]   
-
-theyre  >>  [ cute, 1.0 ]   [ painting, 1.0 ]   [ just, 1.0 ]   [ all, 1.0 ]   
-
-spun  >>  [ out, 1.0 ]   
-
-screen  >>  [ before, 1.0 ]   
-
-body  >>  [ sexy, 1.0 ]   [ gyal, 1.0 ]   
-
-ned  >>  [ action, 1.0 ]   
-
-rear  >>  [ -, 1.0 ]   
-
-insect  >>  [ craze, 1.0 ]   
-
-entrance  >>  [ by, 4.0 ]   
-
-all  >>  [ private, 1.0 ]   [ my, 1.0 ]   [ you, 2.0 ]   [ these, 1.0 ]   [ deserve, 1.0 ]   [ the, 7.0 ]   [ by, 1.0 ]   [ work, 7.0 ]   [ come, 1.0 ]   [ -, 4.0 ]   [ have, 1.0 ]   [ go, 1.0 ]   [ of, 2.0 ]   [ knew, 2.0 ]   [ along, 2.0 ]   [ that, 1.0 ]   [ got, 1.0 ]   [ less, 1.0 ]   [ time, 3.0 ]   [ good, 1.0 ]   [ special, 1.0 ]   [ night, 1.0 ]   [ tight, 1.0 ]   [ clear, 1.0 ]   
-
-always  >>  [ nice, 1.0 ]   [ disappoint, 1.0 ]   [ ready, 1.0 ]   [ my, 1.0 ]   [ time, 1.0 ]   [ everyone, 1.0 ]   [ be, 1.0 ]   [ works, 2.0 ]   [ to, 1.0 ]   [ keep, 1.0 ]   [ giving, 4.0 ]   [ on, 1.0 ]   
-
-took  >>  [ the, 2.0 ]   [ us, 1.0 ]   [ your, 1.0 ]   
-
-new  >>  [ canes, 1.0 ]   [ career, 1.0 ]   [ on, 2.0 ]   [ leader, 1.0 ]   
-
-read  >>  [ the, 1.0 ]   
-
-tying  >>  [ him, 1.0 ]   
-
-real  >>  [ quick, 1.0 ]   [ for, 1.0 ]   [ life, 2.0 ]   [ -, 1.0 ]   
-
-hilltop  >>  [ in, 1.0 ]   
-
-driving  >>  [ like, 1.0 ]   
-
-sadder  >>  [ and, 1.0 ]   [ -, 1.0 ]   
-
-monthly  >>  [ marge, 1.0 ]   
-
-shame  >>  [ in, 1.0 ]   
-
-canned  >>  [ -, 5.0 ]   
-
-dumb  >>  [ -, 2.0 ]   [ ass, 1.0 ]   [ sorry, 1.0 ]   
-
-around  >>  [ thirty, 1.0 ]   [ the, 1.0 ]   
-
-nicofficial  >>  [ hi, 1.0 ]   
-
-running  >>  [ the, 2.0 ]   [ you, 1.0 ]   [ thats, 1.0 ]   [ through, 2.0 ]   [ -, 1.0 ]   
-
-disappoint  >>  [ -, 1.0 ]   
-
-and  >>  [ ends, 1.0 ]   [ member, 1.0 ]   [ around, 1.0 ]   [ are, 3.0 ]   [ hung, 1.0 ]   [ lose, 1.0 ]   [ say, 1.0 ]   [ a, 2.0 ]   [ sadder, 1.0 ]   [ aggressive, 1.0 ]   [ we, 1.0 ]   [ theres, 1.0 ]   [ here, 1.0 ]   [ fitting, 1.0 ]   [ little, 1.0 ]   [ can, 1.0 ]   [ support, 1.0 ]   [ thank, 1.0 ]   [ what, 1.0 ]   [ celebrate, 1.0 ]   [ more, 1.0 ]   [ its, 2.0 ]   [ go, 1.0 ]   [ have, 1.0 ]   [ -, 8.0 ]   [ butter, 1.0 ]   [ move, 1.0 ]   [ trip, 1.0 ]   [ keep, 1.0 ]   [ end, 1.0 ]   [ she, 1.0 ]   [ you, 4.0 ]   [ nicks, 1.0 ]   [ her, 1.0 ]   [ become, 1.0 ]   [ good, 1.0 ]   [ legal, 1.0 ]   [ do, 3.0 ]   [ tools, 1.0 ]   [ other, 1.0 ]   [ calms, 1.0 ]   [ i, 1.0 ]   [ another, 1.0 ]   [ then, 2.0 ]   [ taken, 1.0 ]   [ yet, 1.0 ]   [ grades, 1.0 ]   [ they, 1.0 ]   [ some, 1.0 ]   [ the, 5.0 ]   [ book, 1.0 ]   [ people, 1.0 ]   [ his, 1.0 ]   [ naming, 1.0 ]   [ walked, 2.0 ]   [ is, 1.0 ]   [ would, 1.0 ]   [ ran, 1.0 ]   [ great, 2.0 ]   [ to, 1.0 ]   [ ready, 1.0 ]   [ big, 1.0 ]   [ never, 1.0 ]   [ haunted, 1.0 ]   [ f, 1.0 ]   [ it, 1.0 ]   [ sons, 1.0 ]   [ fire, 1.0 ]   [ negative, 1.0 ]   [ takes, 1.0 ]   [ were, 2.0 ]   [ battling, 1.0 ]   [ splitting, 1.0 ]   [ an, 1.0 ]   [ love, 1.0 ]   [ bell, 1.0 ]   [ just, 1.0 ]   [ still, 1.0 ]   [ get, 1.0 ]   [ running, 1.0 ]   [ down, 2.0 ]   [ restart, 1.0 ]   
-
-today  >>  [ -, 2.0 ]   [ would, 1.0 ]   
-
-talented  >>  [ -, 1.0 ]   
-
-saying  >>  [ angel, 4.0 ]   
-
-row  >>  [ and, 1.0 ]   
-
-harder  >>  [ to, 7.0 ]   
-
-reinforces  >>  [ my, 1.0 ]   
-
-peppers  >>  [ -, 2.0 ]   
-
-any  >>  [ -, 1.0 ]   [ of, 1.0 ]   
-
-super  >>  [ bowl, 1.0 ]   [ cute, 1.0 ]   
-
-until  >>  [ -, 1.0 ]   [ next, 3.0 ]   
-
-risky  >>  [ -, 2.0 ]   
-
-clipping  >>  [ the, 1.0 ]   
-
-thought  >>  [ good, 1.0 ]   [ that, 3.0 ]   [ it, 1.0 ]   
-
-huck  >>  [ now, 1.0 ]   
-
-legend  >>  [ at, 4.0 ]   
-
-taste  >>  [ way, 2.0 ]   [ like, 1.0 ]   
-
-ship  >>  [ some, 4.0 ]   
-
-couch  >>  [ -, 1.0 ]   
-
-anywhere  >>  [ with, 1.0 ]   
-
-professional  >>  [ ice, 1.0 ]   
-
-cake  >>  [ -, 1.0 ]   
-
-jam  >>  [ -, 7.0 ]   [ jam, 5.0 ]   
-
-jar  >>  [ -, 1.0 ]   
-
-poverty  >>  [ -, 1.0 ]   
-
-dance  >>  [ on, 2.0 ]   
-
-boil  >>  [ then, 1.0 ]   
-
-pearl  >>  [ jam, 5.0 ]   
-
-goodness  >>  [ we, 1.0 ]   
-
-waves  >>  [ to, 2.0 ]   
-
-using  >>  [ -, 1.0 ]   [ are, 1.0 ]   
-
-apt  >>  [ in, 1.0 ]   [ if, 1.0 ]   
-
-fleekandfavored  >>  [ going, 1.0 ]   
-
-liberated  >>  [ by, 1.0 ]   
-
-reel  >>  [ in, 1.0 ]   
-
-eye  >>  [ on, 1.0 ]   
-
-corruption  >>  [ crackdown, 1.0 ]   [ charges, 1.0 ]   
-
-maybe  >>  [ the, 1.0 ]   [ she, 3.0 ]   
-
-another  >>  [ great, 1.0 ]   [ valiant, 1.0 ]   [ dog, 2.0 ]   [ the, 1.0 ]   
-
-are  >>  [ calling, 1.0 ]   [ you, 6.0 ]   [ currently, 1.0 ]   [ trying, 1.0 ]   [ down, 1.0 ]   [ about, 2.0 ]   [ they, 2.0 ]   [ missing, 1.0 ]   [ so, 1.0 ]   [ beautiful, 1.0 ]   [ real, 1.0 ]   [ playing, 1.0 ]   [ submitted, 1.0 ]   [ in, 1.0 ]   [ allowed, 1.0 ]   [ millions, 1.0 ]   [ heavier, 3.0 ]   [ nearly, 1.0 ]   [ changed, 1.0 ]   [ being, 3.0 ]   [ not, 3.0 ]   [ buried, 1.0 ]   [ very, 1.0 ]   [ positive, 1.0 ]   [ taking, 1.0 ]   [ good, 1.0 ]   [ the, 1.0 ]   [ driving, 1.0 ]   [ up, 1.0 ]   
-
-malik  >>  [ rosier, 1.0 ]   
-
-taken  >>  [ inside, 1.0 ]   
-
-came  >>  [ afterwards, 1.0 ]   [ from, 2.0 ]   [ out, 1.0 ]   
-
-where  >>  [ there, 1.0 ]   [ nothing, 2.0 ]   [ u, 1.0 ]   [ is, 1.0 ]   [ are, 1.0 ]   [ to, 1.0 ]   [ the, 1.0 ]   
-
-insane  >>  [ if, 1.0 ]   
-
-takes  >>  [ over, 2.0 ]   [ stage, 2.0 ]   
-
-kids  >>  [ rose, 2.0 ]   [ -, 1.0 ]   
-
-broken  >>  [ hearts, 3.0 ]   
-
-art  >>  [ exit, 1.0 ]   [ huck, 1.0 ]   [ on, 1.0 ]   
-
-horror  >>  [ hosting, 1.0 ]   [ film, 1.0 ]   
-
-noticed  >>  [ that, 1.0 ]   
-
-black  >>  [ freezer, 1.0 ]   [ eyed, 1.0 ]   
-
-call  >>  [ an, 1.0 ]   [ me, 1.0 ]   [ that, 1.0 ]   [ the, 3.0 ]   
-
-such  >>  [ an, 1.0 ]   [ a, 1.0 ]   
-
-classic  >>  [ film, 1.0 ]   
-
-kick  >>  [ off, 1.0 ]   [ me, 3.0 ]   
-
-stayed  >>  [ in, 1.0 ]   [ with, 1.0 ]   
-
-splashing  >>  [ -, 1.0 ]   
-
-shit  >>  [ a, 1.0 ]   [ is, 1.0 ]   [ that, 1.0 ]   
-
-absolute  >>  [ blast, 1.0 ]   
-
-ask  >>  [ consent, 1.0 ]   [ by, 4.0 ]   [ every, 1.0 ]   
-
-suck  >>  [ -, 2.0 ]   
-
-grab  >>  [ the, 1.0 ]   [ -, 3.0 ]   
-
-ass  >>  [ whooper, 1.0 ]   [ chain, 1.0 ]   [ -, 2.0 ]   
-
-through  >>  [ the, 3.0 ]   [ my, 1.0 ]   [ red, 2.0 ]   
-
-wealthy  >>  [ enough, 1.0 ]   
-
-lifetime  >>  [ -, 1.0 ]   
-
-cant  >>  [ drink, 1.0 ]   [ wait, 12.0 ]   [ walk, 1.0 ]   [ talk, 1.0 ]   [ stop, 1.0 ]   [ even, 1.0 ]   [ get, 1.0 ]   
-
-run  >>  [ once, 1.0 ]   [ a, 1.0 ]   [ -, 3.0 ]   [ too, 1.0 ]   [ which, 1.0 ]   [ away, 1.0 ]   
-
-occasional  >>  [ with, 1.0 ]   
-
-bomb  >>  [ on, 1.0 ]   
-
-challenging  >>  [ for, 2.0 ]   
-
-mantis  >>  [ wreck, 1.0 ]   [ before, 1.0 ]   [ was, 1.0 ]   [ mantis, 1.0 ]   [ -, 1.0 ]   [ crushing, 1.0 ]   [ just, 1.0 ]   [ monthly, 1.0 ]   
-
-fossilized  >>  [ -, 1.0 ]   
-
-blackout  >>  [ -, 1.0 ]   
-
-either  >>  [ -, 1.0 ]   
-
-sounded  >>  [ questioning, 1.0 ]   [ like, 8.0 ]   [ cool, 1.0 ]   
-
-white  >>  [ house, 1.0 ]   [ -, 1.0 ]   [ checkered, 1.0 ]   
-
-those  >>  [ -, 1.0 ]   [ crazy, 1.0 ]   
-
-town  >>  [ hall, 1.0 ]   
-
-footage  >>  [ killed, 2.0 ]   
-
-might  >>  [ be, 1.0 ]   [ pop, 1.0 ]   [ fall, 1.0 ]   
-
-girl  >>  [ more, 1.0 ]   [ trips, 1.0 ]   
-
-worse  >>  [ than, 1.0 ]   [ reaction, 1.0 ]   
-
-totaled  >>  [ in, 1.0 ]   
-
-camp  >>  [ this, 1.0 ]   
-
-screaming  >>  [ doing, 1.0 ]   
-
-longer  >>  [ walk, 1.0 ]   
-
-leads  >>  [ state, 1.0 ]   [ at, 1.0 ]   
-
-everywhere  >>  [ tonight, 1.0 ]   
-
-gunshot  >>  [ gonna, 1.0 ]   
-
-sued  >>  [ it, 1.0 ]   
-
-name  >>  [ for, 1.0 ]   [ -, 2.0 ]   [ of, 1.0 ]   
-
-next  >>  [ week, 3.0 ]   [ fans, 1.0 ]   [ time, 3.0 ]   [ edition, 1.0 ]   [ -, 1.0 ]   
-
-blind  >>  [ -, 1.0 ]   
-
-shop  >>  [ now, 2.0 ]   
-
-mood  >>  [ for, 1.0 ]   
-
-truck  >>  [ tub, 3.0 ]   
-
-book  >>  [ by, 1.0 ]   [ version, 1.0 ]   
-
-nearly  >>  [ identical, 1.0 ]   [ lost, 1.0 ]   
-
-show  >>  [ our, 1.0 ]   [ live, 1.0 ]   [ up, 1.0 ]   [ replays, 1.0 ]   
-
-edition  >>  [ of, 1.0 ]   [ -, 1.0 ]   
-
-disappear  >>  [ premieres, 1.0 ]   
-
-cracked  >>  [ the, 1.0 ]   
-
-not  >>  [ just, 4.0 ]   [ ready, 3.0 ]   [ in, 4.0 ]   [ drink, 1.0 ]   [ lake, 1.0 ]   [ have, 1.0 ]   [ go, 1.0 ]   [ -, 1.0 ]   [ get, 1.0 ]   [ even, 1.0 ]   [ dead, 2.0 ]   [ expecting, 1.0 ]   [ guess, 1.0 ]   [ see, 1.0 ]   [ be, 1.0 ]   [ a, 2.0 ]   [ creepy, 1.0 ]   [ like, 1.0 ]   [ your, 3.0 ]   [ obligated, 3.0 ]   [ coming, 1.0 ]   [ guilty, 1.0 ]   [ know, 1.0 ]   [ sorry, 1.0 ]   [ looking, 1.0 ]   [ something, 1.0 ]   
-
-negative  >>  [ -, 1.0 ]   
-
-crying  >>  [ -, 2.0 ]   
-
-now  >>  [ a, 1.0 ]   [ -, 6.0 ]   [ share, 30.0 ]   [ on, 1.0 ]   [ how, 1.0 ]   [ shell, 1.0 ]   [ wondering, 1.0 ]   [ with, 3.0 ]   [ thats, 2.0 ]   [ we, 1.0 ]   [ just, 1.0 ]   [ that, 1.0 ]   [ why, 1.0 ]   [ up, 1.0 ]   [ i, 1.0 ]   
-
-news  >>  [ arrests, 1.0 ]   
-
-green  >>  [ flag, 4.0 ]   [ white, 1.0 ]   
-
-race  >>  [ here, 1.0 ]   
-
-was  >>  [ arrested, 1.0 ]   [ bad, 2.0 ]   [ free, 2.0 ]   [ abandoned, 1.0 ]   [ framed, 1.0 ]   [ -, 2.0 ]   [ fun, 1.0 ]   [ left, 1.0 ]   [ right, 3.0 ]   [ later, 1.0 ]   [ over, 1.0 ]   [ acid, 1.0 ]   [ actually, 2.0 ]   [ the, 4.0 ]   [ not, 1.0 ]   [ mom, 3.0 ]   [ like, 4.0 ]   [ her, 2.0 ]   [ you, 1.0 ]   [ that, 7.0 ]   [ film, 1.0 ]   [ on, 1.0 ]   [ up, 1.0 ]   [ diagnosed, 1.0 ]   [ ever, 2.0 ]   [ found, 1.0 ]   [ in, 1.0 ]   [ a, 5.0 ]   [ chasing, 1.0 ]   [ so, 1.0 ]   [ crazy, 1.0 ]   [ taking, 1.0 ]   [ awesome, 1.0 ]   [ trying, 1.0 ]   [ close, 2.0 ]   
-
-sculpture  >>  [ detail, 1.0 ]   [ is, 1.0 ]   [ -, 1.0 ]   
-
-suddenly  >>  [ lost, 1.0 ]   
-
-way  >>  [ better, 2.0 ]   [ w, 1.0 ]   [ do, 2.0 ]   
-
-awe  >>  [ her, 1.0 ]   
-
-what  >>  [ is, 25.0 ]   [ a, 12.0 ]   [ happened, 1.0 ]   [ are, 1.0 ]   [ all, 1.0 ]   [ trump, 1.0 ]   [ if, 1.0 ]   [ an, 4.0 ]   [ time, 1.0 ]   [ they, 1.0 ]   [ about, 2.0 ]   [ the, 8.0 ]   [ did, 1.0 ]   [ amazing, 2.0 ]   [ happens, 1.0 ]   [ type, 2.0 ]   [ zak, 1.0 ]   
-
-mouth  >>  [ -, 2.0 ]   
-
-urban  >>  [ about, 1.0 ]   
-
-play  >>  [ calling, 3.0 ]   [ damn, 1.0 ]   [ by, 21.0 ]   [ too, 3.0 ]   [ -, 3.0 ]   [ thank, 1.0 ]   [ bedroom, 2.0 ]   [ he, 6.0 ]   [ kiwi, 6.0 ]   
-
-leader  >>  [ -, 4.0 ]   
-
-trump  >>  [ critic, 1.0 ]   [ asks, 2.0 ]   [ -, 1.0 ]   [ is, 1.0 ]   
-
-yard  >>  [ tied, 2.0 ]   
-
-when  >>  [ i, 2.0 ]   [ you, 2.0 ]   [ takes, 2.0 ]   [ water, 2.0 ]   [ gonna, 1.0 ]   [ bell, 2.0 ]   
-
-nearby  >>  [ -, 1.0 ]   
-
-cast  >>  [ is, 4.0 ]   
-
-fan  >>  [ blackout, 1.0 ]   [ to, 1.0 ]   [ -, 1.0 ]   
-
-far  >>  [ -, 2.0 ]   
-
-cash  >>  [ back, 1.0 ]   
-
-plan  >>  [ -, 2.0 ]   [ all, 1.0 ]   [ to, 1.0 ]   
-
-case  >>  [ for, 1.0 ]   [ even, 1.0 ]   [ i, 1.0 ]   [ -, 1.0 ]   [ since, 1.0 ]   [ of, 1.0 ]   
-
-fay  >>  [ ray, 1.0 ]   
-
-give  >>  [ to, 1.0 ]   [ it, 1.0 ]   
-
-double  >>  [ digit, 1.0 ]   
-
-epic  >>  [ scary, 1.0 ]   
-
-moon  >>  [ shining, 1.0 ]   [ in, 1.0 ]   
-
-phone  >>  [ -, 2.0 ]   
-
-slide  >>  [ for, 2.0 ]   
-
-didnt  >>  [ get, 1.0 ]   [ see, 4.0 ]   [ even, 2.0 ]   [ have, 1.0 ]   [ realize, 1.0 ]   [ go, 1.0 ]   [ show, 1.0 ]   
-
-ladies  >>  [ -, 1.0 ]   
-
-completely  >>  [ take, 1.0 ]   
-
-care  >>  [ suck, 1.0 ]   [ of, 1.0 ]   
-
-damage  >>  [ -, 3.0 ]   
-
-boss  >>  [ -, 1.0 ]   
-
-harry  >>  [ -, 5.0 ]   
-
-wetness  >>  [ -, 1.0 ]   
-
-wed  >>  [ love, 3.0 ]   
-
-survives  >>  [ a, 1.0 ]   
-
-protect  >>  [ our, 1.0 ]   
-
-more  >>  [ billionaire, 1.0 ]   [ performer, 1.0 ]   [ of, 2.0 ]   [ -, 3.0 ]   [ horror, 1.0 ]   [ like, 5.0 ]   [ than, 1.0 ]   [ sense, 1.0 ]   [ fun, 1.0 ]   [ i, 1.0 ]   [ kissing, 1.0 ]   [ very, 1.0 ]   [ girl, 1.0 ]   
-
-wet  >>  [ in, 1.0 ]   
-
-anytime  >>  [ someone, 1.0 ]   
-
-kill  >>  [ it, 1.0 ]   [ her, 1.0 ]   
-
-great  >>  [ song, 1.0 ]   [ week, 3.0 ]   [ weekend, 1.0 ]   [ night, 3.0 ]   [ time, 2.0 ]   [ job, 2.0 ]   
-
-happened  >>  [ to, 1.0 ]   
-
-wrong  >>  [ with, 1.0 ]   [ about, 2.0 ]   
-
-shirt  >>  [ check, 1.0 ]   [ alert, 1.0 ]   
-
-accounts  >>  [ at, 1.0 ]   [ so, 1.0 ]   
-
-certain  >>  [ the, 1.0 ]   
-
-stuff  >>  [ daddy, 1.0 ]   
-
-luck  >>  [ explaining, 1.0 ]   
-
-arrest  >>  [ story, 1.0 ]   
-
-used  >>  [ to, 2.0 ]   
-
-schizophrenia  >>  [ well, 1.0 ]   
-
-retirement  >>  [ in, 1.0 ]   
-
-nut  >>  [ case, 1.0 ]   [ -, 1.0 ]   
-
-looks  >>  [ good, 1.0 ]   
-
-letting  >>  [ people, 1.0 ]   
-
-totally  >>  [ overrated, 1.0 ]   
-
-foil  >>  [ out, 1.0 ]   
-
-described  >>  [ as, 1.0 ]   
-
-crackdown  >>  [ -, 1.0 ]   
-
-cellar  >>  [ -, 2.0 ]   
-
-king  >>  [ from, 1.0 ]   
-
-most  >>  [ precious, 1.0 ]   [ of, 1.0 ]   [ people, 1.0 ]   
-
-filtration  >>  [ system, 1.0 ]   
-
-effects  >>  [ on, 1.0 ]   
-
-detective  >>  [ who, 1.0 ]   
+twice  >>  [ and, 12.0 ]   [ as, 5.0 ]   [ on, 1.0 ]   
 
 personally  >>  [ -, 1.0 ]   
 
-outside  >>  [ -, 3.0 ]   [ bumper, 1.0 ]   [ clear, 1.0 ]   [ outside, 1.0 ]   
+opener  >>  [ fights, 1.0 ]   [ -, 2.0 ]   [ my, 4.0 ]   
 
-hung  >>  [ with, 1.0 ]   
+hurts  >>  [ sacked, 1.0 ]   [ has, 2.0 ]   [ key, 1.0 ]   [ is, 1.0 ]   [ -, 6.0 ]   [ third, 1.0 ]   [ play, 4.0 ]   
 
-keep  >>  [ the, 1.0 ]   [ showing, 1.0 ]   [ a, 1.0 ]   [ an, 1.0 ]   [ ignoring, 1.0 ]   
+keep  >>  [ up, 2.0 ]   
 
-explaining  >>  [ a, 1.0 ]   
+topic  >>  [ some, 1.0 ]   [ -, 1.0 ]   [ in, 2.0 ]   [ worldwide, 3.0 ]   
 
-screamed  >>  [ so, 1.0 ]   
+job  >>  [ with, 1.0 ]   
 
-job  >>  [ bravo, 4.0 ]   [ and, 1.0 ]   [ in, 2.0 ]   [ behind, 1.0 ]   
+dont  >>  [ reflect, 1.0 ]   [ think, 1.0 ]   [ rate, 1.0 ]   [ agree, 1.0 ]   [ blame, 1.0 ]   [ have, 4.0 ]   [ see, 3.0 ]   [ truly, 1.0 ]   
 
-correction  >>  [ it, 1.0 ]   
+who  >>  [ dissected, 2.0 ]   [ we, 1.0 ]   [ is, 1.0 ]   [ assaulted, 2.0 ]   [ invented, 1.0 ]   [ should, 1.0 ]   [ attacked, 1.0 ]   [ are, 1.0 ]   
 
-daughter  >>  [ slept, 1.0 ]   [ -, 1.0 ]   
+option  >>  [ plays, 1.0 ]   
 
-sugar  >>  [ rush, 1.0 ]   
+dons  >>  [ a, 1.0 ]   
 
-who  >>  [ was, 4.0 ]   [ guessed, 2.0 ]   [ else, 1.0 ]   [ knows, 1.0 ]   [ have, 1.0 ]   [ maintains, 1.0 ]   [ giving, 2.0 ]   [ who, 2.0 ]   [ for, 2.0 ]   [ can, 1.0 ]   
+tent  >>  [ because, 4.0 ]   [ and, 1.0 ]   [ has, 2.0 ]   [ exits, 2.0 ]   [ -, 1.0 ]   
 
-raid  >>  [ nearby, 1.0 ]   
+joe  >>  [ within, 1.0 ]   
 
-politics  >>  [ -, 1.0 ]   [ or, 2.0 ]   
+politics  >>  [ -, 1.0 ]   
 
-joe  >>  [ you, 1.0 ]   [ -, 1.0 ]   
+game  >>  [ speedy, 1.0 ]   [ midway, 1.0 ]   [ southern, 2.0 ]   [ on, 1.0 ]   [ its, 1.0 ]   [ with, 4.0 ]   [ -, 6.0 ]   [ again, 4.0 ]   [ there, 3.0 ]   [ the, 3.0 ]   [ for, 3.0 ]   [ disruptive, 2.0 ]   [ sucks, 1.0 ]   [ looks, 1.0 ]   [ of, 2.0 ]   [ never, 3.0 ]   [ tonight, 1.0 ]   [ vote, 1.0 ]   
 
-game  >>  [ told, 1.0 ]   [ -, 3.0 ]   [ the, 1.0 ]   [ so, 1.0 ]   [ go, 1.0 ]   [ son, 1.0 ]   
+jog  >>  [ off, 1.0 ]   
 
-why  >>  [ yes, 1.0 ]   [ most, 1.0 ]   [ the, 1.0 ]   [ did, 1.0 ]   [ does, 1.0 ]   [ is, 1.0 ]   [ would, 1.0 ]   [ she, 1.0 ]   [ that, 1.0 ]   
+mike  >>  [ the, 1.0 ]   
 
-inspiration  >>  [ for, 1.0 ]   
+part  >>  [ of, 1.0 ]   
 
-bowl  >>  [ at, 1.0 ]   
+deserves  >>  [ that, 1.0 ]   
 
-rotting  >>  [ -, 1.0 ]   
+their  >>  [ out, 1.0 ]   [ over, 2.0 ]   [ own, 1.0 ]   [ coach, 1.0 ]   [ some, 1.0 ]   [ last, 1.0 ]   
 
-necessarily  >>  [ preserving, 1.0 ]   
+why  >>  [ will, 4.0 ]   [ not, 5.0 ]   [ are, 1.0 ]   [ key, 1.0 ]   [ the, 3.0 ]   
 
-alone  >>  [ for, 1.0 ]   
+point  >>  [ -, 3.0 ]   
 
-donor  >>  [ is, 1.0 ]   
+rocky  >>  [ top, 1.0 ]   
 
-along  >>  [ with, 1.0 ]   [ -, 1.0 ]   [ to, 2.0 ]   
+debut  >>  [ after, 1.0 ]   
 
-sad  >>  [ -, 1.0 ]   
+highlight  >>  [ both, 1.0 ]   
 
-win  >>  [ tonight, 3.0 ]   [ -, 3.0 ]   [ stage, 3.0 ]   
+causing  >>  [ for, 2.0 ]   
 
-lawyer  >>  [ -, 2.0 ]   [ as, 3.0 ]   [ and, 3.0 ]   
+sad  >>  [ for, 1.0 ]   [ -, 1.0 ]   
 
-sam  >>  [ and, 1.0 ]   
+miracle  >>  [ -, 1.0 ]   
 
-rest  >>  [ of, 1.0 ]   
+win  >>  [ -, 27.0 ]   [ that, 1.0 ]   [ it, 1.0 ]   [ tonight, 1.0 ]   [ much, 1.0 ]   
 
-move  >>  [ to, 2.0 ]   [ so, 1.0 ]   [ behind, 1.0 ]   [ that, 1.0 ]   
+sam  >>  [ josh, 2.0 ]   
 
-amount  >>  [ of, 1.0 ]   
+rest  >>  [ of, 4.0 ]   
 
-butter  >>  [ the, 1.0 ]   
+deserve  >>  [ the, 1.0 ]   
 
-saw  >>  [ in, 1.0 ]   [ the, 1.0 ]   
+original  >>  [ -, 1.0 ]   
 
-btsarmy  >>  [ here, 1.0 ]   
+built  >>  [ from, 8.0 ]   
 
-say  >>  [ that, 3.0 ]   [ something, 1.0 ]   [ by, 1.0 ]   [ it, 1.0 ]   [ the, 1.0 ]   
+clear  >>  [ full, 1.0 ]   [ will, 1.0 ]   
 
-also  >>  [ his, 1.0 ]   [ heard, 18.0 ]   [ i, 1.0 ]   
+saw  >>  [ sec, 1.0 ]   [ it, 1.0 ]   
 
-enough  >>  [ for, 1.0 ]   [ they, 1.0 ]   [ to, 1.0 ]   [ -, 3.0 ]   
+also  >>  [ see, 2.0 ]   [ the, 1.0 ]   [ key, 3.0 ]   [ when, 1.0 ]   
 
-gets  >>  [ it, 2.0 ]   [ by, 1.0 ]   
+say  >>  [ god, 1.0 ]   [ -, 1.0 ]   
 
-oclock  >>  [ somewhere, 1.0 ]   
+enough  >>  [ to, 2.0 ]   
 
-investigation  >>  [ of, 1.0 ]   [ -, 1.0 ]   
+clean  >>  [ up, 1.0 ]   
 
-front  >>  [ but, 1.0 ]   
+gets  >>  [ injured, 1.0 ]   [ like, 2.0 ]   [ a, 4.0 ]   [ beat, 1.0 ]   [ bond, 2.0 ]   [ bail, 1.0 ]   
 
-bad  >>  [ safe, 1.0 ]   [ enough, 1.0 ]   [ thing, 1.0 ]   [ advice, 2.0 ]   [ for, 1.0 ]   [ just, 1.0 ]   [ to, 1.0 ]   
+thanking  >>  [ them, 1.0 ]   
 
-dipped  >>  [ no, 1.0 ]   
+gushing  >>  [ about, 1.0 ]   
 
-bag  >>  [ bedlam, 1.0 ]   
+third  >>  [ downs, 1.0 ]   [ time, 2.0 ]   [ sack, 1.0 ]   
 
-brine  >>  [ -, 1.0 ]   
+favor  >>  [ way, 3.0 ]   
 
-kiss  >>  [ baby, 1.0 ]   [ per, 1.0 ]   [ is, 1.0 ]   
+tweeter  >>  [ has, 1.0 ]   
 
-rand  >>  [ -, 1.0 ]   
+denied  >>  [ a, 1.0 ]   [ bond, 2.0 ]   
 
-bar  >>  [ so, 2.0 ]   
+been  >>  [ polite, 1.0 ]   [ protected, 1.0 ]   [ a, 4.0 ]   [ more, 3.0 ]   [ fair, 1.0 ]   [ you, 1.0 ]   [ starting, 4.0 ]   [ involved, 1.0 ]   [ in, 3.0 ]   [ sacked, 1.0 ]   [ held, 3.0 ]   [ ridiculous, 2.0 ]   [ thrown, 1.0 ]   [ denied, 1.0 ]   [ assaulted, 1.0 ]   
 
-bat  >>  [ -, 1.0 ]   
+bad  >>  [ score, 1.0 ]   [ leaping, 1.0 ]   
 
-giant  >>  [ mantis, 3.0 ]   [ have, 1.0 ]   
+bring  >>  [ some, 1.0 ]   
 
-custard  >>  [ powder, 1.0 ]   
+voted  >>  [ shout, 1.0 ]   
 
-afterwards  >>  [ lady, 1.0 ]   [ to, 1.0 ]   
+offer  >>  [ -, 1.0 ]   
 
-sure  >>  [ -, 2.0 ]   [ mom, 2.0 ]   [ i, 1.0 ]   [ theyre, 1.0 ]   [ they, 1.0 ]   
+rand  >>  [ neighbor, 4.0 ]   [ is, 8.0 ]   [ in, 6.0 ]   [ was, 10.0 ]   [ viciously, 2.0 ]   [ a, 2.0 ]   [ suffers, 33.0 ]   [ attacked, 2.0 ]   [ at, 1.0 ]   [ -, 4.0 ]   [ assaulted, 8.0 ]   [ should, 1.0 ]   [ thanks, 2.0 ]   [ with, 1.0 ]   [ suffered, 1.0 ]   [ to, 1.0 ]   [ while, 3.0 ]   [ has, 1.0 ]   [ tackled, 1.0 ]   [ assualted, 1.0 ]   [ violently, 1.0 ]   [ shoot, 1.0 ]   
 
-grow  >>  [ -, 1.0 ]   
+trip  >>  [ to, 2.0 ]   [ -, 1.0 ]   
 
-excited  >>  [ at, 2.0 ]   
+mcbride  >>  [ -, 10.0 ]   [ redshirt, 1.0 ]   [ should, 5.0 ]   [ product, 1.0 ]   [ has, 2.0 ]   [ only, 2.0 ]   [ not, 1.0 ]   [ just, 2.0 ]   [ a, 2.0 ]   [ is, 3.0 ]   [ butch, 1.0 ]   [ tonight, 1.0 ]   [ opens, 2.0 ]   [ for, 3.0 ]   [ at, 2.0 ]   [ gone, 1.0 ]   [ the, 1.0 ]   [ got, 1.0 ]   [ and, 1.0 ]   [ in, 1.0 ]   [ lead, 1.0 ]   [ to, 1.0 ]   [ led, 1.0 ]   
 
-peach  >>  [ preserve, 1.0 ]   
+ugh  >>  [ not, 3.0 ]   
 
-am  >>  [ i, 3.0 ]   [ requesting, 4.0 ]   [ hoping, 1.0 ]   [ in, 1.0 ]   [ not, 2.0 ]   
+killer  >>  [ in, 2.0 ]   
 
-an  >>  [ apparent, 1.0 ]   [ aggressive, 1.0 ]   [ man, 1.0 ]   [ coach, 1.0 ]   [ ocean, 2.0 ]   [ issue, 1.0 ]   [ entrance, 4.0 ]   [ absolute, 1.0 ]   [ right, 1.0 ]   [ classic, 1.0 ]   [ element, 1.0 ]   [ amazing, 1.0 ]   [ eye, 1.0 ]   [ open, 1.0 ]   [ emergency, 1.0 ]   [ air, 1.0 ]   
+chicago  >>  [ threatened, 1.0 ]   
 
-former  >>  [ on, 1.0 ]   
+you  >>  [ out, 1.0 ]   [ know, 2.0 ]   [ would, 2.0 ]   [ on, 1.0 ]   [ -, 3.0 ]   [ let, 1.0 ]   [ fam, 1.0 ]   [ will, 1.0 ]   [ invite, 1.0 ]   [ are, 1.0 ]   [ call, 1.0 ]   [ dont, 1.0 ]   [ how, 5.0 ]   [ need, 1.0 ]   
 
-panic  >>  [ at, 1.0 ]   
+playbook  >>  [ -, 1.0 ]   
 
-blowing  >>  [ out, 1.0 ]   
+happen  >>  [ -, 1.0 ]   
 
-as  >>  [ leads, 2.0 ]   [ dense, 1.0 ]   [ always, 2.0 ]   [ usual, 1.0 ]   [ a, 3.0 ]   [ well, 2.0 ]   [ if, 1.0 ]   [ long, 2.0 ]   [ your, 2.0 ]   [ practice, 1.0 ]   
+sure  >>  [ good, 1.0 ]   [ he, 1.0 ]   [ is, 1.0 ]   
 
-at  >>  [ least, 6.0 ]   [ -, 37.0 ]   [ the, 13.0 ]   [ home, 1.0 ]   [ him, 1.0 ]   [ please, 1.0 ]   [ vote, 1.0 ]   [ fiesta, 11.0 ]   [ if, 1.0 ]   [ our, 1.0 ]   [ on, 1.0 ]   [ watch, 1.0 ]   [ where, 1.0 ]   [ tonight, 4.0 ]   [ with, 1.0 ]   [ for, 1.0 ]   [ all, 2.0 ]   [ state, 1.0 ]   [ jerky, 1.0 ]   [ lap, 1.0 ]   
+going  >>  [ straight, 6.0 ]   [ down, 1.0 ]   [ to, 3.0 ]   
 
-submitted  >>  [ -, 1.0 ]   
+pass  >>  [ his, 1.0 ]   [ here, 1.0 ]   [ right, 1.0 ]   [ but, 1.0 ]   [ play, 1.0 ]   [ rush, 3.0 ]   
 
-haunted  >>  [ love, 1.0 ]   
+excited  >>  [ her, 3.0 ]   
 
-looking  >>  [ sadder, 1.0 ]   [ for, 1.0 ]   [ back, 1.0 ]   [ at, 1.0 ]   
+past  >>  [ the, 1.0 ]   [ personnel, 5.0 ]   [ defense, 2.0 ]   [ quote, 1.0 ]   
 
-drive  >>  [ so, 1.0 ]   [ yeah, 1.0 ]   
+impact  >>  [ of, 1.0 ]   
 
-hurt  >>  [ it, 3.0 ]   
+active  >>  [ constantly, 1.0 ]   
 
-frank  >>  [ and, 2.0 ]   
+am  >>  [ told, 1.0 ]   
 
-strong  >>  [ -, 1.0 ]   
+an  >>  [ excellent, 2.0 ]   [ inch, 1.0 ]   [ injure, 4.0 ]   [ injury, 2.0 ]   [ altercation, 1.0 ]   [ interesting, 1.0 ]   [ player, 3.0 ]   [ in, 1.0 ]   [ awesome, 3.0 ]   [ ongoing, 1.0 ]   
 
-deal  >>  [ such, 1.0 ]   
+former  >>  [ is, 1.0 ]   [ pee, 1.0 ]   
 
-be  >>  [ a, 9.0 ]   [ tha, 1.0 ]   [ nice, 1.0 ]   [ the, 1.0 ]   [ very, 2.0 ]   [ played, 2.0 ]   [ requesting, 1.0 ]   [ awesome, 1.0 ]   [ ready, 2.0 ]   [ safe, 1.0 ]   [ why, 1.0 ]   [ in, 2.0 ]   [ luke, 1.0 ]   [ excited, 2.0 ]   [ like, 1.0 ]   [ giving, 1.0 ]   [ fundraising, 1.0 ]   [ liberated, 1.0 ]   [ wealthy, 1.0 ]   [ about, 1.0 ]   [ kidding, 1.0 ]   [ part, 1.0 ]   [ careful, 1.0 ]   
+as  >>  [ usual, 1.0 ]   [ exciting, 1.0 ]   [ a, 1.0 ]   [ he, 14.0 ]   [ i, 1.0 ]   [ does, 1.0 ]   [ us, 2.0 ]   [ higdon, 1.0 ]   [ much, 2.0 ]   [ is, 1.0 ]   [ fall, 3.0 ]   [ the, 2.0 ]   [ two, 2.0 ]   [ knock, 1.0 ]   [ boucher, 3.0 ]   [ big, 1.0 ]   [ -, 1.0 ]   
 
-dead  >>  [ did, 1.0 ]   [ yet, 1.0 ]   [ all, 1.0 ]   [ dame, 1.0 ]   [ now, 1.0 ]   [ men, 3.0 ]   
+at  >>  [ -, 6.0 ]   [ the, 5.0 ]   [ least, 7.0 ]   [ all, 1.0 ]   [ his, 48.0 ]   [ so, 6.0 ]   [ their, 1.0 ]   [ to, 1.0 ]   [ but, 3.0 ]   [ air, 75.0 ]   [ start, 7.0 ]   [ top, 1.0 ]   [ half, 2.0 ]   [ running, 1.0 ]   [ home, 13.0 ]   [ work, 1.0 ]   [ rand, 3.0 ]   [ bowling, 1.0 ]   
 
-pickle  >>  [ -, 1.0 ]   [ mix, 1.0 ]   
+turning  >>  [ this, 1.0 ]   [ the, 3.0 ]   
 
-rape  >>  [ to, 2.0 ]   
+trying  >>  [ to, 1.0 ]   [ so, 1.0 ]   
 
-see  >>  [ the, 3.0 ]   [ lose, 1.0 ]   [ this, 30.0 ]   [ you, 2.0 ]   [ that, 4.0 ]   [ emma, 1.0 ]   [ trending, 1.0 ]   [ here, 1.0 ]   [ -, 1.0 ]   [ about, 1.0 ]   [ her, 3.0 ]   
+peace  >>  [ through, 1.0 ]   
 
-whoa  >>  [ just, 1.0 ]   
+looking  >>  [ at, 7.0 ]   [ so, 1.0 ]   [ man, 1.0 ]   
 
-fool  >>  [ put, 1.0 ]   
+drive  >>  [ -, 1.0 ]   [ of, 1.0 ]   [ and, 1.0 ]   
 
-sudden  >>  [ she, 1.0 ]   
+hurt  >>  [ tonight, 6.0 ]   [ he, 1.0 ]   
 
-civil  >>  [ authority, 1.0 ]   
+deal  >>  [ sad, 1.0 ]   [ -, 8.0 ]   [ warns, 1.0 ]   
 
-by  >>  [ there, 1.0 ]   [ josh, 4.0 ]   [ nestle, 1.0 ]   [ -, 18.0 ]   [ thanks, 6.0 ]   [ niallofficial, 2.0 ]   [ on, 20.0 ]   [ thank, 13.0 ]   [ and, 3.0 ]   [ harry, 5.0 ]   [ us, 1.0 ]   [ so, 1.0 ]   [ please, 2.0 ]   [ to, 2.0 ]   [ fifth, 4.0 ]   [ id, 1.0 ]   [ lots, 1.0 ]   [ many, 1.0 ]   [ z, 1.0 ]   [ mo, 1.0 ]   [ y, 1.0 ]   [ x, 1.0 ]   [ do, 1.0 ]   [ young, 1.0 ]   [ w, 1.0 ]   [ giving, 1.0 ]   [ how, 1.0 ]   [ the, 3.0 ]   [ chandler, 1.0 ]   [ them, 2.0 ]   [ a, 1.0 ]   [ you, 1.0 ]   [ side, 1.0 ]   [ for, 1.0 ]   
+strong  >>  [ start, 3.0 ]   
 
-dear  >>  [ play, 1.0 ]   
+be  >>  [ for, 1.0 ]   [ stronger, 1.0 ]   [ big, 1.0 ]   [ next, 1.0 ]   [ a, 4.0 ]   [ alright, 3.0 ]   [ live, 1.0 ]   [ frustrating, 2.0 ]   [ able, 1.0 ]   [ special, 1.0 ]   [ referring, 2.0 ]   [ so, 1.0 ]   
 
-keeping  >>  [ going, 1.0 ]   
+comes  >>  [ out, 1.0 ]   [ off, 3.0 ]   
 
-oval  >>  [ office, 1.0 ]   
+dead  >>  [ -, 1.0 ]   
 
-fastest  >>  [ of, 1.0 ]   
+sec  >>  [ network, 15.0 ]   [ football, 2.0 ]   [ key, 1.0 ]   
 
-familiar  >>  [ line, 1.0 ]   
+how  >>  [ big, 1.0 ]   [ many, 1.0 ]   [ the, 1.0 ]   [ much, 2.0 ]   [ let, 1.0 ]   [ violent, 5.0 ]   [ we, 1.0 ]   
 
-food  >>  [ -, 1.0 ]   
+see  >>  [ or, 1.0 ]   [ scorecard, 2.0 ]   [ a, 1.0 ]   [ what, 1.0 ]   [ any, 3.0 ]   [ him, 2.0 ]   
 
-obligated  >>  [ to, 3.0 ]   
+fool  >>  [ with, 1.0 ]   
 
-battle  >>  [ and, 1.0 ]   [ led, 2.0 ]   [ -, 1.0 ]   
+by  >>  [ -, 7.0 ]   [ maybe, 1.0 ]   [ unanimous, 1.0 ]   [ over, 2.0 ]   [ decision, 1.0 ]   [ smaller, 1.0 ]   [ the, 1.0 ]   [ round, 1.0 ]   [ that, 1.0 ]   [ butch, 2.0 ]   [ will, 3.0 ]   [ a, 4.0 ]   [ since, 2.0 ]   [ on, 1.0 ]   [ white, 1.0 ]   [ his, 4.0 ]   [ neighbor, 4.0 ]   [ its, 2.0 ]   [ democrat, 1.0 ]   
 
-awesome  >>  [ if, 1.0 ]   [ mom, 1.0 ]   [ episode, 1.0 ]   [ and, 1.0 ]   [ -, 1.0 ]   
+dear  >>  [ sec, 1.0 ]   
 
-craziness  >>  [ so, 1.0 ]   
+sen  >>  [ rand, 36.0 ]   
 
-eyed  >>  [ canned, 1.0 ]   
+foot  >>  [ literally, 5.0 ]   
 
-essential  >>  [ or, 1.0 ]   
+completion  >>  [ is, 1.0 ]   [ -, 1.0 ]   
 
-bed  >>  [ -, 1.0 ]   [ be, 1.0 ]   [ bugs, 1.0 ]   
+mind  >>  [ of, 10.0 ]   [ you, 1.0 ]   
 
-kiwi  >>  [ by, 22.0 ]   
+scoring  >>  [ a, 5.0 ]   [ both, 1.0 ]   [ winning, 1.0 ]   [ drive, 1.0 ]   
 
-di  >>  [ yeah, 1.0 ]   
+business  >>  [ as, 1.0 ]   [ so, 1.0 ]   
 
-do  >>  [ in, 2.0 ]   [ it, 5.0 ]   [ not, 2.0 ]   [ our, 1.0 ]   [ you, 3.0 ]   [ with, 1.0 ]   [ i, 3.0 ]   [ ice, 1.0 ]   [ good, 3.0 ]   [ on, 1.0 ]   [ law, 1.0 ]   [ more, 1.0 ]   [ see, 3.0 ]   [ away, 1.0 ]   [ an, 1.0 ]   [ these, 1.0 ]   [ the, 1.0 ]   
+keeping  >>  [ that, 2.0 ]   [ itself, 1.0 ]   
 
-bet  >>  [ -, 1.0 ]   [ this, 1.0 ]   [ her, 2.0 ]   
+column  >>  [ -, 4.0 ]   
 
-luke  >>  [ from, 1.0 ]   
+right  >>  [ mauls, 1.0 ]   [ knee, 6.0 ]   [ after, 1.0 ]   [ now, 3.0 ]   [ rockthered, 1.0 ]   [ -, 1.0 ]   [ crazy, 1.0 ]   
 
-scary  >>  [ so, 1.0 ]   [ but, 1.0 ]   [ -, 3.0 ]   
+leftist  >>  [ today, 1.0 ]   
 
-ea  >>  [ se, 1.0 ]   
+transition  >>  [ out, 3.0 ]   
 
-wow  >>  [ -, 2.0 ]   [ army, 1.0 ]   [ he, 1.0 ]   [ mom, 1.0 ]   [ didnt, 1.0 ]   [ this, 2.0 ]   [ that, 1.0 ]   [ love, 1.0 ]   
+awesome  >>  [ transition, 3.0 ]   [ it, 1.0 ]   
 
-digit  >>  [ deficit, 1.0 ]   
+stage  >>  [ at, 7.0 ]   
 
-tires  >>  [ fuel, 1.0 ]   
+booed  >>  [ that, 1.0 ]   
 
-which  >>  [ of, 1.0 ]   [ was, 1.0 ]   [ way, 2.0 ]   
+overrated  >>  [ i, 1.0 ]   
 
-needs  >>  [ to, 30.0 ]   
+inch  >>  [ of, 1.0 ]   
 
-never  >>  [ put, 1.0 ]   [ described, 1.0 ]   [ heard, 1.0 ]   [ a, 2.0 ]   [ question, 1.0 ]   [ anybody, 1.0 ]   [ remembered, 1.0 ]   [ trust, 1.0 ]   [ survives, 1.0 ]   [ drink, 1.0 ]   [ gone, 1.0 ]   [ go, 1.0 ]   [ seen, 2.0 ]   
+under  >>  [ his, 3.0 ]   
 
-she  >>  [ didnt, 2.0 ]   [ doesnt, 4.0 ]   [ stutter, 1.0 ]   [ screamed, 1.0 ]   [ can, 1.0 ]   [ cant, 1.0 ]   [ donated, 1.0 ]   [ was, 1.0 ]   [ knew, 1.0 ]   [ do, 1.0 ]   [ could, 3.0 ]   [ should, 3.0 ]   [ never, 1.0 ]   [ part, 2.0 ]   [ really, 1.0 ]   [ agree, 1.0 ]   [ just, 1.0 ]   [ tried, 4.0 ]   [ dumb, 1.0 ]   [ thinking, 1.0 ]   [ helped, 1.0 ]   [ also, 1.0 ]   [ doing, 1.0 ]   [ keeping, 1.0 ]   [ sent, 1.0 ]   [ need, 1.0 ]   [ ran, 1.0 ]   
+did  >>  [ deserve, 1.0 ]   [ -, 1.0 ]   [ against, 5.0 ]   
 
-piece  >>  [ left, 1.0 ]   
+escorted  >>  [ out, 1.0 ]   
 
-party  >>  [ at, 1.0 ]   [ people, 1.0 ]   [ and, 1.0 ]   [ -, 1.0 ]   
+quarter  >>  [ by, 1.0 ]   
 
-little  >>  [ mix, 1.0 ]   
+leaping  >>  [ call, 1.0 ]   
 
-lucky  >>  [ by, 1.0 ]   [ fan, 1.0 ]   
+language  >>  [ doesnt, 1.0 ]   
 
-tears  >>  [ -, 2.0 ]   
+bowling  >>  [ green, 4.0 ]   
 
-visiting  >>  [ epic, 1.0 ]   
+down  >>  [ and, 2.0 ]   [ he, 1.0 ]   [ on, 2.0 ]   [ praying, 1.0 ]   [ with, 2.0 ]   [ to, 3.0 ]   [ after, 1.0 ]   [ holding, 1.0 ]   [ -, 1.0 ]   [ as, 1.0 ]   [ goes, 2.0 ]   
 
-vocal  >>  [ trump, 1.0 ]   
+⒍  >>  [ baker, 3.0 ]   
 
-for  >>  [ the, 61.0 ]   [ but, 2.0 ]   [ a, 4.0 ]   [ you, 5.0 ]   [ take, 1.0 ]   [ -, 17.0 ]   [ an, 1.0 ]   [ sure, 1.0 ]   [ scotch, 1.0 ]   [ by, 1.0 ]   [ on, 1.0 ]   [ coming, 1.0 ]   [ playing, 1.0 ]   [ s, 11.0 ]   [ this, 9.0 ]   [ and, 1.0 ]   [ me, 2.0 ]   [ another, 1.0 ]   [ entomology, 1.0 ]   [ romance, 2.0 ]   [ kissing, 1.0 ]   [ all, 3.0 ]   [ next, 1.0 ]   [ law, 1.0 ]   [ people, 3.0 ]   [ team, 1.0 ]   [ them, 1.0 ]   [ being, 1.0 ]   [ mumbling, 3.0 ]   [ is, 1.0 ]   [ at, 1.0 ]   [ visiting, 1.0 ]   [ running, 1.0 ]   [ our, 1.0 ]   
+⒎  >>  [ ⒏, 3.0 ]   
 
-watching  >>  [ this, 1.0 ]   [ grass, 1.0 ]   [ pretty, 1.0 ]   [ and, 1.0 ]   [ right, 2.0 ]   [ with, 1.0 ]   
+⒏  >>  [ ⒐, 3.0 ]   
 
-getting  >>  [ money, 1.0 ]   [ her, 2.0 ]   [ ice, 1.0 ]   [ felt, 2.0 ]   [ after, 1.0 ]   
+hold  >>  [ key, 2.0 ]   [ off, 1.0 ]   
 
-alert  >>  [ in, 2.0 ]   
+⒐  >>  [ ⒑, 3.0 ]   
 
-plot  >>  [ as, 1.0 ]   [ that, 1.0 ]   [ bogart, 1.0 ]   [ -, 2.0 ]   
+⒑  >>  [ will, 3.0 ]   
 
-candid  >>  [ -, 6.0 ]   
+higdon  >>  [ and, 60.0 ]   [ picks, 1.0 ]   [ runs, 2.0 ]   [ bursts, 2.0 ]   [ is, 5.0 ]   [ takes, 4.0 ]   [ as, 1.0 ]   [ regrets, 1.0 ]   [ -, 2.0 ]   [ on, 1.0 ]   [ yard, 1.0 ]   [ has, 3.0 ]   [ had, 2.0 ]   [ run, 2.0 ]   [ accounting, 1.0 ]   [ averaging, 2.0 ]   [ already, 2.0 ]   [ now, 1.0 ]   [ jets, 2.0 ]   [ rushing, 2.0 ]   [ wait, 3.0 ]   
 
-jersey  >>  [ -, 1.0 ]   
+attacks  >>  [ rand, 2.0 ]   [ senator, 1.0 ]   
 
-trouble  >>  [ as, 2.0 ]   [ for, 1.0 ]   
+won  >>  [ a, 1.0 ]   [ the, 3.0 ]   [ but, 2.0 ]   [ some, 1.0 ]   [ also, 1.0 ]   [ by, 1.0 ]   [ of, 1.0 ]   
 
-covers  >>  [ madness, 1.0 ]   
+contact  >>  [ before, 3.0 ]   
 
-over  >>  [ left, 1.0 ]   [ -, 2.0 ]   [ well, 1.0 ]   [ her, 1.0 ]   [ pervert, 1.0 ]   [ there, 1.0 ]   [ the, 1.0 ]   
+talk  >>  [ with, 1.0 ]   [ leaves, 1.0 ]   [ about, 3.0 ]   
 
-brilliant  >>  [ job, 4.0 ]   
+possibly  >>  [ a, 2.0 ]   
 
-go  >>  [ on, 2.0 ]   [ -, 2.0 ]   [ to, 3.0 ]   [ over, 2.0 ]   [ in, 5.0 ]   [ back, 2.0 ]   [ missing, 1.0 ]   [ anywhere, 1.0 ]   [ away, 1.0 ]   [ for, 1.0 ]   [ get, 1.0 ]   
+needs  >>  [ to, 3.0 ]   
 
-obviously  >>  [ no, 1.0 ]   
+planet  >>  [ -, 4.0 ]   
 
-football  >>  [ -, 1.0 ]   [ beaten, 1.0 ]   [ team, 1.0 ]   
+finally  >>  [ back, 1.0 ]   [ getting, 1.0 ]   
 
-kept  >>  [ running, 1.0 ]   
+favored  >>  [ here, 1.0 ]   
 
-stroke  >>  [ of, 1.0 ]   
+pulls  >>  [ up, 1.0 ]   
 
-form  >>  [ of, 1.0 ]   
+take  >>  [ you, 1.0 ]   [ out, 2.0 ]   [ over, 1.0 ]   
 
-drifts  >>  [ in, 1.0 ]   
+never  >>  [ fun, 1.0 ]   [ seen, 1.0 ]   [ call, 3.0 ]   [ beat, 1.0 ]   [ been, 3.0 ]   
 
-ha  >>  [ ha, 1.0 ]   [ we, 1.0 ]   [ i, 2.0 ]   [ just, 1.0 ]   
+she  >>  [ was, 3.0 ]   
 
-fresh  >>  [ tires, 1.0 ]   
+2goal  >>  [ game, 2.0 ]   
 
-he  >>  [ is, 2.0 ]   [ has, 1.0 ]   [ like, 7.0 ]   [ just, 3.0 ]   [ caught, 1.0 ]   [ say, 1.0 ]   [ would, 1.0 ]   [ cant, 1.0 ]   [ said, 1.0 ]   [ became, 1.0 ]   [ killed, 2.0 ]   [ was, 1.0 ]   [ will, 1.0 ]   
+piece  >>  [ all, 1.0 ]   
 
-tunnel  >>  [ -, 1.0 ]   
+blame  >>  [ their, 1.0 ]   [ him, 2.0 ]   
 
-big  >>  [ not, 1.0 ]   [ moment, 1.0 ]   [ plan, 1.0 ]   [ fan, 1.0 ]   [ slide, 2.0 ]   
+final  >>  [ the, 1.0 ]   
 
-very  >>  [ successful, 2.0 ]   [ soon, 1.0 ]   [ long, 1.0 ]   [ dark, 1.0 ]   [ loud, 1.0 ]   [ talented, 1.0 ]   
+carry  >>  [ -, 1.0 ]   [ on, 1.0 ]   [ from, 2.0 ]   [ for, 1.0 ]   [ tonight, 2.0 ]   
 
-hi  >>  [ please, 6.0 ]   [ could, 2.0 ]   [ wed, 3.0 ]   [ would, 1.0 ]   [ i, 1.0 ]   
+helps  >>  [ them, 1.0 ]   
 
-mumbling  >>  [ -, 3.0 ]   
+party  >>  [ is, 1.0 ]   
 
-practice  >>  [ -, 1.0 ]   
+little  >>  [ overrated, 1.0 ]   
 
-bin  >>  [ talal, 4.0 ]   
+lucky  >>  [ alive, 1.0 ]   
 
-sick  >>  [ game, 1.0 ]   [ twisted, 1.0 ]   
+some  >>  [ of, 2.0 ]   [ potato, 1.0 ]   [ energy, 1.0 ]   [ help, 1.0 ]   [ dude, 2.0 ]   
 
-bit  >>  [ -, 1.0 ]   [ of, 1.0 ]   [ bizarre, 1.0 ]   [ joe, 1.0 ]   
+deep  >>  [ but, 1.0 ]   [ already, 1.0 ]   
 
-thanks  >>  [ -, 6.0 ]   [ for, 5.0 ]   [ so, 1.0 ]   
+waiting  >>  [ for, 6.0 ]   
 
-nocterminal  >>  [ crash, 1.0 ]   
+pumped  >>  [ about, 5.0 ]   
 
-else  >>  [ is, 1.0 ]   [ watch, 1.0 ]   
+for  >>  [ twitter, 5.0 ]   [ android, 1.0 ]   [ crowd, 3.0 ]   [ keeping, 2.0 ]   [ welter, 2.0 ]   [ over, 1.0 ]   [ but, 2.0 ]   [ favored, 1.0 ]   [ what, 1.0 ]   [ the, 19.0 ]   [ won, 1.0 ]   [ giving, 1.0 ]   [ tide, 1.0 ]   [ could, 1.0 ]   [ -, 17.0 ]   [ hope, 3.0 ]   [ you, 1.0 ]   [ hes, 1.0 ]   [ his, 3.0 ]   [ burning, 12.0 ]   [ a, 14.0 ]   [ three, 2.0 ]   [ being, 1.0 ]   [ tonight, 5.0 ]   [ one, 1.0 ]   [ ross, 1.0 ]   [ and, 2.0 ]   [ president, 6.0 ]   [ selfless, 1.0 ]   [ day, 1.0 ]   [ at, 2.0 ]   [ michigan, 2.0 ]   [ of, 1.0 ]   [ run, 2.0 ]   [ it, 3.0 ]   [ great, 2.0 ]   [ key, 2.0 ]   [ all, 4.0 ]   [ second, 11.0 ]   [ him, 1.0 ]   [ played, 1.0 ]   [ political, 8.0 ]   [ rand, 1.0 ]   [ unknown, 1.0 ]   [ fourth, 1.0 ]   
 
-four  >>  [ to, 2.0 ]   
+back  >>  [ of, 2.0 ]   [ in, 11.0 ]   [ on, 1.0 ]   [ has, 1.0 ]   [ holding, 1.0 ]   [ -, 4.0 ]   [ after, 1.0 ]   [ so, 1.0 ]   
 
-id  >>  [ love, 1.0 ]   [ like, 2.0 ]   [ be, 1.0 ]   [ a, 1.0 ]   [ see, 1.0 ]   [ much, 1.0 ]   [ run, 1.0 ]   
+title  >>  [ in, 2.0 ]   [ boxing, 2.0 ]   
 
-join  >>  [ us, 1.0 ]   
+illafford  >>  [ to, 4.0 ]   
 
-drag  >>  [ the, 1.0 ]   
+watching  >>  [ look, 1.0 ]   
 
-if  >>  [ the, 1.0 ]   [ you, 38.0 ]   [ i, 3.0 ]   [ surprised, 1.0 ]   [ youd, 1.0 ]   [ -, 2.0 ]   [ its, 1.0 ]   [ id, 1.0 ]   [ there, 1.0 ]   [ watching, 2.0 ]   [ back, 3.0 ]   
+fox  >>  [ halftime, 3.0 ]   
 
-crown  >>  [ prince, 5.0 ]   
+mack  >>  [ and, 1.0 ]   [ -, 4.0 ]   [ earlier, 1.0 ]   
 
-screwed  >>  [ no, 1.0 ]   
+miss  >>  [ will, 2.0 ]   [ and, 1.0 ]   
 
-issue  >>  [ -, 1.0 ]   
+salute  >>  [ as, 5.0 ]   
 
-in  >>  [ an, 2.0 ]   [ capital, 1.0 ]   [ the, 26.0 ]   [ a, 14.0 ]   [ happening, 1.0 ]   [ corruption, 1.0 ]   [ studio, 1.0 ]   [ year, 1.0 ]   [ bed, 1.0 ]   [ this, 8.0 ]   [ half, 1.0 ]   [ which, 1.0 ]   [ -, 9.0 ]   [ plan, 2.0 ]   [ swamp, 1.0 ]   [ flint, 1.0 ]   [ your, 1.0 ]   [ still, 1.0 ]   [ play, 1.0 ]   [ now, 1.0 ]   [ at, 1.0 ]   [ on, 1.0 ]   [ my, 1.0 ]   [ before, 1.0 ]   [ there, 1.0 ]   [ tweet, 4.0 ]   [ these, 2.0 ]   [ shock, 1.0 ]   [ here, 1.0 ]   [ love, 2.0 ]   [ fact, 1.0 ]   [ apt, 1.0 ]   [ if, 1.0 ]   [ her, 2.0 ]   [ real, 2.0 ]   [ case, 2.0 ]   [ person, 1.0 ]   [ and, 2.0 ]   [ that, 1.0 ]   [ session, 1.0 ]   [ stage, 4.0 ]   [ no, 1.0 ]   [ for, 1.0 ]   [ has, 1.0 ]   
+getting  >>  [ mugged, 1.0 ]   [ a, 1.0 ]   [ held, 5.0 ]   [ back, 1.0 ]   [ over, 1.0 ]   
 
-literally  >>  [ want, 1.0 ]   [ -, 1.0 ]   
+alert  >>  [ more, 1.0 ]   
 
-director  >>  [ thinks, 1.0 ]   
+wasnt  >>  [ -, 1.0 ]   [ the, 2.0 ]   
 
-chasing  >>  [ zak, 1.0 ]   
+rate  >>  [ him, 1.0 ]   
 
-tomorrow  >>  [ at, 1.0 ]   
+disruptive  >>  [ but, 2.0 ]   
 
-is  >>  [ a, 6.0 ]   [ now, 2.0 ]   [ big, 1.0 ]   [ the, 27.0 ]   [ in, 2.0 ]   [ going, 1.0 ]   [ love, 2.0 ]   [ looking, 1.0 ]   [ ugly, 1.0 ]   [ no, 5.0 ]   [ not, 7.0 ]   [ mostly, 1.0 ]   [ naturally, 1.0 ]   [ reckless, 1.0 ]   [ coming, 3.0 ]   [ -, 4.0 ]   [ always, 4.0 ]   [ ready, 1.0 ]   [ that, 1.0 ]   [ too, 3.0 ]   [ amazing, 2.0 ]   [ doing, 4.0 ]   [ serious, 1.0 ]   [ it, 1.0 ]   [ thinking, 2.0 ]   [ right, 3.0 ]   [ unrealistic, 1.0 ]   [ cheering, 1.0 ]   [ there, 1.0 ]   [ so, 1.0 ]   [ her, 3.0 ]   [ like, 4.0 ]   [ business, 1.0 ]   [ an, 1.0 ]   [ bad, 1.0 ]   [ still, 2.0 ]   [ what, 1.0 ]   [ incredible, 1.0 ]   [ hard, 3.0 ]   [ when, 1.0 ]   [ this, 1.0 ]   [ gonna, 1.0 ]   [ kissing, 1.0 ]   [ crazy, 3.0 ]   [ painful, 1.0 ]   [ gone, 1.0 ]   [ she, 2.0 ]   [ being, 1.0 ]   [ believed, 1.0 ]   [ beating, 1.0 ]   [ such, 1.0 ]   [ alone, 1.0 ]   [ trending, 1.0 ]   [ fun, 1.0 ]   [ complete, 3.0 ]   [ back, 1.0 ]   [ up, 2.0 ]   [ awesome, 1.0 ]   [ out, 1.0 ]   [ within, 1.0 ]   [ starting, 1.0 ]   [ winning, 1.0 ]   [ after, 1.0 ]   
+await  >>  [ at, 1.0 ]   
 
-it  >>  [ a, 1.0 ]   [ -, 11.0 ]   [ and, 1.0 ]   [ would, 3.0 ]   [ for, 2.0 ]   [ comes, 1.0 ]   [ in, 2.0 ]   [ is, 8.0 ]   [ with, 1.0 ]   [ came, 2.0 ]   [ cool, 1.0 ]   [ to, 8.0 ]   [ tonight, 1.0 ]   [ can, 1.0 ]   [ take, 1.0 ]   [ too, 1.0 ]   [ on, 2.0 ]   [ ouch, 1.0 ]   [ ladies, 1.0 ]   [ was, 10.0 ]   [ are, 1.0 ]   [ does, 1.0 ]   [ this, 2.0 ]   [ come, 3.0 ]   [ the, 1.0 ]   [ nick, 1.0 ]   [ still, 1.0 ]   [ all, 2.0 ]   [ done, 3.0 ]   [ sigh, 1.0 ]   [ wasnt, 7.0 ]   [ sounded, 1.0 ]   [ sounds, 1.0 ]   [ necessarily, 1.0 ]   [ straight, 1.0 ]   
+client  >>  [ -, 1.0 ]   
 
-drink  >>  [ water, 1.0 ]   [ with, 2.0 ]   [ the, 1.0 ]   [ -, 5.0 ]   [ last, 1.0 ]   
+just  >>  [ watched, 1.0 ]   [ won, 1.0 ]   [ shaded, 1.0 ]   [ got, 5.0 ]   [ enough, 1.0 ]   [ doing, 1.0 ]   [ kill, 1.0 ]   [ threw, 3.0 ]   [ burned, 2.0 ]   [ now, 1.0 ]   [ excited, 3.0 ]   [ met, 1.0 ]   [ thanked, 1.0 ]   [ like, 2.0 ]   [ three, 2.0 ]   [ called, 3.0 ]   [ tackled, 1.0 ]   [ put, 1.0 ]   [ made, 2.0 ]   [ goes, 5.0 ]   [ learned, 2.0 ]   [ when, 1.0 ]   [ in, 1.0 ]   
 
-somebody  >>  [ i, 2.0 ]   [ is, 1.0 ]   
+over  >>  [ coming, 1.0 ]   [ to, 2.0 ]   [ a, 1.0 ]   [ hes, 1.0 ]   [ and, 1.0 ]   [ will, 2.0 ]   [ at, 1.0 ]   [ rush, 1.0 ]   [ hurts, 1.0 ]   [ for, 1.0 ]   [ the, 2.0 ]   
 
-woohoo  >>  [ -, 1.0 ]   
+idiot  >>  [ talk, 3.0 ]   
 
-gave  >>  [ the, 1.0 ]   [ an, 1.0 ]   [ me, 2.0 ]   
+go  >>  [ to, 18.0 ]   [ and, 1.0 ]   [ in, 5.0 ]   [ back, 5.0 ]   [ wrong, 1.0 ]   [ -, 5.0 ]   [ top, 1.0 ]   [ low, 1.0 ]   [ high, 1.0 ]   
 
-hello  >>  [ i, 3.0 ]   [ would, 1.0 ]   [ play, 1.0 ]   [ it, 1.0 ]   [ id, 1.0 ]   [ we, 1.0 ]   [ please, 1.0 ]   [ general, 1.0 ]   [ man, 1.0 ]   
+tommy  >>  [ -, 1.0 ]   
 
-diagnosed  >>  [ w, 1.0 ]   
+obviously  >>  [ upset, 3.0 ]   [ two, 3.0 ]   
 
-become  >>  [ a, 1.0 ]   
+football  >>  [ will, 1.0 ]   [ spot, 2.0 ]   [ sec, 1.0 ]   [ have, 1.0 ]   
 
-sly  >>  [ the, 1.0 ]   [ and, 1.0 ]   
+counter  >>  [ for, 1.0 ]   
 
-brought  >>  [ their, 1.0 ]   
+grand  >>  [ total, 6.0 ]   
 
-works  >>  [ out, 2.0 ]   
+home  >>  [ planet, 4.0 ]   [ so, 4.0 ]   [ for, 8.0 ]   [ in, 4.0 ]   [ assailant, 1.0 ]   [ -, 30.0 ]   [ reportedly, 3.0 ]   [ as, 1.0 ]   [ via, 1.0 ]   [ pray, 1.0 ]   [ and, 2.0 ]   [ tell, 3.0 ]   [ welcome, 1.0 ]   [ what, 2.0 ]   [ news, 1.0 ]   [ damn, 1.0 ]   [ police, 1.0 ]   
 
-alive  >>  [ oh, 1.0 ]   
+tarmac  >>  [ at, 5.0 ]   
 
-turned  >>  [ and, 2.0 ]   [ on, 1.0 ]   
+form  >>  [ and, 2.0 ]   
 
-boyfriend  >>  [ is, 1.0 ]   
+ha  >>  [ no, 1.0 ]   
 
-weekend  >>  [ -, 3.0 ]   [ if, 1.0 ]   
+he  >>  [ rightfully, 1.0 ]   [ should, 1.0 ]   [ put, 1.0 ]   [ won, 1.0 ]   [ heads, 3.0 ]   [ chucked, 1.0 ]   [ took, 1.0 ]   [ threw, 2.0 ]   [ was, 3.0 ]   [ can, 4.0 ]   [ did, 5.0 ]   [ walks, 5.0 ]   [ does, 7.0 ]   [ hides, 1.0 ]   [ is, 4.0 ]   [ quietly, 1.0 ]   [ gets, 2.0 ]   [ comes, 3.0 ]   [ just, 1.0 ]   [ looks, 5.0 ]   [ -, 5.0 ]   [ has, 3.0 ]   [ key, 2.0 ]   [ favors, 1.0 ]   [ works, 1.0 ]   [ helps, 1.0 ]   [ needs, 1.0 ]   [ suffered, 1.0 ]   
 
-grades  >>  [ are, 1.0 ]   
+showing  >>  [ up, 1.0 ]   
 
-thinking  >>  [ about, 2.0 ]   [ she, 1.0 ]   
+president  >>  [ trump, 36.0 ]   [ and, 6.0 ]   [ -, 2.0 ]   
 
-banging  >>  [ noise, 1.0 ]   
+very  >>  [ close, 2.0 ]   [ tough, 1.0 ]   
 
-world  >>  [ lets, 1.0 ]   [ -, 1.0 ]   
+big  >>  [ a, 2.0 ]   [ could, 1.0 ]   [ -, 1.0 ]   [ loss, 1.0 ]   [ completion, 1.0 ]   [ tonight, 1.0 ]   [ deal, 8.0 ]   
 
-theres  >>  [ tech, 1.0 ]   [ your, 2.0 ]   [ clipping, 1.0 ]   [ that, 1.0 ]   
+frustrated  >>  [ as, 3.0 ]   [ he, 1.0 ]   
 
-halftime  >>  [ in, 1.0 ]   
+crowd  >>  [ is, 2.0 ]   [ booed, 1.0 ]   [ hangar, 1.0 ]   
 
-wut  >>  [ whoa, 1.0 ]   
+congress  >>  [ was, 2.0 ]   
 
-camera  >>  [ do, 2.0 ]   [ they, 1.0 ]   
+sick  >>  [ find, 2.0 ]   
 
-everything  >>  [ always, 2.0 ]   
+hope  >>  [ hes, 3.0 ]   [ that, 1.0 ]   [ you, 1.0 ]   [ -, 1.0 ]   [ rand, 1.0 ]   
 
-side  >>  [ piece, 1.0 ]   [ by, 1.0 ]   [ got, 1.0 ]   
+soon  >>  [ as, 1.0 ]   
 
-break  >>  [ from, 1.0 ]   
+doesnt  >>  [ want, 1.0 ]   [ look, 1.0 ]   [ he, 5.0 ]   
 
-seemed  >>  [ to, 1.0 ]   
+thanks  >>  [ to, 5.0 ]   
 
-missed  >>  [ the, 1.0 ]   
+appeared  >>  [ to, 1.0 ]   
 
-restaurant  >>  [ in, 1.0 ]   
+sons  >>  [ redshirt, 2.0 ]   
 
-knew  >>  [ it, 2.0 ]   [ mom, 5.0 ]   [ about, 1.0 ]   [ the, 4.0 ]   [ something, 1.0 ]   
+tape  >>  [ on, 1.0 ]   
 
-off  >>  [ to, 4.0 ]   [ that, 1.0 ]   [ the, 1.0 ]   [ for, 1.0 ]   [ of, 1.0 ]   [ are, 1.0 ]   [ -, 1.0 ]   [ a, 2.0 ]   
+corner  >>  [ -, 3.0 ]   
 
-joke  >>  [ -, 1.0 ]   
+four  >>  [ that, 2.0 ]   
 
-complete  >>  [ -, 1.0 ]   [ e, 2.0 ]   [ in, 1.0 ]   
+easily  >>  [ maybe, 1.0 ]   
 
-fun  >>  [ before, 4.0 ]   [ at, 1.0 ]   [ night, 1.0 ]   [ to, 3.0 ]   
+drag  >>  [ us, 1.0 ]   
 
-sigh  >>  [ these, 1.0 ]   
+if  >>  [ doesnt, 1.0 ]   [ our, 1.0 ]   [ weve, 1.0 ]   [ put, 1.0 ]   [ gets, 1.0 ]   [ been, 3.0 ]   [ is, 4.0 ]   [ he, 2.0 ]   [ i, 1.0 ]   [ rand, 8.0 ]   [ they, 1.0 ]   
 
-pants  >>  [ again, 1.0 ]   [ -, 1.0 ]   
+crown  >>  [ -, 1.0 ]   
 
-angel  >>  [ -, 1.0 ]   [ everybody, 2.0 ]   [ is, 3.0 ]   
+sky  >>  [ and, 1.0 ]   [ is, 2.0 ]   
 
-office  >>  [ -, 1.0 ]   
+fired  >>  [ up, 2.0 ]   [ butch, 1.0 ]   
 
-while  >>  [ untying, 1.0 ]   [ trying, 3.0 ]   [ zak, 1.0 ]   [ under, 1.0 ]   [ e, 1.0 ]   
+violently  >>  [ attacked, 1.0 ]   
 
-second  >>  [ half, 1.0 ]   [ plaid, 1.0 ]   
+in  >>  [ a, 8.0 ]   [ control, 1.0 ]   [ made, 1.0 ]   [ united, 2.0 ]   [ check, 2.0 ]   [ opener, 3.0 ]   [ favor, 3.0 ]   [ to, 1.0 ]   [ this, 3.0 ]   [ the, 84.0 ]   [ there, 6.0 ]   [ boxing, 1.0 ]   [ obvious, 2.0 ]   [ disgust, 3.0 ]   [ goes, 1.0 ]   [ pain, 1.0 ]   [ week, 2.0 ]   [ section, 1.0 ]   [ it, 2.0 ]   [ at, 6.0 ]   [ for, 3.0 ]   [ again, 1.0 ]   [ -, 5.0 ]   [ on, 6.0 ]   [ japan, 50.0 ]   [ air, 16.0 ]   [ where, 1.0 ]   [ …, 2.0 ]   [ ann, 2.0 ]   [ about, 1.0 ]   [ shape, 3.0 ]   [ spending, 1.0 ]   [ his, 11.0 ]   [ v, 1.0 ]   [ when, 1.0 ]   [ alleged, 5.0 ]   [ suspect, 1.0 ]   [ assault, 27.0 ]   [ safety, 1.0 ]   [ rand, 1.0 ]   [ he, 1.0 ]   
 
-that  >>  [ -, 11.0 ]   [ is, 1.0 ]   [ look, 1.0 ]   [ defense, 1.0 ]   [ fake, 1.0 ]   [ turnover, 1.0 ]   [ chain, 1.0 ]   [ he, 1.0 ]   [ been, 1.0 ]   [ on, 1.0 ]   [ by, 6.0 ]   [ stage, 4.0 ]   [ collaboration, 1.0 ]   [ like, 1.0 ]   [ would, 1.0 ]   [ was, 11.0 ]   [ camera, 1.0 ]   [ old, 1.0 ]   [ its, 1.0 ]   [ coming, 4.0 ]   [ good, 2.0 ]   [ i, 2.0 ]   [ she, 2.0 ]   [ level, 2.0 ]   [ to, 1.0 ]   [ some, 1.0 ]   [ in, 1.0 ]   [ makes, 1.0 ]   [ the, 1.0 ]   [ doesnt, 1.0 ]   [ never, 1.0 ]   [ taught, 1.0 ]   [ a, 2.0 ]   [ id, 1.0 ]   [ money, 1.0 ]   [ poor, 1.0 ]   [ easy, 4.0 ]   [ wasnt, 1.0 ]   [ that, 2.0 ]   [ banging, 1.0 ]   [ sounded, 5.0 ]   [ doll, 3.0 ]   [ you, 1.0 ]   [ more, 1.0 ]   [ loud, 1.0 ]   [ sound, 2.0 ]   [ gave, 2.0 ]   [ made, 1.0 ]   [ basement, 1.0 ]   [ growl, 1.0 ]   [ fast, 1.0 ]   [ his, 2.0 ]   [ before, 1.0 ]   [ bumper, 1.0 ]   [ mess, 1.0 ]   
+belt  >>  [ and, 1.0 ]   [ quite, 1.0 ]   
 
-high  >>  [ school, 1.0 ]   
+made  >>  [ a, 1.0 ]   [ every, 1.0 ]   [ the, 3.0 ]   [ sick, 2.0 ]   
 
-son  >>  [ -, 2.0 ]   
+literally  >>  [ almost, 1.0 ]   [ off, 5.0 ]   [ being, 5.0 ]   
 
-split  >>  [ a, 1.0 ]   
+chasing  >>  [ hurts, 2.0 ]   
 
-than  >>  [ a, 2.0 ]   [ the, 1.0 ]   [ broken, 3.0 ]   [ that, 1.0 ]   
+tomorrow  >>  [ trump, 1.0 ]   
 
-me  >>  [ like, 1.0 ]   [ we, 1.0 ]   [ poverty, 1.0 ]   [ have, 1.0 ]   [ -, 5.0 ]   [ down, 2.0 ]   [ homer, 1.0 ]   [ happy, 1.0 ]   [ how, 1.0 ]   [ too, 1.0 ]   [ correction, 1.0 ]   [ in, 4.0 ]   [ to, 3.0 ]   [ trying, 1.0 ]   [ guns, 3.0 ]   [ more, 1.0 ]   [ toolactually, 1.0 ]   [ singing, 1.0 ]   [ right, 1.0 ]   [ just, 1.0 ]   [ on, 3.0 ]   [ out, 1.0 ]   [ chills, 2.0 ]   [ jump, 2.0 ]   
+is  >>  [ your, 5.0 ]   [ trending, 1.0 ]   [ booing, 2.0 ]   [ a, 11.0 ]   [ wrong, 2.0 ]   [ the, 9.0 ]   [ certainly, 1.0 ]   [ down, 7.0 ]   [ up, 2.0 ]   [ able, 2.0 ]   [ still, 9.0 ]   [ walking, 2.0 ]   [ on, 1.0 ]   [ in, 3.0 ]   [ hurt, 1.0 ]   [ alright, 1.0 ]   [ you, 1.0 ]   [ back, 7.0 ]   [ my, 1.0 ]   [ better, 1.0 ]   [ now, 4.0 ]   [ wanted, 1.0 ]   [ officially, 1.0 ]   [ here, 1.0 ]   [ most, 3.0 ]   [ also, 3.0 ]   [ ready, 7.0 ]   [ out, 2.0 ]   [ done, 3.0 ]   [ more, 1.0 ]   [ about, 1.0 ]   [ converting, 1.0 ]   [ speaking, 1.0 ]   [ expected, 1.0 ]   [ very, 1.0 ]   [ away, 1.0 ]   [ looking, 1.0 ]   [ literally, 5.0 ]   [ having, 2.0 ]   [ getting, 6.0 ]   [ blue, 2.0 ]   [ coming, 2.0 ]   [ -, 1.0 ]   [ that, 1.0 ]   [ awesome, 1.0 ]   [ making, 1.0 ]   [ going, 1.0 ]   [ sacked, 1.0 ]   [ everywhere, 1.0 ]   [ key, 1.0 ]   [ supposed, 1.0 ]   [ held, 1.0 ]   [ pretty, 1.0 ]   [ whats, 1.0 ]   [ dead, 1.0 ]   [ again, 1.0 ]   [ crushing, 1.0 ]   [ playing, 1.0 ]   [ trying, 1.0 ]   [ as, 1.0 ]   [ at, 1.0 ]   [ assaulted, 3.0 ]   [ after, 2.0 ]   [ denied, 2.0 ]   [ lucky, 1.0 ]   
 
-rosier  >>  [ with, 1.0 ]   
+it  >>  [ didnt, 1.0 ]   [ was, 5.0 ]   [ just, 1.0 ]   [ but, 3.0 ]   [ became, 1.0 ]   [ should, 1.0 ]   [ that, 2.0 ]   [ widely, 1.0 ]   [ for, 1.0 ]   [ a, 1.0 ]   [ -, 7.0 ]   [ i, 1.0 ]   [ serious, 1.0 ]   [ out, 1.0 ]   [ man, 1.0 ]   [ to, 5.0 ]   [ soon, 1.0 ]   [ came, 2.0 ]   [ seems, 16.0 ]   [ on, 17.0 ]   [ up, 3.0 ]   [ live, 1.0 ]   [ is, 1.0 ]   [ right, 1.0 ]   
 
-durst  >>  [ case, 1.0 ]   [ its, 1.0 ]   [ had, 3.0 ]   
+being  >>  [ helped, 2.0 ]   [ livid, 1.0 ]   [ happy, 1.0 ]   [ tackled, 5.0 ]   [ assaulted, 2.0 ]   
 
-mi  >>  [ body, 1.0 ]   
+vacant  >>  [ junior, 1.0 ]   
 
-jarring  >>  [ at, 1.0 ]   
+somebody  >>  [ block, 1.0 ]   [ attacked, 1.0 ]   
 
-mo  >>  [ thanks, 1.0 ]   
+talked  >>  [ to, 3.0 ]   
 
-level  >>  [ -, 2.0 ]   
+captains  >>  [ ross, 1.0 ]   
 
-shuffled  >>  [ back, 1.0 ]   
+field  >>  [ were, 6.0 ]   [ he, 1.0 ]   [ -, 3.0 ]   [ hes, 1.0 ]   [ issues, 1.0 ]   [ currently, 1.0 ]   [ heads, 1.0 ]   [ cant, 2.0 ]   
 
-greenhouse  >>  [ draped, 1.0 ]   
+sideline  >>  [ trying, 1.0 ]   [ interesting, 1.0 ]   
 
-preserve  >>  [ -, 1.0 ]   [ fall, 1.0 ]   [ at, 1.0 ]   
+deflect  >>  [ a, 1.0 ]   
 
-throws  >>  [ his, 1.0 ]   
+gave  >>  [ every, 1.0 ]   
 
-my  >>  [ will, 1.0 ]   [ daughter, 1.0 ]   [ tufted, 1.0 ]   [ two, 1.0 ]   [ lets, 1.0 ]   [ truck, 3.0 ]   [ -, 2.0 ]   [ pool, 1.0 ]   [ leg, 2.0 ]   [ request, 1.0 ]   [ lingo, 1.0 ]   [ feed, 1.0 ]   [ until, 1.0 ]   [ car, 1.0 ]   [ alley, 1.0 ]   [ are, 1.0 ]   [ favorite, 4.0 ]   [ mom, 2.0 ]   [ job, 1.0 ]   [ teeth, 3.0 ]   [ life, 1.0 ]   [ theory, 1.0 ]   [ glass, 1.0 ]   [ retirement, 1.0 ]   [ whole, 1.0 ]   [ immense, 1.0 ]   [ heart, 2.0 ]   [ god, 1.0 ]   [ dog, 1.0 ]   [ pants, 1.0 ]   [ buddy, 3.0 ]   [ mum, 1.0 ]   [ heard, 1.0 ]   [ goodness, 1.0 ]   [ glad, 1.0 ]   
+opens  >>  [ second, 2.0 ]   
 
-arrests  >>  [ at, 1.0 ]   [ family, 2.0 ]   [ including, 1.0 ]   
+baseball  >>  [ now, 3.0 ]   [ field, 1.0 ]   
 
-dream  >>  [ come, 1.0 ]   [ all, 1.0 ]   
+physicality  >>  [ during, 3.0 ]   [ a, 1.0 ]   
 
-plug  >>  [ all, 1.0 ]   
+become  >>  [ the, 1.0 ]   
 
-bunch  >>  [ of, 1.0 ]   
+acting  >>  [ like, 1.0 ]   
 
-heat  >>  [ backstage, 1.0 ]   
+upset  >>  [ walking, 4.0 ]   [ frustrated, 3.0 ]   [ since, 1.0 ]   
 
-whooper  >>  [ by, 1.0 ]   
+longest  >>  [ run, 3.0 ]   
 
-no  >>  [ football, 1.0 ]   [ pollution, 1.0 ]   [ need, 3.0 ]   [ allowed, 1.0 ]   [ every, 30.0 ]   [ i, 1.0 ]   [ place, 2.0 ]   [ longer, 1.0 ]   [ its, 1.0 ]   [ easy, 1.0 ]   [ crying, 2.0 ]   [ one, 2.0 ]   [ this, 1.0 ]   [ looking, 1.0 ]   [ joke, 1.0 ]   [ -, 1.0 ]   [ shame, 1.0 ]   [ name, 1.0 ]   [ again, 1.0 ]   [ getflexseal, 2.0 ]   [ damage, 3.0 ]   [ back, 1.0 ]   
+brought  >>  [ it, 7.0 ]   
 
-behind  >>  [ the, 4.0 ]   [ too, 1.0 ]   [ -, 1.0 ]   [ cup, 1.0 ]   [ leader, 2.0 ]   
+works  >>  [ against, 1.0 ]   
 
-boo  >>  [ i, 1.0 ]   
+turned  >>  [ it, 6.0 ]   
 
-student  >>  [ loans, 1.0 ]   
+alive  >>  [ its, 1.0 ]   
 
-earthenware  >>  [ and, 1.0 ]   
+mention  >>  [ until, 1.0 ]   [ of, 1.0 ]   [ from, 4.0 ]   
 
-seal  >>  [ this, 1.0 ]   [ -, 1.0 ]   
+gunslinger  >>  [ is, 1.0 ]   
 
-careful  >>  [ -, 1.0 ]   [ running, 1.0 ]   
+world  >>  [ champ, 5.0 ]   [ he, 1.0 ]   [ cry, 1.0 ]   [ -, 1.0 ]   
 
-box  >>  [ just, 1.0 ]   
+theres  >>  [ no, 1.0 ]   
 
-storage  >>  [ kids, 1.0 ]   
+halftime  >>  [ show, 12.0 ]   [ team, 3.0 ]   
 
-boy  >>  [ am, 1.0 ]   [ bye, 1.0 ]   [ -, 1.0 ]   [ that, 1.0 ]   
+member  >>  [ came, 1.0 ]   [ of, 2.0 ]   
 
-head  >>  [ she, 2.0 ]   
+hopefully  >>  [ he, 1.0 ]   
 
-ripped  >>  [ her, 1.0 ]   
+man  >>  [ real, 1.0 ]   [ -, 2.0 ]   [ up, 1.0 ]   [ possessed, 1.0 ]   [ i, 1.0 ]   [ in, 1.0 ]   [ who, 2.0 ]   
 
-oil  >>  [ -, 1.0 ]   
+everything  >>  [ you, 2.0 ]   [ -, 1.0 ]   
 
-kidding  >>  [ me, 1.0 ]   [ that, 1.0 ]   
+stand  >>  [ to, 1.0 ]   [ out, 1.0 ]   
 
-of  >>  [ was, 1.0 ]   [ and, 2.0 ]   [ the, 62.0 ]   [ us, 1.0 ]   [ stead, 2.0 ]   [ state, 1.0 ]   [ all, 4.0 ]   [ screaming, 1.0 ]   [ my, 7.0 ]   [ politics, 3.0 ]   [ wetness, 1.0 ]   [ -, 6.0 ]   [ moron, 1.0 ]   [ those, 1.0 ]   [ for, 2.0 ]   [ love, 1.0 ]   [ what, 1.0 ]   [ fun, 1.0 ]   [ raid, 1.0 ]   [ mantis, 2.0 ]   [ a, 8.0 ]   [ gargantuan, 1.0 ]   [ these, 1.0 ]   [ them, 3.0 ]   [ student, 1.0 ]   [ wood, 1.0 ]   [ wisdom, 1.0 ]   [ who, 1.0 ]   [ are, 1.0 ]   [ it, 3.0 ]   [ wine, 1.0 ]   [ this, 2.0 ]   [ is, 2.0 ]   [ murder, 1.0 ]   [ there, 1.0 ]   [ tonight, 1.0 ]   [ nowhere, 1.0 ]   [ invention, 1.0 ]   [ has, 1.0 ]   [ here, 1.0 ]   [ ago, 1.0 ]   
+urgent  >>  [ speech, 1.0 ]   
 
-oh  >>  [ snap, 1.0 ]   [ i, 3.0 ]   [ those, 1.0 ]   [ wow, 1.0 ]   [ its, 1.0 ]   [ mom, 5.0 ]   [ miss, 1.0 ]   [ -, 4.0 ]   [ so, 2.0 ]   [ the, 2.0 ]   [ hes, 1.0 ]   [ thats, 1.0 ]   [ god, 1.0 ]   [ my, 2.0 ]   
+natty  >>  [ -, 1.0 ]   
 
-brick  >>  [ -, 1.0 ]   
+ko  >>  [ wins, 2.0 ]   
 
-viable  >>  [ career, 1.0 ]   
+within  >>  [ an, 1.0 ]   [ mind, 1.0 ]   
 
-canes  >>  [ -, 1.0 ]   
+could  >>  [ have, 1.0 ]   [ also, 2.0 ]   [ this, 1.0 ]   [ be, 1.0 ]   
 
-hear  >>  [ by, 16.0 ]   [ it, 2.0 ]   [ he, 1.0 ]   [ -, 1.0 ]   [ the, 2.0 ]   [ a, 1.0 ]   
+missed  >>  [ call, 1.0 ]   
 
-on  >>  [ corruption, 1.0 ]   [ the, 26.0 ]   [ a, 3.0 ]   [ record, 1.0 ]   [ upset, 1.0 ]   [ in, 2.0 ]   [ -, 39.0 ]   [ thank, 1.0 ]   [ please, 4.0 ]   [ thanks, 1.0 ]   [ army, 1.0 ]   [ stage, 1.0 ]   [ or, 1.0 ]   [ mi, 1.0 ]   [ now, 1.0 ]   [ before, 2.0 ]   [ for, 1.0 ]   [ joe, 1.0 ]   [ her, 1.0 ]   [ him, 1.0 ]   [ donation, 2.0 ]   [ town, 1.0 ]   [ oh, 2.0 ]   [ that, 2.0 ]   [ doghouse, 1.0 ]   [ art, 1.0 ]   [ too, 1.0 ]   [ my, 1.0 ]   [ and, 1.0 ]   [ me, 1.0 ]   [ purpose, 2.0 ]   [ was, 1.0 ]   [ you, 1.0 ]   [ to, 1.0 ]   
+knew  >>  [ it, 1.0 ]   
 
-highly  >>  [ appreciated, 1.0 ]   
+draw  >>  [ been, 4.0 ]   [ -, 2.0 ]   
 
-billionaire  >>  [ bin, 1.0 ]   [ prince, 1.0 ]   
+off  >>  [ brutal, 4.0 ]   [ an, 4.0 ]   [ -, 2.0 ]   [ field, 8.0 ]   [ walking, 2.0 ]   [ and, 1.0 ]   [ with, 1.0 ]   [ under, 1.0 ]   [ the, 7.0 ]   [ after, 5.0 ]   
 
-pretty  >>  [ sure, 3.0 ]   
+joke  >>  [ only, 3.0 ]   
 
-or  >>  [ wolf, 2.0 ]   [ the, 2.0 ]   [ at, 1.0 ]   
+prospect  >>  [ on, 1.0 ]   
 
-wheel  >>  [ and, 1.0 ]   
+knee  >>  [ injury, 2.0 ]   [ going, 6.0 ]   [ -, 3.0 ]   [ for, 1.0 ]   
 
-control  >>  [ -, 1.0 ]   
+machine  >>  [ never, 1.0 ]   
 
-lobby  >>  [ -, 5.0 ]   
+able  >>  [ to, 4.0 ]   
 
-manuscript  >>  [ unfortunately, 1.0 ]   
+report  >>  [ senator, 1.0 ]   [ ongoing, 1.0 ]   [ that, 1.0 ]   [ sen, 1.0 ]   
 
-painting  >>  [ th, 1.0 ]   [ her, 1.0 ]   
+reminding  >>  [ him, 1.0 ]   
 
-earth  >>  [ band, 1.0 ]   
+fun  >>  [ its, 1.0 ]   
 
-matte  >>  [ painting, 1.0 ]   
+concerned  >>  [ about, 1.0 ]   
 
-buried  >>  [ bobby, 1.0 ]   
+mouthpiece  >>  [ -, 2.0 ]   [ still, 1.0 ]   
 
-episode  >>  [ satanic, 1.0 ]   [ of, 1.0 ]   [ also, 1.0 ]   [ about, 1.0 ]   [ was, 1.0 ]   
+sign  >>  [ -, 2.0 ]   
 
-unleaded  >>  [ -, 2.0 ]   
+political  >>  [ thats, 8.0 ]   
 
-somewhere  >>  [ -, 1.0 ]   
+thrill  >>  [ still, 1.0 ]   [ -, 2.0 ]   
 
-scene  >>  [ is, 2.0 ]   [ with, 1.0 ]   
+mcbride—  >>  [ music, 1.0 ]   
 
-speaking  >>  [ my, 1.0 ]   
+serve  >>  [ no, 1.0 ]   
 
-freeze  >>  [ dried, 1.0 ]   
+while  >>  [ he, 1.0 ]   [ playing, 3.0 ]   [ at, 5.0 ]   
 
-heck  >>  [ are, 1.0 ]   
+bail  >>  [ for, 1.0 ]   
 
-friend  >>  [ to, 1.0 ]   
+locker  >>  [ room, 15.0 ]   [ -, 5.0 ]   
 
-ripping  >>  [ their, 1.0 ]   
+second  >>  [ half, 5.0 ]   [ drive, 1.0 ]   [ most, 2.0 ]   [ straight, 11.0 ]   [ goal, 3.0 ]   
 
-they  >>  [ will, 1.0 ]   [ want, 1.0 ]   [ kill, 1.0 ]   [ gonna, 1.0 ]   [ missed, 1.0 ]   [ suck, 1.0 ]   [ have, 2.0 ]   [ out, 1.0 ]   [ were, 1.0 ]   [ call, 1.0 ]   [ met, 1.0 ]   [ dont, 3.0 ]   
+that  >>  [ close, 1.0 ]   [ one, 2.0 ]   [ nasty, 2.0 ]   [ by, 1.0 ]   [ but, 1.0 ]   [ dont, 1.0 ]   [ fight, 2.0 ]   [ wide, 1.0 ]   [ won, 1.0 ]   [ big, 1.0 ]   [ deep, 1.0 ]   [ its, 2.0 ]   [ is, 1.0 ]   [ shake, 1.0 ]   [ at, 1.0 ]   [ our, 1.0 ]   [ time, 2.0 ]   [ -, 1.0 ]   [ was, 1.0 ]   [ will, 1.0 ]   [ you, 1.0 ]   [ check, 1.0 ]   [ higdon, 2.0 ]   [ good, 1.0 ]   [ aint, 1.0 ]   [ returned, 1.0 ]   [ rand, 2.0 ]   [ the, 4.0 ]   [ a, 2.0 ]   
 
-doghouse  >>  [ riley, 1.0 ]   
+edge  >>  [ every, 1.0 ]   [ -, 3.0 ]   
 
-breaking  >>  [ news, 1.0 ]   [ has, 1.0 ]   [ -, 1.0 ]   
+high  >>  [ but, 1.0 ]   
 
-deny  >>  [ that, 2.0 ]   
+son  >>  [ was, 3.0 ]   [ playing, 5.0 ]   
 
-unrealistic  >>  [ her, 1.0 ]   
+find  >>  [ -, 1.0 ]   [ after, 2.0 ]   
 
-old  >>  [ gag, 1.0 ]   
+than  >>  [ those, 2.0 ]   [ ever, 1.0 ]   [ our, 1.0 ]   [ -, 1.0 ]   [ and, 1.0 ]   [ is, 1.0 ]   [ a, 6.0 ]   [ one, 1.0 ]   [ physicality, 1.0 ]   
 
-settled  >>  [ cold, 1.0 ]   
+me  >>  [ now, 1.0 ]   [ sad, 1.0 ]   [ had, 1.0 ]   [ -, 3.0 ]   
 
-them  >>  [ more, 2.0 ]   [ about, 1.0 ]   [ its, 1.0 ]   [ are, 1.0 ]   [ the, 1.0 ]   [ ugly, 2.0 ]   
+credit  >>  [ to, 1.0 ]   
 
-then  >>  [ let, 1.0 ]   [ even, 1.0 ]   [ kick, 3.0 ]   [ theres, 1.0 ]   
+terrible  >>  [ scoring, 1.0 ]   
+
+officially  >>  [ burned, 1.0 ]   
+
+combine  >>  [ for, 3.0 ]   
+
+downs  >>  [ therefore, 1.0 ]   
+
+sooner  >>  [ -, 1.0 ]   
+
+dominating  >>  [ this, 1.0 ]   
+
+possessed  >>  [ -, 1.0 ]   
+
+thrown  >>  [ -, 1.0 ]   
+
+pressure  >>  [ on, 1.0 ]   
+
+my  >>  [ scorecard, 1.0 ]   [ and, 2.0 ]   [ heart, 1.0 ]   [ favorite, 2.0 ]   [ column, 4.0 ]   [ guy, 1.0 ]   [ goodness, 1.0 ]   [ president, 6.0 ]   
+
+heart  >>  [ one, 1.0 ]   [ -, 1.0 ]   [ cant, 1.0 ]   
+
+trash  >>  [ -, 5.0 ]   
+
+coat  >>  [ of, 1.0 ]   
+
+grabbing  >>  [ the, 1.0 ]   
+
+dish  >>  [ will, 1.0 ]   
+
+specialist  >>  [ who, 1.0 ]   
+
+rushing  >>  [ in, 1.0 ]   [ higdon, 1.0 ]   [ on, 2.0 ]   
+
+present  >>  [ worrying, 1.0 ]   
+
+since  >>  [ its, 1.0 ]   [ former, 1.0 ]   [ had, 1.0 ]   [ run, 2.0 ]   [ rand, 1.0 ]   
+
+no  >>  [ offense, 1.0 ]   [ personnaly, 1.0 ]   [ pick, 2.0 ]   [ holding, 1.0 ]   [ lie, 2.0 ]   [ future, 1.0 ]   [ mention, 4.0 ]   [ coincidence, 1.0 ]   [ more, 1.0 ]   
+
+arrested  >>  [ -, 2.0 ]   [ a, 1.0 ]   [ assailant, 3.0 ]   [ after, 26.0 ]   
+
+scores  >>  [ in, 2.0 ]   [ way, 2.0 ]   [ twice, 16.0 ]   [ two, 1.0 ]   [ on, 1.0 ]   [ his, 1.0 ]   [ rockthered, 1.0 ]   
+
+dangerous  >>  [ to, 2.0 ]   [ times, 1.0 ]   
+
+best  >>  [ we, 1.0 ]   [ at, 3.0 ]   [ prospect, 1.0 ]   [ to, 2.0 ]   [ in, 1.0 ]   [ player, 3.0 ]   
+
+investigate  >>  [ -, 1.0 ]   
+
+head  >>  [ injury, 1.0 ]   
+
+ball  >>  [ with, 1.0 ]   
+
+total  >>  [ of, 6.0 ]   [ offense, 1.0 ]   [ -, 1.0 ]   
+
+hour  >>  [ starts, 1.0 ]   
+
+competitor  >>  [ but, 3.0 ]   
+
+of  >>  [ them, 1.0 ]   [ the, 38.0 ]   [ on, 1.0 ]   [ boxing, 2.0 ]   [ scope, 1.0 ]   [ those, 1.0 ]   [ his, 12.0 ]   [ ring, 1.0 ]   [ pain, 2.0 ]   [ frustration, 1.0 ]   [ my, 2.0 ]   [ three, 6.0 ]   [ monkey, 1.0 ]   [ and, 7.0 ]   [ nick, 3.0 ]   [ -, 2.0 ]   [ freedom, 1.0 ]   [ as, 2.0 ]   [ peace, 1.0 ]   [ a, 1.0 ]   [ air, 1.0 ]   [ armed, 1.0 ]   [ our, 1.0 ]   [ michigan, 1.0 ]   [ total, 1.0 ]   [ contact, 3.0 ]   [ pressure, 1.0 ]   [ best, 1.0 ]   [ how, 1.0 ]   [ or, 1.0 ]   [ their, 1.0 ]   [ tonight, 1.0 ]   [ election, 2.0 ]   [ assaulting, 1.0 ]   [ hate, 2.0 ]   [ congress, 2.0 ]   [ an, 1.0 ]   
+
+leadership  >>  [ reps, 1.0 ]   
+
+men  >>  [ of, 1.0 ]   
+
+oh  >>  [ butch, 1.0 ]   
+
+eclipsed  >>  [ the, 51.0 ]   
+
+magnitude  >>  [ of, 1.0 ]   
+
+sympathy  >>  [ for, 1.0 ]   
+
+make  >>  [ his, 1.0 ]   [ a, 7.0 ]   [ to, 1.0 ]   
+
+met  >>  [ dad, 1.0 ]   
+
+fight  >>  [ too, 1.0 ]   [ -, 3.0 ]   [ was, 4.0 ]   [ quite, 2.0 ]   [ but, 1.0 ]   [ in, 1.0 ]   [ close, 1.0 ]   [ i, 1.0 ]   
+
+hear  >>  [ is, 1.0 ]   [ first, 1.0 ]   
+
+on  >>  [ your, 1.0 ]   [ forehead, 2.0 ]   [ point, 3.0 ]   [ tonight, 1.0 ]   [ boxing, 1.0 ]   [ our, 1.0 ]   [ him, 1.0 ]   [ becoming, 1.0 ]   [ -, 3.0 ]   [ his, 3.0 ]   [ the, 9.0 ]   [ why, 1.0 ]   [ will, 1.0 ]   [ those, 1.0 ]   [ defense, 5.0 ]   [ this, 1.0 ]   [ third, 1.0 ]   [ down, 1.0 ]   [ tarmac, 5.0 ]   [ arrival, 1.0 ]   [ world, 1.0 ]   [ stage, 7.0 ]   [ he, 7.0 ]   [ president, 1.0 ]   [ for, 2.0 ]   [ pace, 2.0 ]   [ just, 2.0 ]   [ three, 1.0 ]   [ michigan, 2.0 ]   [ fact, 3.0 ]   [ thats, 3.0 ]   [ key, 2.0 ]   [ hurts, 4.0 ]   [ again, 1.0 ]   [ and, 7.0 ]   [ them, 1.0 ]   [ massive, 1.0 ]   
+
+certainly  >>  [ a, 1.0 ]   
+
+console  >>  [ will, 1.0 ]   
+
+pretty  >>  [ sure, 1.0 ]   [ close, 1.0 ]   [ bad, 1.0 ]   [ obvious, 2.0 ]   [ much, 1.0 ]   [ good, 5.0 ]   [ -, 1.0 ]   
+
+or  >>  [ -, 1.0 ]   [ at, 1.0 ]   [ or, 1.0 ]   [ smith, 1.0 ]   [ anyone, 1.0 ]   
+
+plays  >>  [ -, 1.0 ]   
+
+chance  >>  [ to, 1.0 ]   
+
+sports  >>  [ leaves, 1.0 ]   [ they, 1.0 ]   
+
+interesting  >>  [ reaction, 2.0 ]   [ -, 1.0 ]   
+
+control  >>  [ he, 1.0 ]   
+
+exactly  >>  [ won, 1.0 ]   
+
+selfless  >>  [ service, 1.0 ]   
+
+shaded  >>  [ that, 1.0 ]   
+
+mcbrides  >>  [ mom, 11.0 ]   [ redshirt, 28.0 ]   [ mother, 1.0 ]   [ red, 1.0 ]   [ first, 1.0 ]   
+
+scored  >>  [ tonight, 3.0 ]   [ twice, 2.0 ]   [ two, 1.0 ]   [ in, 1.0 ]   
+
+coming  >>  [ up, 1.0 ]   [ i, 1.0 ]   [ off, 4.0 ]   [ in, 2.0 ]   [ into, 1.0 ]   [ back, 2.0 ]   
+
+trending  >>  [ topic, 7.0 ]   
+
+salad  >>  [ with, 1.0 ]   
+
+nation  >>  [ basically, 1.0 ]   [ rocky, 1.0 ]   
+
+enters  >>  [ the, 4.0 ]   
+
+about  >>  [ is, 1.0 ]   [ will, 2.0 ]   [ her, 5.0 ]   [ not, 1.0 ]   [ that, 1.0 ]   [ injury, 1.0 ]   [ being, 1.0 ]   [ drafting, 1.0 ]   [ how, 1.0 ]   [ his, 1.0 ]   [ higdon, 1.0 ]   [ -, 1.0 ]   [ key, 3.0 ]   [ times, 1.0 ]   [ our, 1.0 ]   [ the, 3.0 ]   
+
+registered  >>  [ democrat, 6.0 ]   
+
+stretching  >>  [ near, 2.0 ]   
+
+promised  >>  [ violence, 1.0 ]   
+
+injure  >>  [ last, 4.0 ]   
+
+reflect  >>  [ the, 1.0 ]   
+
+speaking  >>  [ at, 1.0 ]   
+
+ongoing  >>  [ feud, 2.0 ]   
+
+massacre  >>  [ -, 1.0 ]   
+
+horrible  >>  [ politician, 1.0 ]   
+
+injury  >>  [ -, 5.0 ]   [ how, 1.0 ]   [ to, 1.0 ]   [ theyre, 1.0 ]   [ and, 1.0 ]   [ will, 3.0 ]   [ after, 2.0 ]   [ than, 1.0 ]   [ hope, 1.0 ]   [ in, 27.0 ]   [ cuts, 1.0 ]   
+
+they  >>  [ take, 2.0 ]   [ were, 1.0 ]   [ can, 1.0 ]   [ hold, 2.0 ]   [ cant, 1.0 ]   [ had, 1.0 ]   [ preach, 1.0 ]   [ go, 1.0 ]   
+
+breaking  >>  [ my, 1.0 ]   [ trump, 2.0 ]   [ just, 2.0 ]   [ us, 1.0 ]   [ rand, 1.0 ]   
+
+bypasses  >>  [ the, 1.0 ]   
+
+gotta  >>  [ tell, 1.0 ]   [ wonder, 3.0 ]   
+
+frustration  >>  [ as, 1.0 ]   
+
+them  >>  [ -, 2.0 ]   [ for, 1.0 ]   [ he, 1.0 ]   
+
+then  >>  [ replaces, 1.0 ]   [ give, 1.0 ]   [ assault, 1.0 ]   
+
+something  >>  [ like, 1.0 ]   [ to, 2.0 ]   [ other, 1.0 ]   
 
 morning  >>  [ -, 1.0 ]   
 
-horse  >>  [ -, 1.0 ]   [ with, 1.0 ]   
+boost  >>  [ pass, 2.0 ]   
 
-seat  >>  [ -, 1.0 ]   
+starting  >>  [ in, 4.0 ]   [ for, 1.0 ]   
 
-squirrel  >>  [ nut, 1.0 ]   
+fact  >>  [ -, 3.0 ]   
 
-appreciated  >>  [ woohoo, 1.0 ]   
+sun  >>  [ leaves, 1.0 ]   
 
-starting  >>  [ to, 1.0 ]   
+seen  >>  [ since, 1.0 ]   [ him, 1.0 ]   [ an, 1.0 ]   
 
-donated  >>  [ the, 10.0 ]   [ too, 1.0 ]   
+scorecard  >>  [ of, 2.0 ]   [ really, 1.0 ]   [ boxing, 1.0 ]   
 
-minus  >>  [ three, 1.0 ]   
+long  >>  [ pass, 1.0 ]   
 
-sun  >>  [ block, 1.0 ]   
+remember  >>  [ that, 2.0 ]   
 
-seen  >>  [ a, 1.0 ]   [ better, 1.0 ]   [ i, 1.0 ]   [ zak, 1.0 ]   [ move, 1.0 ]   
+into  >>  [ a, 1.0 ]   [ an, 1.0 ]   [ quadruple, 2.0 ]   [ game, 1.0 ]   [ custody, 1.0 ]   [ war, 1.0 ]   
 
-archived  >>  [ footage, 2.0 ]   
+referring  >>  [ to, 2.0 ]   
 
-se  >>  [ play, 1.0 ]   
+democrat  >>  [ -, 5.0 ]   [ boucher, 1.0 ]   [ what, 1.0 ]   [ nut, 1.0 ]   [ party, 1.0 ]   
 
-current  >>  [ wife, 1.0 ]   
+so  >>  [ wide, 1.0 ]   [ good, 3.0 ]   [ will, 6.0 ]   [ trump, 1.0 ]   [ far, 6.0 ]   [ damn, 1.0 ]   [ this, 1.0 ]   [ he, 1.0 ]   [ upset, 1.0 ]   [ hard, 1.0 ]   [ some, 2.0 ]   
 
-copper  >>  [ i, 1.0 ]   
+thanked  >>  [ the, 1.0 ]   
 
-so  >>  [ about, 1.0 ]   [ far, 2.0 ]   [ proud, 1.0 ]   [ it, 1.0 ]   [ where, 1.0 ]   [ much, 1.0 ]   [ going, 1.0 ]   [ long, 2.0 ]   [ she, 3.0 ]   [ hard, 1.0 ]   [ beautiful, 1.0 ]   [ we, 2.0 ]   [ sweet, 1.0 ]   [ wait, 1.0 ]   [ serious, 1.0 ]   [ sad, 1.0 ]   [ lets, 2.0 ]   [ well, 1.0 ]   [ used, 1.0 ]   [ fast, 3.0 ]   [ loud, 1.0 ]   [ scary, 1.0 ]   [ dark, 1.0 ]   [ he, 1.0 ]   [ close, 1.0 ]   
+unreal  >>  [ -, 48.0 ]   [ deflection, 3.0 ]   
 
-pump  >>  [ if, 3.0 ]   
+key  >>  [ defensive, 6.0 ]   [ -, 11.0 ]   [ has, 10.0 ]   [ is, 19.0 ]   [ out, 2.0 ]   [ was, 4.0 ]   [ didnt, 2.0 ]   [ dominating, 1.0 ]   [ begging, 1.0 ]   [ had, 1.0 ]   [ got, 2.0 ]   [ the, 1.0 ]   [ like, 4.0 ]   [ again, 10.0 ]   [ ate, 1.0 ]   [ at, 1.0 ]   [ finally, 1.0 ]   [ please, 1.0 ]   [ tonight, 1.0 ]   [ gonna, 2.0 ]   [ but, 1.0 ]   [ playing, 1.0 ]   [ one, 1.0 ]   [ good, 1.0 ]   [ toasting, 1.0 ]   [ back, 1.0 ]   [ and, 9.0 ]   [ combine, 1.0 ]   [ season, 1.0 ]   [ stepping, 1.0 ]   [ almost, 2.0 ]   [ recouping, 1.0 ]   [ getting, 1.0 ]   [ showing, 1.0 ]   [ saving, 3.0 ]   [ wake, 1.0 ]   [ every, 2.0 ]   [ are, 1.0 ]   
 
-caution  >>  [ but, 2.0 ]   [ drifts, 1.0 ]   [ is, 1.0 ]   [ with, 1.0 ]   [ trouble, 1.0 ]   [ i, 1.0 ]   
+surprised  >>  [ the, 1.0 ]   
 
-surprised  >>  [ on, 1.0 ]   
+cuts  >>  [ around, 1.0 ]   
 
-maintains  >>  [ a, 1.0 ]   
+reaction  >>  [ to, 2.0 ]   [ look, 2.0 ]   
 
-one  >>  [ of, 36.0 ]   [ without, 1.0 ]   [ more, 1.0 ]   [ to, 8.0 ]   [ -, 2.0 ]   [ bit, 1.0 ]   [ starry, 1.0 ]   [ kiss, 1.0 ]   [ can, 2.0 ]   [ not, 1.0 ]   
+bother  >>  [ to, 2.0 ]   
 
-makes  >>  [ -, 4.0 ]   [ ice, 1.0 ]   [ me, 1.0 ]   [ her, 1.0 ]   [ more, 1.0 ]   
+decision  >>  [ -, 2.0 ]   [ over, 1.0 ]   [ was, 1.0 ]   [ but, 1.0 ]   [ victory, 1.0 ]   [ to, 2.0 ]   
 
-started  >>  [ watching, 1.0 ]   
+though  >>  [ -, 1.0 ]   
 
-threatened  >>  [ bobby, 1.0 ]   
+star  >>  [ -, 1.0 ]   
 
-josh  >>  [ -, 4.0 ]   
+fights  >>  [ -, 1.0 ]   
 
-monster  >>  [ -, 1.0 ]   
+wolf  >>  [ -, 1.0 ]   
 
-pull  >>  [ that, 1.0 ]   
+one  >>  [ -, 2.0 ]   [ judge, 1.0 ]   [ if, 1.0 ]   [ of, 3.0 ]   [ welcome, 1.0 ]   [ in, 18.0 ]   [ rushing, 1.0 ]   [ him, 3.0 ]   
 
-th  >>  [ end, 1.0 ]   
+makes  >>  [ saves, 1.0 ]   
 
-bug  >>  [ a, 1.0 ]   
+maker  >>  [ -, 1.0 ]   
 
-flowed  >>  [ like, 1.0 ]   
+threatened  >>  [ to, 1.0 ]   
 
-to  >>  [ consolidate, 1.0 ]   [ do, 4.0 ]   [ prevent, 2.0 ]   [ talk, 1.0 ]   [ be, 7.0 ]   [ the, 19.0 ]   [ for, 3.0 ]   [ put, 2.0 ]   [ see, 34.0 ]   [ seal, 1.0 ]   [ an, 1.0 ]   [ go, 8.0 ]   [ defeat, 1.0 ]   [ a, 5.0 ]   [ stop, 2.0 ]   [ -, 10.0 ]   [ request, 3.0 ]   [ waste, 2.0 ]   [ florence, 1.0 ]   [ your, 1.0 ]   [ ask, 4.0 ]   [ make, 10.0 ]   [ post, 1.0 ]   [ hear, 13.0 ]   [ motivate, 1.0 ]   [ vote, 1.0 ]   [ listen, 1.0 ]   [ kick, 1.0 ]   [ hit, 8.0 ]   [ start, 2.0 ]   [ real, 1.0 ]   [ surprise, 1.0 ]   [ know, 1.0 ]   [ fill, 1.0 ]   [ give, 1.0 ]   [ shower, 1.0 ]   [ bed, 1.0 ]   [ disassociate, 1.0 ]   [ drag, 1.0 ]   [ run, 2.0 ]   [ get, 8.0 ]   [ take, 3.0 ]   [ pull, 1.0 ]   [ drive, 2.0 ]   [ have, 1.0 ]   [ not, 1.0 ]   [ scream, 1.0 ]   [ dare, 1.0 ]   [ show, 1.0 ]   [ buy, 1.0 ]   [ choose, 1.0 ]   [ win, 4.0 ]   [ tell, 1.0 ]   [ pay, 1.0 ]   [ quit, 1.0 ]   [ two, 1.0 ]   [ emma, 1.0 ]   [ believe, 1.0 ]   [ explain, 1.0 ]   [ watch, 4.0 ]   [ laugh, 1.0 ]   [ you, 2.0 ]   [ always, 1.0 ]   [ spend, 1.0 ]   [ think, 1.0 ]   [ on, 2.0 ]   [ would, 2.0 ]   [ his, 2.0 ]   [ stay, 3.0 ]   [ find, 1.0 ]   [ me, 2.0 ]   [ let, 1.0 ]   [ him, 1.0 ]   [ escape, 1.0 ]   [ relax, 1.0 ]   [ grab, 3.0 ]   [ cop, 1.0 ]   [ restart, 1.0 ]   [ green, 2.0 ]   [ what, 1.0 ]   [ hang, 1.0 ]   [ ill, 1.0 ]   [ reel, 1.0 ]   [ mow, 1.0 ]   [ spin, 1.0 ]   [ out, 1.0 ]   [ while, 1.0 ]   
+josh  >>  [ mason, 2.0 ]   
 
-fourth  >>  [ interception, 1.0 ]   
+many  >>  [ leadership, 1.0 ]   
 
-story  >>  [ about, 1.0 ]   [ of, 1.0 ]   
+people  >>  [ could, 1.0 ]   [ are, 1.0 ]   [ in, 1.0 ]   
 
-laughing  >>  [ through, 1.0 ]   
+closer  >>  [ -, 1.0 ]   
 
-but  >>  [ for, 1.0 ]   [ really, 1.0 ]   [ its, 1.0 ]   [ making, 1.0 ]   [ it, 7.0 ]   [ awesome, 1.0 ]   [ sounded, 1.0 ]   [ yeah, 1.0 ]   [ has, 2.0 ]   [ nearly, 1.0 ]   [ the, 1.0 ]   
+bud  >>  [ too, 1.0 ]   
 
-makeup  >>  [ is, 1.0 ]   
+single  >>  [ progression, 1.0 ]   [ play, 1.0 ]   
 
-country  >>  [ with, 1.0 ]   
+pull  >>  [ through, 1.0 ]   [ him, 1.0 ]   
 
-buy  >>  [ all, 1.0 ]   
+face  >>  [ after, 1.0 ]   [ of, 1.0 ]   
 
-ooh  >>  [ glad, 1.0 ]   
+showed  >>  [ that, 1.0 ]   
 
-zero  >>  [ -, 1.0 ]   
+to  >>  [ pour, 1.0 ]   [ turn, 1.0 ]   [ the, 26.0 ]   [ take, 1.0 ]   [ for, 3.0 ]   [ become, 1.0 ]   [ win, 2.0 ]   [ maybe, 2.0 ]   [ tough, 2.0 ]   [ within, 1.0 ]   [ capture, 1.0 ]   [ who, 1.0 ]   [ lose, 4.0 ]   [ -, 11.0 ]   [ locker, 6.0 ]   [ walk, 2.0 ]   [ him, 2.0 ]   [ with, 1.0 ]   [ left, 1.0 ]   [ see, 3.0 ]   [ it, 1.0 ]   [ one, 1.0 ]   [ play, 3.0 ]   [ burning, 2.0 ]   [ know, 2.0 ]   [ come, 1.0 ]   [ start, 3.0 ]   [ your, 1.0 ]   [ wolf, 1.0 ]   [ dont, 1.0 ]   [ pass, 1.0 ]   [ put, 1.0 ]   [ like, 3.0 ]   [ make, 8.0 ]   [ infuse, 1.0 ]   [ deflect, 1.0 ]   [ get, 3.0 ]   [ be, 7.0 ]   [ speak, 2.0 ]   [ go, 18.0 ]   [ pull, 1.0 ]   [ his, 5.0 ]   [ medical, 3.0 ]   [ at, 8.0 ]   [ us, 8.0 ]   [ hear, 1.0 ]   [ after, 16.0 ]   [ higdon, 1.0 ]   [ eclipse, 1.0 ]   [ keep, 2.0 ]   [ run, 2.0 ]   [ stop, 1.0 ]   [ pay, 1.0 ]   [ consider, 1.0 ]   [ watch, 4.0 ]   [ season, 1.0 ]   [ pretend, 3.0 ]   [ weird, 2.0 ]   [ summon, 1.0 ]   [ lynch, 1.0 ]   [ i, 1.0 ]   [ spit, 1.0 ]   [ coincidence, 1.0 ]   [ clean, 1.0 ]   [ as, 2.0 ]   [ give, 1.0 ]   [ show, 5.0 ]   [ neighbor, 1.0 ]   [ they, 1.0 ]   [ report, 1.0 ]   [ force, 1.0 ]   [ politics, 1.0 ]   [ murder, 1.0 ]   [ investigate, 1.0 ]   
 
-amazing  >>  [ -, 2.0 ]   [ emma, 2.0 ]   [ bite, 1.0 ]   [ and, 1.0 ]   
+invite  >>  [ to, 1.0 ]   
 
-missile  >>  [ in, 1.0 ]   
+fourth  >>  [ degree, 1.0 ]   
 
-um  >>  [ dont, 1.0 ]   
+but  >>  [ was, 2.0 ]   [ the, 3.0 ]   [ pretty, 1.0 ]   [ hes, 2.0 ]   [ by, 1.0 ]   [ once, 1.0 ]   [ scores, 2.0 ]   [ carry, 2.0 ]   [ not, 10.0 ]   [ did, 2.0 ]   [ is, 1.0 ]   [ those, 1.0 ]   [ respect, 2.0 ]   [ dont, 1.0 ]   [ we, 4.0 ]   [ straight, 1.0 ]   [ honestly, 1.0 ]   [ butch, 1.0 ]   [ his, 4.0 ]   [ goes, 1.0 ]   [ chasing, 2.0 ]   [ i, 1.0 ]   [ how, 1.0 ]   [ he, 1.0 ]   [ violence, 1.0 ]   [ then, 1.0 ]   
 
-noir  >>  [ film, 1.0 ]   [ that, 1.0 ]   [ sighting, 1.0 ]   
+country  >>  [ -, 1.0 ]   [ while, 1.0 ]   
 
-up  >>  [ like, 1.0 ]   [ your, 1.0 ]   [ on, 1.0 ]   [ to, 4.0 ]   [ my, 1.0 ]   [ onscreen, 1.0 ]   [ is, 1.0 ]   [ and, 1.0 ]   [ with, 1.0 ]   [ by, 2.0 ]   [ next, 1.0 ]   [ front, 1.0 ]   
+reasonable  >>  [ than, 2.0 ]   
 
-wardrobe  >>  [ in, 1.0 ]   
+forced  >>  [ out, 1.0 ]   
 
-ur  >>  [ kids, 2.0 ]   [ restaurant, 1.0 ]   
+inside  >>  [ the, 1.0 ]   [ tonight, 2.0 ]   
 
-passion  >>  [ -, 1.0 ]   
+sniper  >>  [ dang, 1.0 ]   
 
-unusual  >>  [ -, 1.0 ]   
+leaves  >>  [ game, 5.0 ]   
 
-us  >>  [ feel, 1.0 ]   [ army, 1.0 ]   [ make, 1.0 ]   [ out, 1.0 ]   [ tomorrow, 1.0 ]   [ this, 5.0 ]   
+arent  >>  [ that, 1.0 ]   
 
-usual  >>  [ you, 1.0 ]   
+yahoo  >>  [ sports, 1.0 ]   
 
-smoked  >>  [ sam, 1.0 ]   
+military  >>  [ jacket, 17.0 ]   [ personnel, 1.0 ]   [ defends, 1.0 ]   [ service, 1.0 ]   
 
-this  >>  [ is, 15.0 ]   [ thing, 1.0 ]   [ morning, 1.0 ]   [ -, 2.0 ]   [ game, 1.0 ]   [ right, 30.0 ]   [ one, 8.0 ]   [ scrapbook, 1.0 ]   [ movie, 10.0 ]   [ might, 1.0 ]   [ world, 1.0 ]   [ at, 4.0 ]   [ touching, 1.0 ]   [ using, 1.0 ]   [ scene, 3.0 ]   [ film, 1.0 ]   [ country, 1.0 ]   [ was, 1.0 ]   [ kiss, 1.0 ]   [ bad, 2.0 ]   [ killing, 1.0 ]   [ man, 1.0 ]   [ the, 1.0 ]   [ nut, 1.0 ]   [ case, 1.0 ]   [ role, 1.0 ]   [ my, 1.0 ]   [ episode, 3.0 ]   [ car, 1.0 ]   [ girl, 1.0 ]   
+talal  >>  [ -, 1.0 ]   
 
-ocean  >>  [ without, 2.0 ]   
+up  >>  [ -, 5.0 ]   [ to, 6.0 ]   [ and, 7.0 ]   [ for, 3.0 ]   [ walking, 1.0 ]   [ five, 1.0 ]   [ at, 1.0 ]   [ with, 2.0 ]   [ tonight, 1.0 ]   [ his, 1.0 ]   [ a, 1.0 ]   
 
-once  >>  [ and, 1.0 ]   [ again, 1.0 ]   
+hides  >>  [ from, 1.0 ]   
 
-carpet  >>  [ tonight, 6.0 ]   
+five  >>  [ to, 1.0 ]   
 
-valiant  >>  [ attempt, 2.0 ]   
+us  >>  [ that, 1.0 ]   [ personnel, 7.0 ]   [ troops, 1.0 ]   [ it, 16.0 ]   [ president, 2.0 ]   [ ambassador, 1.0 ]   [ senator, 2.0 ]   [ into, 1.0 ]   
 
-desk  >>  [ really, 1.0 ]   
+usual  >>  [ tonight, 1.0 ]   
 
-know  >>  [ whats, 1.0 ]   [ if, 1.0 ]   [ this, 1.0 ]   [ the, 3.0 ]   [ your, 3.0 ]   [ exact, 1.0 ]   [ where, 2.0 ]   [ was, 1.0 ]   [ it, 1.0 ]   
+this  >>  [ fight, 2.0 ]   [ loss, 1.0 ]   [ game, 4.0 ]   [ half, 1.0 ]   [ -, 1.0 ]   [ mouth, 1.0 ]   [ field, 1.0 ]   [ better, 7.0 ]   [ error, 1.0 ]   [ is, 4.0 ]   [ morning, 1.0 ]   [ from, 2.0 ]   [ why, 1.0 ]   [ idiot, 3.0 ]   [ season, 1.0 ]   [ just, 5.0 ]   
 
-region  >>  [ -, 1.0 ]   
+degree  >>  [ assault, 1.0 ]   
 
-support  >>  [ -, 1.0 ]   [ there, 1.0 ]   
+please  >>  [ your, 1.0 ]   [ let, 3.0 ]   [ -, 1.0 ]   
 
-changed  >>  [ -, 1.0 ]   
+finding  >>  [ his, 2.0 ]   
 
-doing  >>  [ at, 1.0 ]   [ work, 1.0 ]   [ brilliant, 4.0 ]   [ going, 1.0 ]   
+look  >>  [ to, 1.0 ]   [ -, 2.0 ]   [ good, 1.0 ]   [ key, 5.0 ]   [ like, 1.0 ]   
 
-kid  >>  [ at, 1.0 ]   
+bursts  >>  [ out, 2.0 ]   
 
-cold  >>  [ -, 1.0 ]   [ storage, 1.0 ]   
+once  >>  [ again, 1.0 ]   
 
-gag  >>  [ on, 1.0 ]   
+know  >>  [ about, 7.0 ]   [ that, 1.0 ]   [ had, 1.0 ]   
 
-we  >>  [ be, 1.0 ]   [ right, 1.0 ]   [ gone, 1.0 ]   [ are, 4.0 ]   [ need, 4.0 ]   [ wanna, 6.0 ]   [ hear, 1.0 ]   [ want, 1.0 ]   [ can, 1.0 ]   [ request, 1.0 ]   [ would, 2.0 ]   [ love, 1.0 ]   [ loved, 1.0 ]   [ took, 1.0 ]   [ just, 1.0 ]   [ all, 2.0 ]   [ know, 1.0 ]   [ were, 1.0 ]   
+judging  >>  [ in, 2.0 ]   
 
-life  >>  [ guards, 1.0 ]   [ -, 1.0 ]   [ would, 2.0 ]   
+welterweight  >>  [ title, 2.0 ]   [ champion, 1.0 ]   [ crown, 1.0 ]   
 
-missing  >>  [ in, 1.0 ]   [ -, 1.0 ]   
+doing  >>  [ more, 1.0 ]   [ his, 2.0 ]   
 
-dang  >>  [ her, 1.0 ]   [ that, 1.0 ]   
+knock  >>  [ off, 1.0 ]   
 
-fiesta  >>  [ -, 11.0 ]   
+needed  >>  [ thats, 1.0 ]   
 
-turnover  >>  [ chain, 78.0 ]   
+assualted  >>  [ in, 1.0 ]   
 
-serrated  >>  [ for, 1.0 ]   
+lord  >>  [ please, 3.0 ]   
 
-successful  >>  [ -, 2.0 ]   
+begging  >>  [ for, 1.0 ]   
 
-coverage  >>  [ of, 2.0 ]   
+assistance  >>  [ -, 1.0 ]   
 
-lovely  >>  [ horse, 1.0 ]   
+frustrating  >>  [ -, 2.0 ]   
 
-normal  >>  [ -, 1.0 ]   [ school, 1.0 ]   
+we  >>  [ go, 3.0 ]   [ have, 2.0 ]   [ cant, 1.0 ]   [ are, 2.0 ]   [ arent, 1.0 ]   [ burning, 1.0 ]   [ get, 1.0 ]   [ need, 3.0 ]   [ dont, 3.0 ]   [ settle, 1.0 ]   [ just, 2.0 ]   [ know, 3.0 ]   
 
-bye  >>  [ -, 1.0 ]   
+exits  >>  [ injured, 2.0 ]   
 
-stone  >>  [ -, 1.0 ]   
+dang  >>  [ it, 1.0 ]   
 
-damn  >>  [ i, 1.0 ]   [ this, 1.0 ]   
+wonder  >>  [ how, 1.0 ]   [ if, 3.0 ]   
 
-location  >>  [ and, 1.0 ]   
+every  >>  [ round, 1.0 ]   [ mother, 1.0 ]   [ pass, 1.0 ]   [ single, 1.0 ]   [ play, 10.0 ]   
 
-dame  >>  [ count, 1.0 ]   
+successful  >>  [ with, 1.0 ]   
 
-gentleman  >>  [ in, 1.0 ]   
+coverage  >>  [ fired, 2.0 ]   
 
-streets  >>  [ for, 1.0 ]   
+brutal  >>  [ -, 1.0 ]   [ already, 4.0 ]   
 
-held  >>  [ that, 1.0 ]   [ it, 1.0 ]   
+wide  >>  [ but, 3.0 ]   [ more, 3.0 ]   [ there, 2.0 ]   [ at, 1.0 ]   [ -, 1.0 ]   
 
-reach  >>  [ back, 1.0 ]   
+winning  >>  [ i, 2.0 ]   [ -, 1.0 ]   [ on, 1.0 ]   [ by, 1.0 ]   [ have, 1.0 ]   
 
-ya  >>  [ fooled, 1.0 ]   
+again  >>  [ the, 1.0 ]   [ -, 16.0 ]   [ had, 1.0 ]   [ he, 6.0 ]   [ on, 1.0 ]   [ over, 1.0 ]   
 
-competition  >>  [ -, 1.0 ]   
+politician  >>  [ who, 1.0 ]   
 
-type  >>  [ of, 2.0 ]   
+beats  >>  [ him, 1.0 ]   
 
-hell  >>  [ knock, 2.0 ]   [ beat, 1.0 ]   [ to, 1.0 ]   [ outta, 1.0 ]   [ hound, 1.0 ]   [ was, 3.0 ]   
+damn  >>  [ good, 1.0 ]   [ and, 1.0 ]   
 
-problem  >>  [ -, 2.0 ]   
+deflection  >>  [ by, 3.0 ]   [ gives, 1.0 ]   
 
-kissing  >>  [ either, 1.0 ]   [ bogart, 1.0 ]   [ is, 1.0 ]   [ her, 1.0 ]   
+money  >>  [ is, 1.0 ]   
 
-weather  >>  [ done, 1.0 ]   
+disagree  >>  [ with, 1.0 ]   
 
-teeth  >>  [ out, 3.0 ]   
+conditioned  >>  [ -, 1.0 ]   
 
-proof  >>  [ ur, 2.0 ]   
+disgust  >>  [ -, 3.0 ]   
 
-roar  >>  [ -, 1.0 ]   
+mark  >>  [ in, 51.0 ]   
 
-abandoned  >>  [ -, 1.0 ]   
+base  >>  [ in, 44.0 ]   [ -, 9.0 ]   [ japan, 10.0 ]   [ upon, 16.0 ]   [ and, 1.0 ]   [ crowd, 1.0 ]   [ trumps, 7.0 ]   [ for, 2.0 ]   [ here, 1.0 ]   [ are, 3.0 ]   [ before, 1.0 ]   [ thanking, 1.0 ]   [ with, 1.0 ]   [ troop, 1.0 ]   
 
-between  >>  [ emma, 1.0 ]   
+sack  >>  [ of, 2.0 ]   [ -, 1.0 ]   [ counter, 1.0 ]   [ on, 3.0 ]   [ total, 1.0 ]   [ the, 1.0 ]   [ for, 1.0 ]   
 
-boneless  >>  [ cash, 1.0 ]   
+trend  >>  [ was, 1.0 ]   [ alert, 1.0 ]   
 
-wife  >>  [ keep, 1.0 ]   [ is, 1.0 ]   
+versatility  >>  [ is, 3.0 ]   
 
-come  >>  [ on, 3.0 ]   [ -, 1.0 ]   [ together, 1.0 ]   [ through, 3.0 ]   [ oh, 3.0 ]   
+held  >>  [ at, 3.0 ]   [ the, 2.0 ]   [ every, 6.0 ]   [ thats, 1.0 ]   [ key, 1.0 ]   [ again, 1.0 ]   [ this, 1.0 ]   [ i, 1.0 ]   [ -, 1.0 ]   [ about, 1.0 ]   
 
-exact  >>  [ location, 1.0 ]   
+mom  >>  [ has, 2.0 ]   [ deserves, 1.0 ]   [ i, 3.0 ]   [ pumped, 5.0 ]   [ this, 1.0 ]   
 
-scared  >>  [ and, 1.0 ]   [ the, 1.0 ]   
+whole  >>  [ time, 1.0 ]   
 
-sexual  >>  [ harassment, 2.0 ]   
+fair  >>  [ i, 1.0 ]   [ pretty, 1.0 ]   
 
-flag  >>  [ is, 1.0 ]   [ stage, 1.0 ]   [ racing, 2.0 ]   [ and, 1.0 ]   [ baby, 1.0 ]   
+during  >>  [ the, 3.0 ]   
 
-racing  >>  [ -, 2.0 ]   
+stepping  >>  [ over, 1.0 ]   
 
-gargantuan  >>  [ -, 1.0 ]   
+troops  >>  [ and, 1.0 ]   
 
-our  >>  [ most, 1.0 ]   [ best, 1.0 ]   [ power, 1.0 ]   [ army, 1.0 ]   [ watch, 1.0 ]   [ wants, 1.0 ]   [ hilltop, 1.0 ]   
+loss  >>  [ be, 1.0 ]   [ we, 1.0 ]   
 
-tools  >>  [ -, 1.0 ]   
+lost  >>  [ three, 2.0 ]   [ their, 2.0 ]   
 
-out  >>  [ is, 1.0 ]   [ the, 6.0 ]   [ -, 2.0 ]   [ of, 7.0 ]   [ to, 1.0 ]   [ our, 1.0 ]   [ in, 1.0 ]   [ marge, 1.0 ]   [ fay, 1.0 ]   [ perfectly, 2.0 ]   [ then, 2.0 ]   [ and, 1.0 ]   [ digging, 1.0 ]   [ before, 2.0 ]   [ but, 4.0 ]   [ panic, 1.0 ]   [ boy, 1.0 ]   [ at, 1.0 ]   [ bringing, 1.0 ]   [ got, 1.0 ]   [ half, 1.0 ]   
+safety  >>  [ dangerous, 1.0 ]   
 
-rock  >>  [ -, 1.0 ]   
+defensive  >>  [ hurt, 6.0 ]   [ back, 1.0 ]   
 
-seeing  >>  [ the, 1.0 ]   [ in, 1.0 ]   [ him, 1.0 ]   [ your, 1.0 ]   
+hangar  >>  [ to, 1.0 ]   
 
-get  >>  [ a, 4.0 ]   [ there, 1.0 ]   [ money, 2.0 ]   [ rid, 1.0 ]   [ to, 1.0 ]   [ blue, 1.0 ]   [ bored, 1.0 ]   [ all, 1.0 ]   [ you, 1.0 ]   [ wet, 1.0 ]   [ jumped, 1.0 ]   [ out, 6.0 ]   [ way, 1.0 ]   [ another, 1.0 ]   [ real, 1.0 ]   [ the, 1.0 ]   [ him, 1.0 ]   [ by, 1.0 ]   [ that, 1.0 ]   
+still  >>  [ in, 5.0 ]   [ air, 1.0 ]   [ at, 1.0 ]   [ trash, 5.0 ]   
 
-continues  >>  [ with, 1.0 ]   
+goal  >>  [ of, 3.0 ]   [ his, 1.0 ]   [ for, 2.0 ]   
 
-dark  >>  [ episode, 1.0 ]   [ -, 1.0 ]   
+teams  >>  [ talked, 3.0 ]   
 
-power  >>  [ for, 1.0 ]   [ lines, 1.0 ]   [ tonight, 1.0 ]   
+work  >>  [ -, 1.0 ]   
 
-place  >>  [ for, 2.0 ]   [ it, 1.0 ]   
+lose  >>  [ again, 4.0 ]   [ -, 1.0 ]   
 
-dare  >>  [ people, 1.0 ]   
+matt  >>  [ will, 1.0 ]   [ does, 1.0 ]   
 
-precious  >>  [ resource, 1.0 ]   
+come  >>  [ through, 1.0 ]   
 
-stutter  >>  [ fool, 1.0 ]   
+agree  >>  [ with, 1.0 ]   [ boxing, 1.0 ]   
 
-restart  >>  [ at, 1.0 ]   [ -, 6.0 ]   [ seemed, 1.0 ]   [ in, 1.0 ]   [ shuffled, 1.0 ]   
+push  >>  [ -, 1.0 ]   [ he, 1.0 ]   
 
-cook  >>  [ -, 1.0 ]   
+props  >>  [ to, 2.0 ]   
 
-cool  >>  [ -, 2.0 ]   [ hat, 1.0 ]   
+itself  >>  [ in, 1.0 ]   
 
-twisted  >>  [ money, 1.0 ]   
+anyone  >>  [ who, 1.0 ]   
 
-tired  >>  [ -, 1.0 ]   
+praying  >>  [ for, 1.0 ]   [ that, 1.0 ]   
 
-digging  >>  [ a, 1.0 ]   
+force  >>  [ another, 1.0 ]   [ one, 16.0 ]   [ in, 2.0 ]   [ vote, 1.0 ]   
 
-urinate  >>  [ in, 1.0 ]   
+favorite  >>  [ -, 2.0 ]   
 
-sighting  >>  [ cook, 1.0 ]   
+love  >>  [ but, 1.0 ]   [ will, 1.0 ]   [ it, 1.0 ]   [ sacrifice, 5.0 ]   [ my, 6.0 ]   [ and, 3.0 ]   [ going, 1.0 ]   [ alliteration, 2.0 ]   
 
-lead  >>  [ thank, 1.0 ]   [ has, 1.0 ]   [ lap, 3.0 ]   [ and, 1.0 ]   [ but, 1.0 ]   [ -, 5.0 ]   [ currently, 2.0 ]   
+flag  >>  [ has, 1.0 ]   
 
-help  >>  [ you, 2.0 ]   [ -, 3.0 ]   [ her, 1.0 ]   
+republican  >>  [ who, 1.0 ]   
 
-site  >>  [ -, 1.0 ]   
+forehead  >>  [ in, 2.0 ]   
 
-highlights  >>  [ for, 2.0 ]   
+foundation  >>  [ of, 1.0 ]   
 
-polluted  >>  [ -, 1.0 ]   
+our  >>  [ fight, 1.0 ]   [ best, 1.0 ]   [ string, 1.0 ]   [ initial, 1.0 ]   [ new, 1.0 ]   [ country, 2.0 ]   [ referred, 1.0 ]   [ present, 1.0 ]   [ past, 1.0 ]   
 
-toolactually  >>  [ i, 1.0 ]   
+out  >>  [ standing, 1.0 ]   [ it, 1.0 ]   [ of, 9.0 ]   [ mouthpiece, 2.0 ]   [ w, 1.0 ]   [ for, 2.0 ]   [ to, 1.0 ]   [ there, 1.0 ]   [ will, 1.0 ]   [ on, 1.0 ]   [ touchdown, 2.0 ]   [ here, 2.0 ]   
 
-tufted  >>  [ titmouse, 1.0 ]   
+nick  >>  [ dont, 3.0 ]   
 
-dress  >>  [ is, 1.0 ]   
+seeing  >>  [ his, 1.0 ]   [ go, 5.0 ]   
 
-draped  >>  [ in, 1.0 ]   
+fall  >>  [ to, 3.0 ]   
 
-sound  >>  [ advice, 2.0 ]   [ effects, 1.0 ]   [ almost, 1.0 ]   [ on, 1.0 ]   [ -, 1.0 ]   [ more, 1.0 ]   
+get  >>  [ will, 1.0 ]   [ with, 3.0 ]   [ up, 1.0 ]   [ key, 1.0 ]   [ that, 1.0 ]   [ this, 1.0 ]   
 
-should  >>  [ have, 3.0 ]   [ be, 4.0 ]   
+continues  >>  [ to, 1.0 ]   [ for, 1.0 ]   
 
-only  >>  [ half, 2.0 ]   [ one, 2.0 ]   [ movie, 1.0 ]   [ back, 2.0 ]   
+rushed  >>  [ for, 2.0 ]   
 
-plaid  >>  [ shirt, 1.0 ]   
+power  >>  [ -, 3.0 ]   
 
-hallmark  >>  [ leading, 1.0 ]   [ -, 2.0 ]   
+event  >>  [ -, 1.0 ]   
 
-proud  >>  [ day, 1.0 ]   [ of, 1.0 ]   
+regular  >>  [ season, 1.0 ]   
 
-like  >>  [ state, 1.0 ]   [ until, 1.0 ]   [ -, 4.0 ]   [ fire, 1.0 ]   [ that, 12.0 ]   [ hear, 1.0 ]   [ to, 4.0 ]   [ a, 12.0 ]   [ watching, 1.0 ]   [ he, 1.0 ]   [ chicken, 1.0 ]   [ do, 1.0 ]   [ the, 3.0 ]   [ wine, 1.0 ]   [ more, 1.0 ]   [ how, 1.0 ]   [ its, 1.0 ]   [ hello, 1.0 ]   [ while, 3.0 ]   [ off, 1.0 ]   
+snaps  >>  [ -, 1.0 ]   
 
-resource  >>  [ -, 1.0 ]   
+booing  >>  [ a, 2.0 ]   
 
-loans  >>  [ to, 1.0 ]   
+suspect  >>  [ taken, 1.0 ]   
 
-goes  >>  [ into, 1.0 ]   [ back, 1.0 ]   
+infuse  >>  [ some, 1.0 ]   
 
-ugly  >>  [ tacky, 1.0 ]   [ scary, 2.0 ]   
+nice  >>  [ -, 1.0 ]   [ release, 1.0 ]   
 
-sent  >>  [ to, 1.0 ]   
+lead  >>  [ scoring, 1.0 ]   
 
-cord  >>  [ crochet, 1.0 ]   
+stink  >>  [ until, 1.0 ]   
 
-ending  >>  [ to, 1.0 ]   
+help  >>  [ against, 1.0 ]   
 
-person  >>  [ at, 1.0 ]   
+massive  >>  [ arms, 1.0 ]   
 
-safe  >>  [ play, 1.0 ]   [ word, 1.0 ]   [ -, 1.0 ]   [ and, 1.0 ]   
+cannot  >>  [ block, 3.0 ]   
 
-ground  >>  [ is, 1.0 ]   [ control, 1.0 ]   [ observer, 2.0 ]   [ corps, 1.0 ]   
+runs  >>  [ for, 2.0 ]   
 
-dash  >>  [ pac, 2.0 ]   
+first  >>  [ round, 1.0 ]   [ pass, 1.0 ]   [ collegiate, 1.0 ]   [ down, 1.0 ]   [ sack, 2.0 ]   [ lady, 5.0 ]   [ speech, 1.0 ]   [ tour, 2.0 ]   [ half, 52.0 ]   [ play, 1.0 ]   [ career, 2.0 ]   [ -, 2.0 ]   [ 2goal, 2.0 ]   [ time, 1.0 ]   [ now, 2.0 ]   [ a, 3.0 ]   
 
-here  >>  [ we, 1.0 ]   [ -, 5.0 ]   [ seems, 1.0 ]   [ to, 1.0 ]   [ for, 2.0 ]   [ this, 1.0 ]   
+collegiate  >>  [ completion, 1.0 ]   
 
-note  >>  [ from, 1.0 ]   [ ice, 1.0 ]   
+draped  >>  [ coat, 1.0 ]   
 
-everybody  >>  [ take, 2.0 ]   
+perfect  >>  [ deflection, 1.0 ]   
 
-week  >>  [ grateful, 1.0 ]   [ makes, 4.0 ]   [ oclock, 1.0 ]   [ b, 1.0 ]   [ -, 3.0 ]   [ everyone, 1.0 ]   [ ends, 1.0 ]   
+own  >>  [ power, 3.0 ]   [ -, 3.0 ]   [ but, 1.0 ]   [ yard, 1.0 ]   [ home, 5.0 ]   
 
-purpose  >>  [ -, 2.0 ]   
+clearly  >>  [ in, 1.0 ]   
 
-line  >>  [ -, 1.0 ]   
+tight  >>  [ spiral, 1.0 ]   
 
-pickled  >>  [ -, 3.0 ]   
+tad  >>  [ wide, 2.0 ]   
 
-florence  >>  [ -, 1.0 ]   
+sacked  >>  [ again, 1.0 ]   [ -, 1.0 ]   [ by, 1.0 ]   [ hurts, 1.0 ]   
 
-tune  >>  [ in, 2.0 ]   
+should  >>  [ been, 1.0 ]   [ thank, 1.0 ]   [ have, 7.0 ]   [ i, 7.0 ]   [ serve, 1.0 ]   
 
-can  >>  [ be, 1.0 ]   [ you, 6.0 ]   [ we, 1.0 ]   [ camilizersrules, 1.0 ]   [ btsarmy, 1.0 ]   [ of, 1.0 ]   [ no, 1.0 ]   [ still, 3.0 ]   [ afford, 1.0 ]   [ sculpt, 1.0 ]   [ spin, 1.0 ]   [ help, 2.0 ]   [ almost, 3.0 ]   [ thelostwifeofrobertdurst, 1.0 ]   [ i, 1.0 ]   [ dan, 1.0 ]   [ for, 1.0 ]   [ take, 1.0 ]   
+only  >>  [ coming, 2.0 ]   [ michigan, 1.0 ]   [ way, 1.0 ]   [ made, 3.0 ]   
 
-security  >>  [ ago, 1.0 ]   
+welcoming  >>  [ president, 1.0 ]   
 
-award  >>  [ -, 1.0 ]   
+from  >>  [ after, 1.0 ]   [ him, 1.0 ]   [ even, 2.0 ]   [ southern, 1.0 ]   [ god, 4.0 ]   [ game, 1.0 ]   [ and, 3.0 ]   [ the, 12.0 ]   [ his, 1.0 ]   [ higdon, 2.0 ]   [ becoming, 1.0 ]   [ hurts, 2.0 ]   [ chicago, 1.0 ]   
 
-car  >>  [ insurance, 2.0 ]   [ just, 1.0 ]   [ -, 1.0 ]   [ again, 1.0 ]   [ ride, 2.0 ]   [ has, 1.0 ]   [ is, 2.0 ]   [ in, 1.0 ]   [ helluva, 1.0 ]   [ length, 1.0 ]   
+criminal  >>  [ very, 2.0 ]   
 
-ready  >>  [ to, 3.0 ]   [ for, 9.0 ]   [ -, 5.0 ]   [ everyone, 2.0 ]   [ do, 3.0 ]   
+tag  >>  [ -, 4.0 ]   
 
-cat  >>  [ cat, 1.0 ]   [ t, 1.0 ]   
+feud  >>  [ leads, 1.0 ]   [ tomorrow, 1.0 ]   
 
-hearts  >>  [ one, 3.0 ]   
+like  >>  [ most, 1.0 ]   [ will, 1.0 ]   [ him, 3.0 ]   [ has, 1.0 ]   [ never, 1.0 ]   [ this, 7.0 ]   [ -, 2.0 ]   [ he, 2.0 ]   [ key, 5.0 ]   [ a, 1.0 ]   
 
-said  >>  [ she, 1.0 ]   [ put, 1.0 ]   [ apt, 1.0 ]   [ -, 2.0 ]   [ over, 1.0 ]   
+goes  >>  [ straight, 1.0 ]   [ down, 3.0 ]   [ first, 2.0 ]   [ about, 1.0 ]   [ to, 5.0 ]   
 
-cost  >>  [ -, 2.0 ]   
+capture  >>  [ the, 1.0 ]   
 
-will  >>  [ get, 2.0 ]   [ always, 2.0 ]   [ turn, 1.0 ]   [ check, 1.0 ]   [ warm, 4.0 ]   [ have, 1.0 ]   
+rusher  >>  [ -, 1.0 ]   [ in, 1.0 ]   [ was, 1.0 ]   
 
-fault  >>  [ and, 3.0 ]   
+tax  >>  [ cut, 1.0 ]   
 
-follow  >>  [ the, 1.0 ]   
+published  >>  [ by, 1.0 ]   
 
-played  >>  [ on, 1.0 ]   [ its, 1.0 ]   [ hallmark, 2.0 ]   
+replay  >>  [ of, 4.0 ]   
 
-really  >>  [ am, 1.0 ]   [ mean, 1.0 ]   [ went, 1.0 ]   [ hard, 1.0 ]   
+person  >>  [ accused, 1.0 ]   
 
-daddy  >>  [ -, 1.0 ]   
+assaulted  >>  [ senator, 4.0 ]   [ at, 16.0 ]   [ rand, 2.0 ]   [ in, 2.0 ]   [ disagree, 1.0 ]   [ by, 4.0 ]   
 
-niallofficial  >>  [ -, 2.0 ]   
+boxing  >>  [ -, 13.0 ]   [ is, 2.0 ]   [ won, 1.0 ]   
 
-snap  >>  [ its, 1.0 ]   
+flung  >>  [ something, 2.0 ]   
+
+ground  >>  [ in, 2.0 ]   
+
+judges  >>  [ i, 1.0 ]   
+
+seems  >>  [ to, 16.0 ]   [ like, 1.0 ]   
+
+tossed  >>  [ his, 1.0 ]   
+
+here  >>  [ but, 1.0 ]   [ -, 1.0 ]   [ sure, 1.0 ]   [ in, 1.0 ]   [ causing, 2.0 ]   
+
+lackey  >>  [ to, 1.0 ]   
+
+week  >>  [ and, 2.0 ]   
+
+aint  >>  [ gon, 1.0 ]   
+
+arrival  >>  [ -, 16.0 ]   [ in, 1.0 ]   
+
+line  >>  [ leading, 1.0 ]   
+
+penalty  >>  [ pens, 4.0 ]   
+
+according  >>  [ to, 1.0 ]   
+
+recovery  >>  [ to, 1.0 ]   
+
+error  >>  [ the, 1.0 ]   
+
+network  >>  [ crew, 2.0 ]   [ halftime, 12.0 ]   [ show, 1.0 ]   
+
+terrorist  >>  [ assaulted, 4.0 ]   
+
+can  >>  [ see, 1.0 ]   [ they, 2.0 ]   [ illafford, 4.0 ]   [ throw, 1.0 ]   [ shed, 1.0 ]   [ we, 1.0 ]   [ console, 1.0 ]   [ offer, 1.0 ]   [ go, 6.0 ]   [ find, 1.0 ]   
+
+holding  >>  [ his, 1.0 ]   [ on, 3.0 ]   [ -, 1.0 ]   [ call, 2.0 ]   [ i, 1.0 ]   [ onto, 1.0 ]   [ by, 1.0 ]   [ called, 1.0 ]   
+
+walking  >>  [ out, 1.0 ]   [ off, 5.0 ]   [ straight, 1.0 ]   [ on, 2.0 ]   [ to, 2.0 ]   [ away, 1.0 ]   
+
+ready  >>  [ to, 7.0 ]   
+
+said  >>  [ it, 2.0 ]   
+
+player  >>  [ cry, 1.0 ]   [ in, 6.0 ]   [ since, 1.0 ]   
+
+greatest  >>  [ to, 1.0 ]   
+
+listening  >>  [ to, 1.0 ]   
+
+will  >>  [ pull, 1.0 ]   [ mcbride, 46.0 ]   [ mcbrides, 42.0 ]   [ the, 3.0 ]   [ mcbride—, 1.0 ]   [ make, 1.0 ]   [ texas, 1.0 ]   [ take, 1.0 ]   [ hear, 1.0 ]   [ be, 2.0 ]   [ mcbridewe, 1.0 ]   [ now, 2.0 ]   [ ask, 1.0 ]   
+
+verified  >>  [ helped, 1.0 ]   
+
+played  >>  [ three, 1.0 ]   [ great, 1.0 ]   
+
+rush  >>  [ longest, 1.0 ]   [ the, 1.0 ]   [ -, 1.0 ]   [ in, 2.0 ]   [ tonight, 1.0 ]   
+
+really  >>  [ one, 1.0 ]   [ good, 1.0 ]   
+
+fans  >>  [ seeing, 5.0 ]   
+
+round  >>  [ past, 1.0 ]   [ unanimous, 1.0 ]   [ won, 1.0 ]   [ after, 1.0 ]   [ thats, 1.0 ]   
+
+currently  >>  [ -, 1.0 ]   
+
+ambassador  >>  [ -, 1.0 ]   
+
+york  >>  [ times, 1.0 ]   
+
+edged  >>  [ it, 2.0 ]   
 

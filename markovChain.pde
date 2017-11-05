@@ -4,17 +4,13 @@ class markovChain
    // Data structure holding the actual MC mappings
    HashMap<String, ArrayList<augString>> mc;
    // Corpus using which the MC is generated
-   ArrayList<String> corpus;
-   // Order of the MC
-   //int order;
-   
+   ArrayList<String> corpus;  
    
    // Constructor
    markovChain(ArrayList<String> c)
    {
      mc = new HashMap<String, ArrayList<augString>>();
      corpus = c;
-     //order  = n;
    }
    
    HashMap<String, ArrayList<augString>> buildMarkov()
@@ -40,7 +36,6 @@ class markovChain
         {
            // Get the currrent value
            ArrayList<augString> value = mc.get(corpus.get(i));
-           for(augString s: value) print(s.word + ", ");
            // Add the connected word to the value
            int found = 0;
            for(int j=0; j<value.size(); j++)
@@ -65,6 +60,26 @@ class markovChain
       return mc;
    }
    
+   String getNext(String word)
+   {
+     String nextWord;
+     if(mc.get(word) == null) nextWord = "-"; // Entry not found in the Markov Chain
+     else
+     {
+        ArrayList<augString> value = mc.get(word);
+        augString next = new augString(" ", 0);
+        // Finding the highest frequency (most probable) follower
+        for(augString s: value)
+        {
+          if(s.freq > next.freq && s.word.equals("-") == false) next = s;
+        }
+        nextWord = next.word;
+     }
+     return nextWord;
+   }
+   
+   
+   
    void writeMarkovToFile(String fileName)
    {
      // Writes the Markov Chain for debugging purposes
@@ -82,6 +97,6 @@ class markovChain
      }
      outStream.flush();
      outStream.close();
-   }   
+   }
 }
  

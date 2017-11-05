@@ -61,6 +61,10 @@ void setup()
   HashMap<String, ArrayList<augString>> markovHash = mc.buildMarkov();
   println("Markov Chain Built!");
   mc.writeMarkovToFile("markov.txt");
+  // Getting a random next word
+  String s = mc.getNext("i");
+  println(s);
+  
     
   String[] haiku = generateHaiku(vocab);
   
