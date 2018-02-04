@@ -9,6 +9,8 @@ Twitter twitter;
 Query query;
 float[] location;
 markovChain mc;
+String seed;
+int istatus;
 
 void setup()
 {
@@ -18,6 +20,7 @@ void setup()
   smooth(12);
   frameRate(12);
   
+  
   // Set update interval in minutes
   updateInterval = 30;
   
@@ -25,51 +28,60 @@ void setup()
   vocab = new ArrayList<String>();
   
   // Setting the maximum vocabulary size
-  vocabLimit = 10000;
+  //vocabLimit = 10000;
   
-  // Constructing offline dictionary
+  // Constructing offline dictionary from system
   String[] dictWords = loadStrings("/usr/share/dict/web2");
   dict = new HashSet<String>(Arrays.asList(dictWords));
   
-  // Reading app credentials from file
-  String[] creds = loadStrings("credentials.txt");
+  // Mode: 0 - offline, 1 - online
+  istatus = 1;
   
-  // Current location (need to automate this !!!)
-  getLocation();
-  
-  // Configuring the credentials
-  ConfigurationBuilder cb = new ConfigurationBuilder();
-  cb.setOAuthConsumerKey(split(creds[0], ':')[1]);
-  cb.setOAuthConsumerSecret(split(creds[1], ':')[1]);
-  cb.setOAuthAccessToken(split(creds[2], ':')[1]);
-  cb.setOAuthAccessTokenSecret(split(creds[3], ':')[1]);
-  
-  // Building the twitter object using TwitterFactory
-  twitter = new TwitterFactory(cb.build()).getInstance();
-  
-  // Setting up query requirements
-  query = new Query();
-  query.setCount(100); // Limiting number of results
-  query.setLang("en"); // Limiting results to English
-  
-  // Update vocabulary with the set of queries
-  // Last argument is a flag: 0 - create, 1 - update
-  updateVocab();
+  if (istatus == 1)
+  {
+    // Reading app credentials from file for accessing Twitter data
+    String[] creds = loadStrings("credentials.txt");
+    
+    // Current location (based on ip)
+    getLocation();
+    
+    // Configuring the credentials
+    ConfigurationBuilder cb = new ConfigurationBuilder();
+    cb.setOAuthConsumerKey(split(creds[0], ':')[1]);
+    cb.setOAuthConsumerSecret(split(creds[1], ':')[1]);
+    cb.setOAuthAccessToken(split(creds[2], ':')[1]);
+    cb.setOAuthAccessTokenSecret(split(creds[3], ':')[1]);
+    
+    // Building the twitter object using TwitterFactory
+    twitter = new TwitterFactory(cb.build()).getInstance();
+    
+    // Setting up query requirements
+    query = new Query();
+    query.setCount(100); // Limiting number of results
+    query.setLang("en"); // Limiting results to English
+    
+    // Update vocabulary with the set of queries
+    // Last argument is a flag: 0 - create, 1 - update
+    updateVocab(0);
+  }
   
   // Building a Markov Chain from the initial state vocabulary
   mc = new markovChain(vocab);
   println("Markov Chain Initialized!");
   HashMap<String, ArrayList<augString>> markovHash = mc.buildMarkov();
   println("Markov Chain Built!");
+  mc.sortMarkov();
+  println("Markov Chain Sorted!");
   mc.writeMarkovToFile("markov.txt");
   // Getting a random next word
   //String s = mc.getNext("i");
   //println(s);
   
-    
-  String[] haiku = generateHaiku(mc, "the");
-  if(haiku == null) println("Seed not found in the Markov Chain! Use another seed.");
-  else printArray(haiku);
+  seed = "police";
+  println(seed);
+  //String[] haiku = generateHaiku(mc, "the");
+  //if(haiku == null) println("Seed not found in the Markov Chain! Use another seed.");
+  //else printArray(haiku);
   
 }
 
@@ -77,21 +89,32 @@ void draw()
 {
   pushStyle();
   noStroke();
-  fill(0, 30);
+  fill(0, 100);
   rect(0, 0, width, height);
   popStyle();
   
-  String start = "the";
-  String text = start + " ";
-  for(int i=0; i<15; i++)
+  //String start = "the";
+  //String text = start + " ";
+  
+  /*for(int i=0; i<15; i++)
   {
     String next = mc.getNext(start, 0);
     if(next.equals("-") == false) text = text + next + " ";
     else break;
     start = next;
-  }
+  }*/
+  String next = mc.getNext(seed, 1);
+  seed = next;
+  println(next);
   
-  text(text, width/8, random(height));
+  //noLoop();
+  
+  //String[] haiku = generateHaiku(mc, seed);
+  //for(int i=0; i<haiku.length; i++)
+  //{
+    //text(haiku[i], width/4, height/3 + i*50);
+  //}
+  //printArray(haiku);
   
   //if(frameCount == 10) noLoop();
   
@@ -120,8 +143,33 @@ float[] getLocation()
    String loc = json.getString("loc");
    location[0] = float(loc.split(",")[0]);
    location[1] = float(loc.split(",")[1]);
-   
    return location;
+}
+
+boolean checkWord(String word, String pos)
+{
+  // Check 1: Check if the word is a part of weblink
+  if(word.startsWith("https")) return false;
+  
+  // Check 2: Check if the word is a number
+  if(pos == "cd") return false;
+  
+  // Check 3: Check if the word is a valid noun
+  if((pos == "nn" || pos == "nns") && !dict.contains(word)) return false;
+ 
+  // If made it through all the checks above, then the string "word" is indeed a word.
+  return true; 
+}
+
+void updateVocab(int flag) // flag: 0 - create; 1 - update 
+{
+  // Finding query strings corresponding to trending topics
+  ArrayList<String> queryString = findTrendingTopic();
+  for(String qstr: queryString)
+  {
+    query.setQuery(qstr);
+    processQuery(flag);
+  }
 }
 
 ArrayList<String> findTrendingTopic()
@@ -150,17 +198,23 @@ ArrayList<String> findTrendingTopic()
   return trendingTopicNames;
 }
 
-void processQuery()
+void processQuery(int flag) // 0 - create mode, 1 - update mode
 {
   // Processing the query
   try
   {
     QueryResult result = twitter.search(query);
     ArrayList tweets = (ArrayList)result.getTweets();
+    //PrintWriter ostrm = createWriter("tweetData.txt");
+    
     for(int i=0; i<tweets.size(); i++)
     {
       Status t = (Status)tweets.get(i);
       String content = t.getText();
+      
+      // Dumping all the tweets into a text file
+      //ostrm.println(content);
+      
       content = content.toLowerCase();
       content = RiTa.stripPunctuation(content);
       RiString tweet = new RiString(content);
@@ -176,44 +230,22 @@ void processQuery()
          //vocab.add(tokens[j]);
          if(checkWord(tokens[j], pos[j]) == true) 
          {
-           // Over the limit - need to remove a part of the older vocabulary
-           if(vocab.size() > vocabLimit) reduceVocab(vocab.size() - vocabLimit, 10);
-           vocab.add(tokens[j]); 
+           // Constructing the first instance of vocabulary, no word limit imposed
+           if (flag != 0 && vocab.size() > vocabLimit) reduceVocab(vocab.size() - vocabLimit, 3);
+           vocab.add(tokens[j]);  
          }
       }
       vocab.add("-");
      }
+     
+     // Imposing a word limit on the vocabulary after construction
+     if(flag == 0) vocabLimit = vocab.size();
+     //ostrm.flush();
+     //ostrm.close();
    }
   catch(TwitterException twEx)
   {
     println("Couldn't process the search query: " + twEx);
-  }
-}
-
-boolean checkWord(String word, String pos)
-{
-  // Check 1: Check if the word is a part of weblink
-  if(word.startsWith("https")) return false;
-  
-  // Check 2: Check if the word is a number
-  if(pos == "cd") return false;
-  
-  // Check 3: Check if the word is a valid noun
-  if((pos == "nn" || pos == "nns") && !dict.contains(word)) return false;
- 
-  // If made it through all the checks above, then the string "word" is indeed a word.
-  return true; 
-}
-
-void updateVocab()
-{
-  // Finding query strings corresponding to trending topics
-  ArrayList<String> queryString = findTrendingTopic();
-  
-  for(String qstr: queryString)
-  {
-    query.setQuery(qstr);
-    processQuery();
   }
 }
 

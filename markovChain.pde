@@ -74,17 +74,63 @@ class markovChain
         else
         {
           // Finding the highest frequency (most probable) follower
-          for(augString s: value)
-          {
-            if(s.freq > next.freq && s.word.equals("-") == false) next = s;
-          }
+          //for(augString s: value)
+          //{
+            //if(s.freq > next.freq && s.word.equals("-") == false) next = s;
+          //}
+          //nextWord = next.word;
+          next = value.get(0);
           nextWord = next.word;
         }
      }
      return nextWord;
    }
    
-   
+   void sortMarkov()
+   {
+     for(Map.Entry entry : mc.entrySet())
+     {
+       String k = entry.getKey().toString();;
+       ArrayList<augString> value = mc.get(entry.getKey());
+       ArrayList<augString> sortedValue = new ArrayList<augString>();
+       String[] words = new String[value.size()];
+       float[] freqs = new float[value.size()];
+       
+       // Extracting the words and frequencies to sort
+       for(int i=0; i<value.size(); i++)
+       {
+         words[i] = value.get(i).word;
+         freqs[i] = value.get(i).freq;
+       }
+       
+       // Sorting the words according to frequency (using selection sort for now)
+       String tempstr; float tempfreq;
+       for(int i=0; i<value.size() - 1; i++)
+       {
+         for(int j=i+1; j<value.size(); j++)
+         {
+           if(freqs[j] > freqs[i])
+           {
+             // Swap
+             tempfreq = freqs[i];
+             freqs[i] = freqs[j];
+             freqs[j] = tempfreq;
+             
+             tempstr = words[i];
+             words[i] = words[j];
+             words[j] = tempstr;
+           }
+         }
+       }
+       
+       // Putting the sorted value back into the Markov Chain
+       for(int i=0; i<value.size(); i++)
+       {
+         sortedValue.add(new augString(words[i], freqs[i])); 
+       }
+       mc.put(k, sortedValue);
+     }
+   }
    
    void writeMarkovToFile(String fileName)
    {
