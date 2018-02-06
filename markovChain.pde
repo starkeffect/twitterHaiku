@@ -150,5 +150,30 @@ class markovChain
      outStream.flush();
      outStream.close();
    }
+   
+   void writeMarkovtoJSON(String fileName)
+   {
+    int i;
+    
+    // Creating the JSON object to hold the Markov Chain
+    processing.data.JSONObject mrkv = new processing.data.JSONObject();
+    
+    // Looping over the mc HashMap
+    for(Map.Entry entry : mc.entrySet())
+    {
+      processing.data.JSONArray values = new processing.data.JSONArray();
+      i = 0;
+      for(augString s: mc.get(entry.getKey()))
+      {
+        processing.data.JSONObject wfpair = new processing.data.JSONObject();
+        wfpair.setFloat(s.word, s.freq);
+        values.setJSONObject(i++, wfpair);
+      }
+      mrkv.setJSONArray(entry.getKey().toString(), values);
+    }
+    
+    // Writing JSON to file
+    saveJSONObject(mrkv, fileName);
+   }
 }
  

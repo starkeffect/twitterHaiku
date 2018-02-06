@@ -73,6 +73,7 @@ void setup()
   mc.sortMarkov();
   println("Markov Chain Sorted!");
   mc.writeMarkovToFile("markov.txt");
+  mc.writeMarkovtoJSON("markov.JSON");
   // Getting a random next word
   //String s = mc.getNext("i");
   //println(s);
