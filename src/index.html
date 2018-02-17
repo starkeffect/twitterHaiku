@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Markov Response Interactive</title>
+        <link rel="stylesheet" href="style.css">
+
+
+        <!-- <script type="text/javascript" src="dependencies.js"></script> -->
+        <script type="text/javascript" src="controller.js"></script>
+        <script type="text/javascript" src="message.js"></script>
+        <script type="text/javascript" src="markov.js"></script>
+
+    </head>
+    <body>
+
+        <div id="root">
+            <div class="col left active">
+                <div id="leftController" class="controller"></div>
+            </div>
+            <div class="col center">
+                <div id="messagePane"></div>
+                <!-- <div class="gradient-overlay"></div> -->
+            </div>
+            <div class="col right inactive">
+                <div id="rightController" class="controller"></div>
+            </div>
+        </div>
+
+        <!-- Run the program -->
+        <script type="text/javascript" src="main.js"></script>
+
+    </body>
+</html>
