@@ -72,8 +72,8 @@ void setup()
   println("Markov Chain Built!");
   mc.sortMarkov();
   println("Markov Chain Sorted!");
-  mc.writeMarkovToFile("markov.txt");
-  mc.writeMarkovtoJSON("markov.JSON");
+  mc.writeMarkovToFile("markov.txt", true);
+  mc.writeMarkovtoJSON("markov.JSON", true);
   // Getting a random next word
   //String s = mc.getNext("i");
   //println(s);
@@ -104,9 +104,12 @@ void draw()
     else break;
     start = next;
   }*/
-  String next = mc.getNext(seed, 1);
-  seed = next;
-  println(next);
+  String next = "";
+  //if(seed.equals("-") == true) next = mc.getNext(seed, 0);
+  //if(seed == null) seed = mc.getRandomSeed();
+  //else next = mc.getNext(seed, 1);
+  //seed = next;
+  //println(next);
   
   //noLoop();
   
@@ -156,7 +159,11 @@ boolean checkWord(String word, String pos)
   if(pos == "cd") return false;
   
   // Check 3: Check if the word is a valid noun
-  if((pos == "nn" || pos == "nns") && !dict.contains(word)) return false;
+  //if((pos == "nn" || pos == "nns") && !dict.contains(word)) return false;
+  if(!dict.contains(word)) return false;
+  
+  // Check 4: Check if the word is not a single letter
+  if(word.length() == 1 && word.equals("i") != true && word.equals("a") != true) return false;
  
   // If made it through all the checks above, then the string "word" is indeed a word.
   return true; 
@@ -236,7 +243,7 @@ void processQuery(int flag) // 0 - create mode, 1 - update mode
            vocab.add(tokens[j]);  
          }
       }
-      vocab.add("-");
+      vocab.add("/");
      }
      
      // Imposing a word limit on the vocabulary after construction

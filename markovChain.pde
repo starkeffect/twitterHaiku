@@ -18,43 +18,45 @@ class markovChain
       // Iterating over all the words in the most recent corpus
       for(int i=0; i<corpus.size()-1; i++)
       {
-        if(corpus.get(i) == "-") continue;
-        
-        // First occurence of the word; simply add it to the mc hashtable with frequency 1
-        if(mc.get(corpus.get(i)) == null)
-        {
-          ArrayList<augString> value = new ArrayList<augString>();
-          // Appending the object [word, frequency = 1] to the value object
-          augString word = new augString(corpus.get(i+1), 1);
-          value.add(word);
-          // Putting value into the mc Hashtable
-          mc.put(corpus.get(i), value);
-        }
-        
-        // Word is already present; update the value in the hashmap
+        if(corpus.get(i) == "/") continue;
         else
         {
-           // Get the currrent value
-           ArrayList<augString> value = mc.get(corpus.get(i));
-           // Add the connected word to the value
-           int found = 0;
-           for(int j=0; j<value.size(); j++)
-           {
-              if(value.get(j).word.equals(corpus.get(i+1)) ==  true)
-              {
-                 // If found in "value", update the frequency
-                 //println("old word found!!");
-                 //println(value.get(j).word + "  " + corpus.get(i+1));
-                 value.get(j).freq += 1;
-                 found = 1;
-                 break;
+          // First occurence of the word; simply add it to the mc hashtable with frequency 1
+          if(mc.get(corpus.get(i)) == null)
+          {
+            ArrayList<augString> value = new ArrayList<augString>();
+            // Appending the object [word, frequency = 1] to the value object
+            augString word = new augString(corpus.get(i+1), 1);
+            value.add(word);
+            // Putting value into the mc Hashtable
+            mc.put(corpus.get(i), value);
+          }
+          
+          // Word is already present; update the value in the hashmap
+          else
+          {
+             // Get the currrent value
+             ArrayList<augString> value = mc.get(corpus.get(i));
+             // Add the connected word to the value
+             int found = 0;
+             for(int j=0; j<value.size(); j++)
+             {
+                if(value.get(j).word.equals(corpus.get(i+1)) ==  true)
+                {
+                   // If found in "value", update the frequency
+                   //println("old word found!!");
+                   //println(value.get(j).word + "  " + corpus.get(i+1));
+                   value.get(j).freq += 1;
+                   found = 1;
+                   break;
+                }
               }
-            }
-           // If not found in value, add the connected word
-           if(found == 0) value.add(new augString(corpus.get(i+1), 1));
-           // Replacing the entry in the Markov Chain "mc"
-           mc.put(corpus.get(i), value);
-         }
+             // If not found in value, add the connected word
+             if(found == 0) value.add(new augString(corpus.get(i+1), 1));
+             // Replacing the entry in the Markov Chain "mc"
+             mc.put(corpus.get(i), value);
+           }
+        }
       }
       // Returning the constructed Markov Chain
       return mc;
@@ -64,7 +66,7 @@ class markovChain
    String getNext(String word, int mode)
    {
      String nextWord;
-     if(mc.get(word) == null) nextWord = "-"; // Entry not found in the Markov Chain
+     if(mc.get(word) == null) nextWord = null; // Entry not found in the Markov Chain
      else
      {
         ArrayList<augString> value = mc.get(word);
@@ -132,8 +134,9 @@ class markovChain
      }
    }
    
-   void writeMarkovToFile(String fileName)
+   void writeMarkovToFile(String fileName, boolean excludePeriods)
    {
+     // excludePeriods: 0 - no, 1 - yes
      // Writes the Markov Chain for debugging purposes
      PrintWriter outStream = createWriter(fileName);
      
@@ -143,7 +146,7 @@ class markovChain
        outStream.print(entry.getKey() + "  >>  ");
        for(augString s: mc.get(entry.getKey()))
        {
-         outStream.print("[ " + s.word + ", " + s.freq + " ]" + "   ");
+         if(s.word != "/" || (s.word == "/" && !excludePeriods)) outStream.print("[ " + s.word + ", " + s.freq + " ]" + "   ");
        }
        outStream.print("\n\n");
      }
@@ -151,8 +154,9 @@ class markovChain
      outStream.close();
    }
    
-   void writeMarkovtoJSON(String fileName)
+   void writeMarkovtoJSON(String fileName, boolean excludePeriods)
    {
+    // excludePeriods: 0 - no, 1 - yes
     int i;
     
     // Creating the JSON object to hold the Markov Chain
@@ -161,19 +165,31 @@ class markovChain
     // Looping over the mc HashMap
     for(Map.Entry entry : mc.entrySet())
     {
-      processing.data.JSONArray values = new processing.data.JSONArray();
+      //processing.data.JSONArray values = new processing.data.JSONArray();
+      processing.data.JSONObject values = new processing.data.JSONObject();
       i = 0;
       for(augString s: mc.get(entry.getKey()))
       {
-        processing.data.JSONObject wfpair = new processing.data.JSONObject();
-        wfpair.setFloat(s.word, s.freq);
-        values.setJSONObject(i++, wfpair);
+        if(s.word != "/" || (s.word == "/" && !excludePeriods))
+        {
+          processing.data.JSONObject wfpair = new processing.data.JSONObject();
+          wfpair.setFloat(s.word, s.freq);
+          //values.setJSONObject(i++, wfpair);
+          values.setFloat(s.word, s.freq);
+        }
       }
-      mrkv.setJSONArray(entry.getKey().toString(), values);
+      //mrkv.setJSONArray(entry.getKey().toString(), values);
+      mrkv.setJSONObject(entry.getKey().toString(), values);
     }
     
     // Writing JSON to file
     saveJSONObject(mrkv, fileName);
+   }
+   
+   String getRandomSeed()
+   {
+     Object[] entries =  mc.keySet().toArray();
+     return entries[int(random(entries.length))].toString();
    }
 }
  
