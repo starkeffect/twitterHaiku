@@ -70,7 +70,7 @@ class markovChain
      else
      {
         ArrayList<augString> value = mc.get(word);
-        augString next = new augString(" ", 0);
+        augString next = new augString("", 0);
         
         if(mode == 0) nextWord = value.get(int(random(0, value.size() - 1))).word;
         else
@@ -106,7 +106,7 @@ class markovChain
        }
        
        // Sorting the words according to frequency (using selection sort for now)
-       String tempstr; float tempfreq;
+       String tempstr, temppos; float tempfreq;
        for(int i=0; i<value.size() - 1; i++)
        {
          for(int j=i+1; j<value.size(); j++)
@@ -120,7 +120,7 @@ class markovChain
              
              tempstr = words[i];
              words[i] = words[j];
-             words[j] = tempstr;
+             words[j] = tempstr;  
            }
          }
        }
@@ -143,7 +143,11 @@ class markovChain
      // Looping over the mc HashMap
      for(Map.Entry entry : mc.entrySet())
      {
-       outStream.print(entry.getKey() + "  >>  ");
+       // Getting POS associated with key
+       RiString keystr = new RiString(entry.getKey().toString());
+       String pos = keystr.pos()[0];
+       
+       outStream.print("[ " + entry.getKey() + ", " + pos +" ]" + "  >>  ");
        for(augString s: mc.get(entry.getKey()))
        {
          if(s.word != "/" || (s.word == "/" && !excludePeriods)) outStream.print("[ " + s.word + ", " + s.freq + " ]" + "   ");
@@ -157,29 +161,38 @@ class markovChain
    void writeMarkovtoJSON(String fileName, boolean excludePeriods)
    {
     // excludePeriods: 0 - no, 1 - yes
-    int i;
-    
+
     // Creating the JSON object to hold the Markov Chain
     processing.data.JSONObject mrkv = new processing.data.JSONObject();
     
     // Looping over the mc HashMap
     for(Map.Entry entry : mc.entrySet())
     {
+      // Getting POS associated with key
+      RiString keystr = new RiString(entry.getKey().toString());
+      String pos_ = keystr.pos()[0];
+      
       //processing.data.JSONArray values = new processing.data.JSONArray();
-      processing.data.JSONObject values = new processing.data.JSONObject();
-      i = 0;
+      processing.data.JSONObject words = new processing.data.JSONObject();
+      
       for(augString s: mc.get(entry.getKey()))
       {
         if(s.word != "/" || (s.word == "/" && !excludePeriods))
         {
-          processing.data.JSONObject wfpair = new processing.data.JSONObject();
-          wfpair.setFloat(s.word, s.freq);
+          //processing.data.JSONObject wfpair = new processing.data.JSONObject();
+          //wfpair.setFloat(s.word, s.freq);
           //values.setJSONObject(i++, wfpair);
-          values.setFloat(s.word, s.freq);
+          words.setFloat(s.word, s.freq);
         }
       }
       //mrkv.setJSONArray(entry.getKey().toString(), values);
-      mrkv.setJSONObject(entry.getKey().toString(), values);
+      //mrkv.setJSONObject(entry.getKey().toString(), values);
+      
+      // Holds the data attached to be attached to the key
+      processing.data.JSONObject value = new processing.data.JSONObject();
+      value.setJSONObject("cw", words);
+      value.setString("pos", pos_);
+      mrkv.setJSONObject(entry.getKey().toString(), value);
     }
     
     // Writing JSON to file
